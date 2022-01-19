@@ -11,9 +11,9 @@
 - 👨‍💻 All of my
 
 
-projects are available at **[My Portfolio](https://subhamraoniar.com)** 
+<!-- projects are available at **[My Portfolio](https://subhamraoniar.com)** 
 - 📫 How to reach me **subham.raoniar@gmail.com** 
-- ⚡ Fun fact **I play games and go to the GYM very often.** 
+- ⚡ Fun fact **I play games and go to the GYM very often.**  -->
 
 
 ## 🚀 Languages and Tools:
