@@ -74,4 +74,4 @@ projects are available at **[My Portfolio](https://subhamraoniar.com)**
 ## ❤ Views and Followers
 
 <a href="https://github.com/pawan941394?tab=followers"><img src="https://img.shields.io/github/followers/pawan941394?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://www.instagram.com/pawan941394?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://www.instagram.com/pawan941394?tab=following"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
