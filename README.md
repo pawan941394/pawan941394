@@ -11,11 +11,11 @@
 - 👨‍💻 All of my
 
 
-<!-- projects are available at **[My Portfolio](https://subhamraoniar.com)** 
+projects are available at **[My Portfolio](https://subhamraoniar.com)** 
 - 📫 How to reach me **subham.raoniar@gmail.com** 
 - ⚡ Fun fact **I play games and go to the GYM very often.**  -->
 
-
+<!--
 ## 🚀 Languages and Tools:
 
 <p align="left">
@@ -36,7 +36,7 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48" /> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
-</p> -->
+</p>
 
 
 <br/>
@@ -50,7 +50,7 @@
 
 <br/>
 
-
+-->
 <br/>
 <br/> ## Connect with me:
 <p align="left">
