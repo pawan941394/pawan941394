@@ -52,7 +52,7 @@ projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 -->
 <br/>
-<br/> ## Connect with me:
+<br/>  Connect with me:
 <p align="left">
 
  <a href="https://www.linkedin.com/in/pawan941394/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
