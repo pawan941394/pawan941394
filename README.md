@@ -60,7 +60,3 @@ projects are available at **[My Portfolio](https://subhamraoniar.com)**
  <a href="https://www.instagram.com/pawan941394/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 
 </p>
-
-
-
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /> <a class="-nal3 " href="https://www.instagram.com/pawan941394/followers/" tabindex="0"><span class="g47SY " title="182">182</span> followers</a>-->
