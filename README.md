@@ -63,7 +63,4 @@ projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 
 
-<a href="https://github.com/pawan941394?tab=followers"><img src="https://img.shields.io/github/followers/pawan941394?label=Followers&style=social" alt="GitHub Badge"></a>
-<!-- <a href="https://www.instagram.com/pawan941394/followers/"><img src="https://img.shields.io/instagram/followers/pawan941394?label=Followers&style=social" alt="GitHub Badge"></a> 
-
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /> <a class="-nal3 " href="https://www.instagram.com/pawan941394/followers/" tabindex="0"><span class="g47SY " title="182">182</span> followers</a>-->
