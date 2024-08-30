@@ -8,7 +8,7 @@
 
 
 
- <a href="https://share.streamlit.io/user/pawan941394"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarccodess.medium.com%2Fintroduction-to-streamlit-building-interactive-web-apps-using-python-62c250ba858d&psig=AOvVaw28A92Hm3Kl3kwBq1z0I5X_&ust=1725111034579000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCassXpnIgDFQAAAAAdAAAAABAJ](https://miro.medium.com/v2/resize:fit:828/format:webp/0*j8sJVfiGI2NF4EZP.png" /></a>
+ <a href="https://share.streamlit.io/user/pawan941394"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" /></a>
 
 
 </p>
