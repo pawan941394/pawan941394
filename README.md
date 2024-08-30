@@ -8,7 +8,7 @@
 
 
 
- <a href="https://share.streamlit.io/user/pawan941394"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=50 height=50 /></a>
+ <a href="https://share.streamlit.io/user/pawan941394"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=200 height=200 /></a>
 
 
 </p>
