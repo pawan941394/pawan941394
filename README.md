@@ -3,13 +3,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pawan kumar</h1>
 <h3 align="center">Data Science Enthusiast | Python developer | Web developer | AI Enthusiast | Data Analyst.</h3>
 
-<br/>  Gen AI (LLM Project)
+<br/> 
+
+
 <p align="center" style="margin: auto;
     justify-content: center;
     align-items: center;
     display: flex;>
 
-
+Gen AI (LLM Project)
 
  <a align="center" href="https://share.streamlit.io/user/pawan941394"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=200 height=200 /></a>
 
