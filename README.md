@@ -5,9 +5,7 @@
 
 <br/> 
 
-<p style="display: flex;
-    margin: auto;
-    justify-content: center;">Gen AI (LLM Project)</p>
+<h1 align="center">Gen AI (LLM Project)</h1>
     <br/> 
 <p align="center" style="margin: auto;
     justify-content: center;
