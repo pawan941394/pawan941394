@@ -4,7 +4,10 @@
 <h3 align="center">Data Science Enthusiast | Python developer | Web developer | AI Enthusiast | Data Analyst.</h3>
 
 <br/>  Gen AI (LLM Project)
-<p align="center">
+<p align="center" style="margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;>
 
 
 
