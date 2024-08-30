@@ -5,13 +5,16 @@
 
 <br/> 
 
-
+<p style="margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;>Gen AI (LLM Project)</p>
 <p align="center" style="margin: auto;
     justify-content: center;
     align-items: center;
     display: flex;>
 
-Gen AI (LLM Project)
+
 
  <a align="center" href="https://share.streamlit.io/user/pawan941394"><img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=200 height=200 /></a>
 
