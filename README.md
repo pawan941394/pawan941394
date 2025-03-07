@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Machine+Learning+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
+<!-- Added auto-playing animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
