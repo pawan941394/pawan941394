@@ -129,34 +129,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="500">
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="Projects animation">
-</div>
-
-### Talk to Your Database With LLM Integration
-- Engineered LLM-powered interface for SQL databases, enhancing query efficiency by 40%
-- Integrated FAISS and Google PaLM for semantic search, handling 5,000+ queries daily
-- **Tools:** Python, FAISS, Google PaLM, LangChain, LLM, Generative AI, SQL, Streamlit
-
-### NSE Option Chain with Gen AI Integration
-- Constructed a platform integrating NSE Option Chain data with Generative AI
-- Implemented a PCR scanner to automate analysis, reducing processing time by 90%
-- **Tools:** Python, Gen AI, Google Gemini, SQL, NSE Data API, Streamlit, Pandas, NumPy
-
-### Backtesting 'Bank Nifty Weekly Expiry' Option Strategy
-- Established backtesting framework using six years of historical data
-- **Tools:** Python, Pandas, Trading View, Excel, Risk Management
-
-### Equity Algorithm Strategy No-Code Platform
-- Launched a no-code equity trading platform, reducing trade execution time by 40%
-- **Tools:** Python, Django, SQL, Pandas, Fyer's API, Azure, AWS, MongoDB, Automation
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/workspace.gif" width="500" alt="Workspace animation">
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
