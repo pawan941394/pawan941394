@@ -102,16 +102,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JS">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Python">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt=": MongoDB">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Discord">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-eee8-4aad-8390-5d287c5aee93.gif" width="100" alt="AWS">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="Git">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/analytics.gif" width="100" alt="Analytics">
-</div>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,django,js,html,css,react,aws,azure,tensorflow,git&perline=8" />
 </div>
 
@@ -123,11 +113,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 - **Development:** Django, Streamlit, HTML, CSS, JavaScript, FastAPI, Hyperstack
 - **Trading:** Algo Trading, Tradetron, Trading View, Backtrader, Multi-processing Backtesting
 - **Blockchain:** Ethereum, MetaMask, Smart Contracts
-
-<div align="center">
-  <!-- Replace the GIF with a transparent version -->
-  <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="500">
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="GitHub Stats" />
