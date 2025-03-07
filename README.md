@@ -103,7 +103,8 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 - **Blockchain:** Ethereum, MetaMask, Smart Contracts
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <!-- Replace the GIF with a transparent version -->
+  <img src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" alt="Coder GIF" width="500">
 </div>
 
 ## 🚀 Featured Projects
