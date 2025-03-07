@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <!-- Added auto-playing animation -->
@@ -105,14 +105,44 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://skillicons.dev/icons?i=python,sql,django,js,html,css,react,aws,azure,tensorflow,git&perline=8" />
 </div>
 
-### Skills
-- **Data Science & Analysis:** NumPy, Pandas, Statistics, Backtesting, Option Strategies
-- **Data Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn
-- **ML & AI:** LangChain, FAISS, Google PaLM, Gemini, Llama, Generative AI, RAG, VLLM, Ollama
-- **Cloud & APIs:** Azure, AWS, Kite API, Fyers API, Alpaca API, Run Pod, Koyeb
-- **Development:** Django, Streamlit, HTML, CSS, JavaScript, FastAPI, Hyperstack
-- **Trading:** Algo Trading, Tradetron, Trading View, Backtrader, Multi-processing Backtesting
-- **Blockchain:** Ethereum, MetaMask, Smart Contracts
+### 🛠️ Skills & Technologies
+
+<table>
+  <tr>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
+      <h3 style="color:#ff6b6b;">Data Science & Analysis</h3>
+      <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
+    </td>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
+      <h3 style="color:#4ecdc4;">Data Visualization</h3>
+      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn</div>
+    </td>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
+      <h3 style="color:#f9c74f;">ML & AI</h3>
+      <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Cloud & APIs"><br>
+      <h3 style="color:#90be6d;">Cloud & APIs</h3>
+      <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
+    </td>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #5f0f40, #310821); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Development"><br>
+      <h3 style="color:#48bfe3;">Development</h3>
+      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
+    </td>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
+      <img width="50" src="https://user-images.githubusercontent.com/74038190/212743382-efc3e324-9b33-4a91-b7ba-b51563799f6e.png" width="50" alt="Trading & Blockchain"><br>
+      <h3 style="color:#fb8500;">Trading & Blockchain</h3>
+      <div>Algo Trading • Tradetron • Trading View<br>Backtrader • Ethereum • MetaMask<br>Smart Contracts</div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="GitHub Stats" />
