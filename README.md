@@ -47,24 +47,89 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200" alt="Experience animation">
 </div>
 
-**FinSocial Digital Systems** | *AI Engineer* | Oct 2024 - Present
-- Enabling Trading With Artificial Intelligence
-- Building RAG-powered trading systems with multi-processing backtesting
-- Developing blockchain integrations for trading platforms using Ethereum and MetaMask
-- Implementing serverless architectures with AWS, Koyeb, and Run Pod
+<div class="timeline">
+  <div class="experience-card">
+    <h3>🚀 FinSocial Digital Systems</h3>
+    <p><em>AI Engineer | Oct 2024 - Present</em></p>
+    <ul>
+      <li>🤖 Enabling Trading With Artificial Intelligence</li>
+      <li>🔮 Building RAG-powered trading systems with multi-processing backtesting</li>
+      <li>⛓️ Developing blockchain integrations for trading platforms using Ethereum and MetaMask</li>
+      <li>☁️ Implementing serverless architectures with AWS, Koyeb, and Run Pod</li>
+    </ul>
+  </div>
 
-**BytEquity** | *Data Analyst* | Sep 2023 - Present
-- Implemented 8 automated trading strategies on Fyers, Kite, and MT5
-- Designed no-code platforms for marketing automation
-- Led team of 3 and managed client relations with quantitative analysis
+  <div class="experience-card">
+    <h3>📊 BytEquity</h3>
+    <p><em>Data Analyst | Sep 2023 - Present</em></p>
+    <ul>
+      <li>📈 Implemented 8 automated trading strategies on Fyers, Kite, and MT5</li>
+      <li>🛠️ Designed no-code platforms for marketing automation</li>
+      <li>👥 Led team of 3 and managed client relations with quantitative analysis</li>
+    </ul>
+  </div>
 
-**Orga Plants** | *Python Developer Intern* | Apr 2022 - Oct 2022
-- Optimized data handling with web scraping for user payments and orders
-- Developed UI and backend with Django, reducing page load times by 30%
+  <div class="experience-card">
+    <h3>🌿 Orga Plants</h3>
+    <p><em>Python Developer Intern | Apr 2022 - Oct 2022</em></p>
+    <ul>
+      <li>🕸️ Optimized data handling with web scraping for user payments and orders</li>
+      <li>🔄 Developed UI and backend with Django, reducing page load times by 30%</li>
+    </ul>
+  </div>
 
-**Care Team Private Limited** | *Python Developer Intern* | Jan 2022 - Mar 2022
-- Built an online certificate generator managing 10k+ user records
-- Reduced manual processing time by 70%
+  <div class="experience-card">
+    <h3>🏥 Care Team Private Limited</h3>
+    <p><em>Python Developer Intern | Jan 2022 - Mar 2022</em></p>
+    <ul>
+      <li>🎓 Built an online certificate generator managing 10k+ user records</li>
+      <li>⚡ Reduced manual processing time by 70%</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.experience-card {
+  padding: 20px 30px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 10px;
+  border-left: 4px solid #ff4b4b;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+  border-left: 4px solid #00d9ff;
+}
+
+.experience-card h3 {
+  color: #ff4b4b;
+  margin-bottom: 8px;
+}
+
+.experience-card p {
+  color: #a3a3a3;
+  margin-bottom: 12px;
+}
+
+.experience-card ul {
+  list-style-type: none;
+}
+
+.experience-card li {
+  margin-bottom: 8px;
+  line-height: 1.6;
+}
+</style>
 
 ## 🎓 Education & Certifications
 
