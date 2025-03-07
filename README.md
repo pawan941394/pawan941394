@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <!-- Added auto-playing animation -->
@@ -107,7 +107,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ### 🛠️ Skills & Technologies
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
       <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
@@ -127,7 +127,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </tr>
   <tr>
     <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Cloud & APIs"><br>
+      <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="Cloud & APIs"><br>
       <h3 style="color:#90be6d;">Cloud & APIs</h3>
       <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
     </td>
@@ -137,7 +137,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
       <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
     </td>
     <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
-      <img width="50" src="https://user-images.githubusercontent.com/74038190/212743382-efc3e324-9b33-4a91-b7ba-b51563799f6e.png" width="50" alt="Trading & Blockchain"><br>
+      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Trading & Blockchain"><br>
       <h3 style="color:#fb8500;">Trading & Blockchain</h3>
       <div>Algo Trading • Tradetron • Trading View<br>Backtrader • Ethereum • MetaMask<br>Smart Contracts</div>
     </td>
