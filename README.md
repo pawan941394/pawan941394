@@ -106,13 +106,75 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 </div>
 
 ### Skills
-- **Data Science & Analysis:** NumPy, Pandas, Statistics, Backtesting, Option Strategies
-- **Data Visualization:** Power BI, Tableau, Excel, Matplotlib, Seaborn
-- **ML & AI:** LangChain, FAISS, Google PaLM, Gemini, Llama, Generative AI, RAG, VLLM, Ollama
-- **Cloud & APIs:** Azure, AWS, Kite API, Fyers API, Alpaca API, Run Pod, Koyeb
-- **Development:** Django, Streamlit, HTML, CSS, JavaScript, FastAPI, Hyperstack
-- **Trading:** Algo Trading, Tradetron, Trading View, Backtrader, Multi-processing Backtesting
-- **Blockchain:** Ethereum, MetaMask, Smart Contracts
+
+<div style="margin: 20px 0;">
+  <h4>Data Science & Analysis:</h4>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+    <img src="https://img.icons8.com/color/48/000000/statistics.png" width="40" height="40" alt="Statistics"/>
+    <img src="https://img.icons8.com/color/48/000000/combo-chart--v2.png" width="40" height="40" alt="Backtesting"/>
+    <img src="https://img.icons8.com/color/48/000000/financial.png" width="40" height="40" alt="Option Strategies"/>
+  </p>
+  
+  <h4>Data Visualization:</h4>
+  <p align="center">
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" height="40" alt="Power BI"/>
+    <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="40" height="40" alt="Tableau"/>
+    <img src="https://img.icons8.com/color/48/000000/ms-excel.png" width="40" height="40" alt="Excel"/>
+    <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="40" alt="Matplotlib"/>
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn"/>
+  </p>
+  
+  <h4>ML & AI:</h4>
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
+    <img src="https://raw.githubusercontent.com/facebookresearch/faiss/master/.github/faiss-logo-512px.png" height="40" alt="FAISS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/512px-Google_Apps_Script.svg.png" width="40" height="40" alt="Google PaLM"/>
+    <img src="https://seeklogo.com/images/G/google-gemini-logo-A5359368E6-seeklogo.com.png" width="40" height="40" alt="Gemini"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Meta-Logo.png/600px-Meta-Logo.png" height="40" alt="Llama"/>
+    <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40" height="40" alt="Generative AI"/>
+    <img src="https://ollama.com/public/ollama.png" height="40" alt="Ollama"/>
+  </p>
+  
+  <h4>Cloud & APIs:</h4>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+    <img src="https://kite.trade/img/logo.svg" height="40" alt="Kite API"/>
+    <img src="https://fyers.in/wp-content/uploads/2023/08/Fyers-Logo-01.png" height="40" alt="Fyers API"/>
+    <img src="https://avatars.githubusercontent.com/u/22502449?s=200&v=4" height="40" alt="Alpaca API"/>
+    <img src="https://runpod.io/assets/main/logo.svg" height="40" alt="Run Pod"/>
+    <img src="https://www.koyeb.com/static/images/logo.svg" height="40" alt="Koyeb"/>
+  </p>
+  
+  <h4>Development:</h4>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="Streamlit"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI"/>
+    <img src="https://hyperstack.org/hslogo.svg" height="40" alt="Hyperstack"/>
+  </p>
+  
+  <h4>Trading:</h4>
+  <p align="center">
+    <img src="https://img.icons8.com/external-others-iconmarket/64/000000/external-algorithm-data-science-others-iconmarket.png" width="40" height="40" alt="Algo Trading"/>
+    <img src="https://tradetron.tech/img/main-new-logo.svg" height="40" alt="Tradetron"/>
+    <img src="https://static.tradingview.com/static/images/logo-preview.png" height="40" alt="Trading View"/>
+    <img src="https://www.backtrader.com/static/images/development/backtrader-crop.png" height="40" alt="Backtrader"/>
+    <img src="https://img.icons8.com/color/48/000000/parallel-tasks.png" width="40" height="40" alt="Multi-processing Backtesting"/>
+  </p>
+  
+  <h4>Blockchain:</h4>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="40" height="40" alt="Ethereum"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg" height="40" alt="MetaMask"/>
+    <img src="https://img.icons8.com/fluency/48/000000/smart-contract.png" width="40" height="40" alt="Smart Contracts"/>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="GitHub Stats" />
