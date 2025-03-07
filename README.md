@@ -7,8 +7,18 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
+<!-- Adding style to ensure all GIFs autoplay smoothly -->
+<style>
+  img[src$=".gif"] {
+    display: block;
+    aspect-ratio: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  }
+</style>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation">
 </p>
 
 # 👨‍💻 Pawan Kumar
@@ -25,7 +35,7 @@
 </p>
 
 ## 🚀 About Me
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Tech animation">
 
 I'm a passionate developer focused on creating innovative solutions through code. My expertise spans across:
 
@@ -68,8 +78,15 @@ I love building tools that leverage AI to solve real-world problems and creating
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Code animation">
 </p>
+
+<!-- Adding more auto-running animations -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech stack animation">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=blueviolet" alt="Profile views"/>
