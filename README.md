@@ -246,6 +246,4 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/holographic-computer.gif" width="600" alt="Holographic computer">
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=blueviolet" alt="Profile views"/>
-</div>
+
