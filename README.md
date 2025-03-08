@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=21">
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=blueviolet" alt="Profile views"/>
+</div>
 <!-- Added auto-playing animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
