@@ -202,27 +202,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
       </div>
     </div>
   </div>
-  
-  <div style="flex: 1; min-width: 300px; background: linear-gradient(45deg, #0b8793, #360033); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-        <h1 style="color: #ffffff; font-size: 30px;">🔬</h1>
-      </div>
-      <div>
-        <h3 style="color: #ffffff; margin: 0;">Master's in Data Science and AI</h3>
-        <p style="color: #f1f1f1; font-style: italic; margin: 5px 0;">LearnBay</p>
-        <div style="background: rgba(255, 255, 255, 0.15); padding: 3px 10px; border-radius: 12px; display: inline-block;">
-          <p style="color: #ffffff; margin: 0; font-size: 14px;">2023-2024</p>
-        </div>
-      </div>
-    </div>
-    <div style="border-left: 2px solid rgba(255, 255, 255, 0.5); padding-left: 15px; margin-left: 30px;">
-      <p style="color: #f1f1f1;">Advanced study of machine learning algorithms, neural networks, and AI applications in real-world scenarios.</p>
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 10px; margin-top: 10px;">
-        <p style="color: #ffffff; margin: 0;"><strong>Key Skills:</strong> Deep Learning, NLP, Computer Vision, Reinforcement Learning</p>
-      </div>
-    </div>
-  </div>
 </div>
 
 <div style="margin: 30px 0;">
@@ -245,7 +224,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Datacamp.svg" width="40" height="40" alt="DataCamp"><br>
+        <img src="https://cdn.worldvectorlogo.com/logos/datacamp-1.svg" width="40" height="40" alt="DataCamp"><br>
         <strong>Associate Data Analyst</strong><br>
         <span>DataCamp</span><br>
         <sub>Data manipulation, visualization & analysis</sub>
@@ -261,6 +240,12 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
         <strong>Advanced ML Engineering</strong><br>
         <span>Specialized Training</span><br>
         <sub>Deploying ML systems at scale</sub>
+      </td>
+      <td align="center">
+        <img src="https://media.licdn.com/dms/image/C560BAQFAVLoL6j71Kg/company-logo_200_200/0/1670302345227?e=2147483647&v=beta&t=IlY4wVFpTJFzg8IG4UZ9IRxAXXANBzqZ_-TQOLiVqwU" width="40" height="40" alt="LearnBay"><br>
+        <strong>Master's in Data Science and AI</strong><br>
+        <span>LearnBay</span><br>
+        <sub>Advanced ML, NLP, Computer Vision</sub>
       </td>
     </tr>
   </table>
