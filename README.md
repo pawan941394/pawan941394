@@ -212,42 +212,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
-### 📫 Connect With Me
-
-
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-<div align="center">
-  <a href="mailto:pawankumarwork9413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pawan941394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Code animation">
-</p>
-
-<!-- Adding more auto-running animations -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech stack animation">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
-</div>
-
-<!-- Added this cool matrix animation -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/cyberpunk-neon.gif" width="600" alt="Matrix animation">
-</div>
-
-<!-- Adding 3D animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744843-9317103f-441a-45e2-ae32-041df4463ece.gif" width="600" alt="3D Developer animation">
-</div>
-
-<!-- Adding holographic effect -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/holographic-computer.gif" width="600" alt="Holographic computer">
-</div>
-
 
 
 ### 🛠️ Tools & Development Environment
