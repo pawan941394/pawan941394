@@ -47,7 +47,7 @@ Data Science & AI professional with expertise in algorithmic trading, LLM integr
 Currently working at FinSocial Digital Systems as an AI Engineer, implementing cutting-edge AI solutions for trading platforms.
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/community%20logo.gif" width="500" alt="Community animation">
+
 </div>
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
