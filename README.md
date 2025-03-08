@@ -102,11 +102,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="Pawan's GitHub stats" />
-
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&row=1" alt="GitHub Trophies" />
 </div>
 
