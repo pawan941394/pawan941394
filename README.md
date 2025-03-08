@@ -43,11 +43,8 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ## 💼 Experience
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200" alt="Experience animation">
-</div>
 
-<table>
+<table align="center">
   <tr>
     <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
       <h3 style="color: #ff4b4b; margin-bottom: 8px;">🚀 FinSocial Digital Systems</h3>
