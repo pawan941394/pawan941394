@@ -277,18 +277,18 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <table width="100%" align="center">
   <tr>
-    <td align="center"  style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
+      <img width="100" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
       <h3 style="color:#ff6b6b;">Data Science & Analysis</h3>
       <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
     </td>
-    <td align="center"  style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
+      <img width="100" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
       <h3 style="color:#4ecdc4;">Data Visualization</h3>
       <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn</div>
     </td>
-    <td align="center"  style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
+      <img width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
       <h3 style="color:#f9c74f;">ML & AI</h3>
       <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
     </td>
