@@ -41,6 +41,53 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/community%20logo.gif" width="500" alt="Community animation">
 </div>
 
+
+### 🛠️ Skills & Technologies
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
+      <h3 style="color:#ff6b6b;">Data Science & Analysis</h3>
+      <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
+    </td>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
+      <h3 style="color:#4ecdc4;">Data Visualization</h3>
+      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn</div>
+    </td>
+    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
+      <h3 style="color:#f9c74f;">ML & AI</h3>
+      <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
+      <img width="70" src="https://rhisac.org/wp-content/uploads/Application-Security-Challenges-Caused-by-Cloud-APIs-1024x1024.jpg" alt="Cloud & APIs"><br>
+      <h3 style="color:#90be6d;">Cloud & APIs</h3>
+      <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
+    </td>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #5f0f40, #310821); padding:10px;">
+      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Development"><br>
+      <h3 style="color:#48bfe3;">Development</h3>
+      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
+    </td>
+    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
+      <img width="70" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
+      <h3 style="color:#fb8500;">Trading & Blockchain</h3>
+      <div>Algo Trading • Tradetron • Trading View<br>Backtrader • Ethereum • MetaMask<br>Smart Contracts</div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
+</div>
+
+
+
 ## 💼 Experience
 
 <div style="background: linear-gradient(to right, #000428, #004e92); border-radius: 16px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
@@ -271,49 +318,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 </div>
 
 
-### 🛠️ Skills & Technologies
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
-      <h3 style="color:#ff6b6b;">Data Science & Analysis</h3>
-      <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
-    </td>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
-      <h3 style="color:#4ecdc4;">Data Visualization</h3>
-      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn</div>
-    </td>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
-      <h3 style="color:#f9c74f;">ML & AI</h3>
-      <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
-      <img width="70" src="https://rhisac.org/wp-content/uploads/Application-Security-Challenges-Caused-by-Cloud-APIs-1024x1024.jpg" alt="Cloud & APIs"><br>
-      <h3 style="color:#90be6d;">Cloud & APIs</h3>
-      <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
-    </td>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #5f0f40, #310821); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Development"><br>
-      <h3 style="color:#48bfe3;">Development</h3>
-      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
-    </td>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
-      <img width="70" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
-      <h3 style="color:#fb8500;">Trading & Blockchain</h3>
-      <div>Algo Trading • Tradetron • Trading View<br>Backtrader • Ethereum • MetaMask<br>Smart Contracts</div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
-</div>
 
 
 ## 📫 Connect With Me
