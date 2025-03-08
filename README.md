@@ -181,10 +181,119 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="200" alt="Education animation">
 </div>
 
-- **BTech** in Electronics & Communication Engineering, Arya College of Engineering & IT, Jaipur (2019-2023)
-- **Master's in Data Science and AI**, LearnBay (2023-2024)
-- **Associate Data Analyst**, DataCamp
-- **Data Science and AI**, IBM
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 25px;">
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(45deg, #3a1c71, #d76d77); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+        <h1 style="color: #ffffff; font-size: 30px;">🎓</h1>
+      </div>
+      <div>
+        <h3 style="color: #ffffff; margin: 0;">BTech in Electronics & Communication</h3>
+        <p style="color: #f1f1f1; font-style: italic; margin: 5px 0;">Arya College of Engineering & IT, Jaipur</p>
+        <div style="background: rgba(255, 255, 255, 0.15); padding: 3px 10px; border-radius: 12px; display: inline-block;">
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">2019-2023</p>
+        </div>
+      </div>
+    </div>
+    <div style="border-left: 2px solid rgba(255, 255, 255, 0.5); padding-left: 15px; margin-left: 30px;">
+      <p style="color: #f1f1f1;">Focused on signal processing and communications systems while developing a strong foundation in programming and electronics.</p>
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 10px; margin-top: 10px;">
+        <p style="color: #ffffff; margin: 0;"><strong>Key Projects:</strong> IoT-based Home Automation, ML-driven Signal Analysis</p>
+      </div>
+    </div>
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; background: linear-gradient(45deg, #0b8793, #360033); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+        <h1 style="color: #ffffff; font-size: 30px;">🔬</h1>
+      </div>
+      <div>
+        <h3 style="color: #ffffff; margin: 0;">Master's in Data Science and AI</h3>
+        <p style="color: #f1f1f1; font-style: italic; margin: 5px 0;">LearnBay</p>
+        <div style="background: rgba(255, 255, 255, 0.15); padding: 3px 10px; border-radius: 12px; display: inline-block;">
+          <p style="color: #ffffff; margin: 0; font-size: 14px;">2023-2024</p>
+        </div>
+      </div>
+    </div>
+    <div style="border-left: 2px solid rgba(255, 255, 255, 0.5); padding-left: 15px; margin-left: 30px;">
+      <p style="color: #f1f1f1;">Advanced study of machine learning algorithms, neural networks, and AI applications in real-world scenarios.</p>
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 10px; margin-top: 10px;">
+        <p style="color: #ffffff; margin: 0;"><strong>Key Skills:</strong> Deep Learning, NLP, Computer Vision, Reinforcement Learning</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 30px 0;">
+  <h3 style="text-align: center; color: #e63946; margin-bottom: 25px; font-size: 24px;">🏆 Professional Certifications</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <div style="width: 220px; background: linear-gradient(135deg, #1a2a6c, #b21f1f); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+      <div style="height: 8px; background: linear-gradient(90deg, #FFD700, #FFA500);"></div>
+      <div style="padding: 15px; text-align: center;">
+        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Datacamp.svg" width="50" alt="DataCamp" style="filter: brightness(0) invert(1);">
+        </div>
+        <h4 style="color: white; margin: 0 0 5px;">Associate Data Analyst</h4>
+        <p style="color: #ddd; font-size: 12px; margin: 0;">DataCamp</p>
+        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
+          <p style="color: #fff; margin: 0; font-size: 11px;">Data manipulation, visualization & analysis</p>
+        </div>
+      </div>
+    </div>
+    
+    <div style="width: 220px; background: linear-gradient(135deg, #2C3E50, #4CA1AF); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+      <div style="height: 8px; background: linear-gradient(90deg, #3498db, #2980b9);"></div>
+      <div style="padding: 15px; text-align: center;">
+        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" alt="IBM" style="filter: brightness(0) invert(1);">
+        </div>
+        <h4 style="color: white; margin: 0 0 5px;">Data Science and AI</h4>
+        <p style="color: #ddd; font-size: 12px; margin: 0;">IBM</p>
+        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
+          <p style="color: #fff; margin: 0; font-size: 11px;">ML algorithms & AI integration</p>
+        </div>
+      </div>
+    </div>
+    
+    <div style="width: 220px; background: linear-gradient(135deg, #333333, #dd1818); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
+      <div style="height: 8px; background: linear-gradient(90deg, #f12711, #f5af19);"></div>
+      <div style="padding: 15px; text-align: center;">
+        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
+          <span style="font-size: 30px;">🤖</span>
+        </div>
+        <h4 style="color: white; margin: 0 0 5px;">Advanced ML Engineering</h4>
+        <p style="color: #ddd; font-size: 12px; margin: 0;">Specialized Training</p>
+        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
+          <p style="color: #fff; margin: 0; font-size: 11px;">Deploying ML systems at scale</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); border-radius: 16px; padding: 20px; margin: 20px 0; position: relative; overflow: hidden; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(to right, #f12711, #f5af19);"></div>
+  <h3 style="color: #ffffff; text-align: center; margin-bottom: 15px;">🌟 Continuous Learning Journey</h3>
+  
+  <div style="display: flex; overflow-x: auto; gap: 15px; padding: 10px 0;">
+    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #f12711;">
+      <h4 style="color: #f12711; margin: 0 0 10px;">Trading Algorithms</h4>
+      <p style="color: #ddd; font-size: 14px; margin: 0;">Specialized coursework in financial algorithms and market analysis</p>
+    </div>
+    
+    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #4facfe;">
+      <h4 style="color: #4facfe; margin: 0 0 10px;">LLM Specialization</h4>
+      <p style="color: #ddd; font-size: 14px; margin: 0;">Advanced study of large language models and their applications</p>
+    </div>
+    
+    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #48bb78;">
+      <h4 style="color: #48bb78; margin: 0 0 10px;">Cloud Architecture</h4>
+      <p style="color: #ddd; font-size: 14px; margin: 0;">Designing scalable systems on AWS and Azure platforms</p>
+    </div>
+  </div>
+</div>
 
 ## 💻 Tech Stack
 
