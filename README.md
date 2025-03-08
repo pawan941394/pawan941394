@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <!-- Added auto-playing animation -->
