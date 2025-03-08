@@ -41,9 +41,9 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/community%20logo.gif" width="500" alt="Community animation">
 </div>
 
-
+<hr>
 ### 🛠️ Skills & Technologies
-
+<hr>
 <table width="100%" align="center">
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
