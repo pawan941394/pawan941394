@@ -41,9 +41,10 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/community%20logo.gif" width="500" alt="Community animation">
 </div>
 
-<hr>
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
 ### 🛠️ Skills & Technologies
-<hr>
+
 <table width="100%" align="center">
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
@@ -81,8 +82,9 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </tr>
 </table>
 
-<div align="center">
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
 </div>
 
