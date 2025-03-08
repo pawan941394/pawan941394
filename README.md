@@ -295,7 +295,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </tr>
   <tr>
     <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
-      <img width="50" src="https://rhisac.org/wp-content/uploads/Application-Security-Challenges-Caused-by-Cloud-APIs-1024x1024.jpg" alt="Cloud & APIs"><br>
+      <img width="70" src="https://rhisac.org/wp-content/uploads/Application-Security-Challenges-Caused-by-Cloud-APIs-1024x1024.jpg" alt="Cloud & APIs"><br>
       <h3 style="color:#90be6d;">Cloud & APIs</h3>
       <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
     </td>
@@ -305,7 +305,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
       <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
     </td>
     <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
-      <img width="50" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
+      <img width="70" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
       <h3 style="color:#fb8500;">Trading & Blockchain</h3>
       <div>Algo Trading • Tradetron • Trading View<br>Backtrader • Ethereum • MetaMask<br>Smart Contracts</div>
     </td>
