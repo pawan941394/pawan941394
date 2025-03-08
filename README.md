@@ -177,9 +177,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ## 🎓 Education & Certifications
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" width="200" alt="Education animation">
-</div>
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 25px;">
   <div style="flex: 1; min-width: 300px; background: linear-gradient(45deg, #3a1c71, #d76d77); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
