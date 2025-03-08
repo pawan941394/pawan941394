@@ -318,9 +318,6 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ## 📫 Connect With Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300" alt="Connect animation">
-</div>
 
 <div align="center">
   <a href="mailto:pawankumarwork9413@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
