@@ -206,14 +206,9 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </table>
 </div>
 
-
-
-
-
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
 ### 📫 Connect With Me
-
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
@@ -226,26 +221,148 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="Code animation">
 </p>
 
-<!-- Adding more auto-running animations -->
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+### 🚀 Featured Projects
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <!-- Project Card 1 -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/robot.png" style="width: 40px; margin-right: 10px;"/>
+      <h3 style="color: #58a6ff; margin: 0;">AI Trading Assistant</h3>
+    </div>
+    <p style="color: #c9d1d9;">An algorithmic trading system that uses machine learning to predict market movements and execute trades automatically.</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">Python</span>
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">TensorFlow</span>
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">Financial APIs</span>
+    </div>
+    <div style="margin-top: 15px;">
+      <a href="#" style="text-decoration: none; background: #238636; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold; display: inline-block;">View Project ➔</a>
+    </div>
+  </div>
+  
+  <!-- Project Card 2 -->
+  <div style="flex: 1; min-width: 300px; max-width: 400px; background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 20px; margin: 10px; box-shadow: 0 10px 25px rgba(0,0,0,0.2);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <img src="https://img.icons8.com/color/48/000000/brain.png" style="width: 40px; margin-right: 10px;"/>
+      <h3 style="color: #58a6ff; margin: 0;">LLM Financial Advisor</h3>
+    </div>
+    <p style="color: #c9d1d9;">A RAG-based application that leverages LLMs to provide personalized financial advice based on market data and user portfolios.</p>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">LangChain</span>
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">Streamlit</span>
+      <span style="background: #1f6feb; padding: 5px 10px; border-radius: 15px; font-size: 12px; color: white;">Vector DB</span>
+    </div>
+    <div style="margin-top: 15px;">
+      <a href="#" style="text-decoration: none; background: #238636; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold; display: inline-block;">View Project ➔</a>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/pawan941394?tab=repositories" style="text-decoration: none; background: linear-gradient(45deg, #f72585, #7209b7); color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold; display: inline-block; box-shadow: 0 5px 15px rgba(242, 37, 133, 0.4);">
+    View All Projects ⭐
+  </a>
+</div>
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+### 📊 GitHub Activity
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&theme=radical&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=pawan941394&theme=react-dark&hide_border=true" width="95%" alt="Activity Graph">
+</div>
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+### 📝 Latest Blog Posts
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <!-- Blog Post 1 -->
+  <div style="flex: 1; min-width: 280px; max-width: 350px; background: rgba(13, 17, 23, 0.6); border-left: 4px solid #58a6ff; border-radius: 5px; padding: 15px; margin: 5px;">
+    <h4 style="margin-top: 0; color: #58a6ff;">Building RAG Systems for Financial Data</h4>
+    <p style="font-size: 14px; color: #8b949e;">Learn how to implement Retrieval Augmented Generation for financial analysis and portfolio optimization.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="font-size: 12px; color: #8b949e;">Jan 15, 2023</span>
+      <a href="#" style="text-decoration: none; color: #58a6ff; font-size: 14px;">Read More →</a>
+    </div>
+  </div>
+  
+  <!-- Blog Post 2 -->
+  <div style="flex: 1; min-width: 280px; max-width: 350px; background: rgba(13, 17, 23, 0.6); border-left: 4px solid #58a6ff; border-radius: 5px; padding: 15px; margin: 5px;">
+    <h4 style="margin-top: 0; color: #58a6ff;">Algorithmic Trading Strategies for Market Volatility</h4>
+    <p style="font-size: 14px; color: #8b949e;">Exploring advanced techniques to build resilient algorithmic trading systems during high volatility periods.</p>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <span style="font-size: 12px; color: #8b949e;">Dec 5, 2022</span>
+      <a href="#" style="text-decoration: none; color: #58a6ff; font-size: 14px;">Read More →</a>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <a href="#" style="text-decoration: none; color: #58a6ff; border: 1px solid #58a6ff; padding: 8px 16px; border-radius: 5px; font-size: 14px;">
+    View All Articles
+  </a>
+</div>
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+### 🛠️ Tools & Development Environment
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+</div>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech stack animation">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
 </div>
 
-<!-- Added this cool matrix animation -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/cyberpunk-neon.gif" width="600" alt="Matrix animation">
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
+<div align="center" style="background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 20px; margin-top: 30px;">
+  <h3 style="color: #58a6ff; margin-top: 0;">Let's Connect and Build Something Amazing! ✨</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
+    <a href="mailto:pawankumarwork9413@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/pawan941394/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/yourusername" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://github.com/pawan941394" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
+  
+  <div style="margin-top: 15px; color: #8b949e; font-size: 14px;">
+    ⚡ Available for freelance projects and collaborations
+  </div>
 </div>
 
-<!-- Adding 3D animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744843-9317103f-441a-45e2-ae32-041df4463ece.gif" width="600" alt="3D Developer animation">
-</div>
-
-<!-- Adding holographic effect -->
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/data/holographic-computer.gif" width="600" alt="Holographic computer">
+<div align="center" style="margin-top: 30px; font-size: 12px; color: #8b949e;">
+  <p>Made with 💻 and ☕ by Pawan Kumar</p>
 </div>
 
 
