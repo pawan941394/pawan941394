@@ -226,73 +226,65 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 </div>
 
 <div style="margin: 30px 0;">
-  <h3 style="text-align: center; color: #e63946; margin-bottom: 25px; font-size: 24px;">🏆 Professional Certifications</h3>
+  <h3 align="center">🏆 Professional Certifications</h3>
   
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <div style="width: 220px; background: linear-gradient(135deg, #1a2a6c, #b21f1f); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      <div style="height: 8px; background: linear-gradient(90deg, #FFD700, #FFA500);"></div>
-      <div style="padding: 15px; text-align: center;">
-        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Datacamp.svg" width="50" alt="DataCamp" style="filter: brightness(0) invert(1);">
-        </div>
-        <h4 style="color: white; margin: 0 0 5px;">Associate Data Analyst</h4>
-        <p style="color: #ddd; font-size: 12px; margin: 0;">DataCamp</p>
-        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
-          <p style="color: #fff; margin: 0; font-size: 11px;">Data manipulation, visualization & analysis</p>
-        </div>
-      </div>
-    </div>
-    
-    <div style="width: 220px; background: linear-gradient(135deg, #2C3E50, #4CA1AF); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      <div style="height: 8px; background: linear-gradient(90deg, #3498db, #2980b9);"></div>
-      <div style="padding: 15px; text-align: center;">
-        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" alt="IBM" style="filter: brightness(0) invert(1);">
-        </div>
-        <h4 style="color: white; margin: 0 0 5px;">Data Science and AI</h4>
-        <p style="color: #ddd; font-size: 12px; margin: 0;">IBM</p>
-        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
-          <p style="color: #fff; margin: 0; font-size: 11px;">ML algorithms & AI integration</p>
-        </div>
-      </div>
-    </div>
-    
-    <div style="width: 220px; background: linear-gradient(135deg, #333333, #dd1818); border-radius: 12px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.2);">
-      <div style="height: 8px; background: linear-gradient(90deg, #f12711, #f5af19);"></div>
-      <div style="padding: 15px; text-align: center;">
-        <div style="width: 70px; height: 70px; background: rgba(255,255,255,0.1); border-radius: 50%; margin: 0 auto 10px; display: flex; align-items: center; justify-content: center;">
-          <span style="font-size: 30px;">🤖</span>
-        </div>
-        <h4 style="color: white; margin: 0 0 5px;">Advanced ML Engineering</h4>
-        <p style="color: #ddd; font-size: 12px; margin: 0;">Specialized Training</p>
-        <div style="margin-top: 10px; padding: 5px; background: rgba(255,255,255,0.1); border-radius: 5px;">
-          <p style="color: #fff; margin: 0; font-size: 11px;">Deploying ML systems at scale</p>
-        </div>
-      </div>
-    </div>
+  <div align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/DataCamp-Associate_Data_Analyst-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp Certification"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/IBM-Data_Science_and_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certification"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/🤖_Advanced_ML_Engineering-DD1818?style=for-the-badge" alt="Advanced ML Engineering"/>
+    </a>
   </div>
+
+  <br>
+  
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Datacamp.svg" width="40" height="40" alt="DataCamp"><br>
+        <strong>Associate Data Analyst</strong><br>
+        <span>DataCamp</span><br>
+        <sub>Data manipulation, visualization & analysis</sub>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM"><br>
+        <strong>Data Science and AI</strong><br>
+        <span>IBM</span><br>
+        <sub>ML algorithms & AI integration</sub>
+      </td>
+      <td align="center">
+        <span style="font-size: 30px;">🤖</span><br>
+        <strong>Advanced ML Engineering</strong><br>
+        <span>Specialized Training</span><br>
+        <sub>Deploying ML systems at scale</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); border-radius: 16px; padding: 20px; margin: 20px 0; position: relative; overflow: hidden; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);">
-  <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(to right, #f12711, #f5af19);"></div>
-  <h3 style="color: #ffffff; text-align: center; margin-bottom: 15px;">🌟 Continuous Learning Journey</h3>
+<div>
+  <h3 align="center">🌟 Continuous Learning Journey</h3>
   
-  <div style="display: flex; overflow-x: auto; gap: 15px; padding: 10px 0;">
-    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #f12711;">
-      <h4 style="color: #f12711; margin: 0 0 10px;">Trading Algorithms</h4>
-      <p style="color: #ddd; font-size: 14px; margin: 0;">Specialized coursework in financial algorithms and market analysis</p>
-    </div>
-    
-    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #4facfe;">
-      <h4 style="color: #4facfe; margin: 0 0 10px;">LLM Specialization</h4>
-      <p style="color: #ddd; font-size: 14px; margin: 0;">Advanced study of large language models and their applications</p>
-    </div>
-    
-    <div style="min-width: 200px; background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 15px; border-left: 3px solid #48bb78;">
-      <h4 style="color: #48bb78; margin: 0 0 10px;">Cloud Architecture</h4>
-      <p style="color: #ddd; font-size: 14px; margin: 0;">Designing scalable systems on AWS and Azure platforms</p>
-    </div>
-  </div>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <h4>🔥 Trading Algorithms</h4>
+        <p>Specialized coursework in financial algorithms and market analysis</p>
+      </td>
+      <td align="center">
+        <h4>🧠 LLM Specialization</h4>
+        <p>Advanced study of large language models and their applications</p>
+      </td>
+      <td align="center">
+        <h4>☁️ Cloud Architecture</h4>
+        <p>Designing scalable systems on AWS and Azure platforms</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💻 Tech Stack
