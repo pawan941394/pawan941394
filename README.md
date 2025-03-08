@@ -43,52 +43,117 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ## 💼 Experience
 
+<div style="background: linear-gradient(to right, #000428, #004e92); border-radius: 16px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: center;">
+    <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+      <h1 style="color: #00f2fe; font-size: 35px;">🚀</h1>
+    </div>
+    <div>
+      <h3 style="color: #00f2fe; margin: 0;">FinSocial Digital Systems</h3>
+      <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">AI Engineer | Oct 2024 - Present</p>
+    </div>
+  </div>
+  <div style="margin-left: 100px; border-left: 2px solid #00f2fe; padding-left: 20px; margin-top: 15px;">
+    <p style="color: #ffffff; margin: 10px 0;">Developing cutting-edge AI systems at the intersection of finance and technology:</p>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #00f2fe, #4facfe); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">🤖</span>
+        <span>Enabling Trading With Artificial Intelligence</span>
+      </li>
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #00f2fe, #4facfe); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">🔮</span>
+        <span>Building RAG-powered trading systems with multi-processing backtesting</span>
+      </li>
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #00f2fe, #4facfe); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">⛓️</span>
+        <span>Developing blockchain integrations for trading platforms using Ethereum and MetaMask</span>
+      </li>
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #00f2fe, #4facfe); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">☁️</span>
+        <span>Implementing serverless architectures with AWS, Koyeb, and Run Pod</span>
+      </li>
+    </ul>
+  </div>
+</div>
 
-<table align="center">
-  <tr>
-    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🚀 FinSocial Digital Systems</h3>
-      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>AI Engineer | Oct 2024 - Present</em></p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-        <li style="margin-bottom: 8px; line-height: 1.6;">🤖 Enabling Trading With Artificial Intelligence</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">🔮 Building RAG-powered trading systems with multi-processing backtesting</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">⛓️ Developing blockchain integrations for trading platforms using Ethereum and MetaMask</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">☁️ Implementing serverless architectures with AWS, Koyeb, and Run Pod</li>
+<div style="background: linear-gradient(to right, #16222A, #3A6073); border-radius: 16px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; align-items: center;">
+    <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+      <h1 style="color: #4ecdc4; font-size: 35px;">📊</h1>
+    </div>
+    <div>
+      <h3 style="color: #4ecdc4; margin: 0;">BytEquity</h3>
+      <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Data Analyst | Sep 2023 - Present</p>
+    </div>
+  </div>
+  <div style="margin-left: 100px; border-left: 2px solid #4ecdc4; padding-left: 20px; margin-top: 15px;">
+    <p style="color: #ffffff; margin: 10px 0;">Leading data-driven trading strategy development and implementation:</p>
+    <ul style="list-style-type: none; padding-left: 0;">
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #4ecdc4, #556270); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">📈</span>
+        <span>Implemented 8 automated trading strategies on Fyers, Kite, and MT5</span>
+      </li>
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #4ecdc4, #556270); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">🛠️</span>
+        <span>Designed no-code platforms for marketing automation</span>
+      </li>
+      <li style="margin-bottom: 10px; display: flex; align-items: center;">
+        <span style="background: linear-gradient(45deg, #4ecdc4, #556270); border-radius: 50%; height: 25px; width: 25px; display: flex; justify-content: center; align-items: center; margin-right: 10px;">👥</span>
+        <span>Led team of 3 and managed client relations with quantitative analysis</span>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1; background: linear-gradient(to right, #0f0c29, #302b63); border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+        <h1 style="color: #ff6b6b; font-size: 30px;">🌿</h1>
+      </div>
+      <div>
+        <h3 style="color: #ff6b6b; margin: 0;">Orga Plants</h3>
+        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern<br>Apr 2022 - Oct 2022</p>
+      </div>
+    </div>
+    <div style="border-left: 2px solid #ff6b6b; padding-left: 15px;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #ff6b6b; margin-right: 10px;">🕸️</span>
+          <span>Optimized data handling with web scraping for user payments and orders</span>
+        </li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #ff6b6b; margin-right: 10px;">🔄</span>
+          <span>Developed UI and backend with Django, reducing page load times by 30%</span>
+        </li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3 style="color: #ff4b4b; margin-bottom: 8px;">📊 BytEquity</h3>
-      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Data Analyst | Sep 2023 - Present</em></p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-        <li style="margin-bottom: 8px; line-height: 1.6;">📈 Implemented 8 automated trading strategies on Fyers, Kite, and MT5</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">🛠️ Designed no-code platforms for marketing automation</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">👥 Led team of 3 and managed client relations with quantitative analysis</li>
+    </div>
+  </div>
+
+  <div style="flex: 1; background: linear-gradient(to right, #200122, #6f0000); border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+        <h1 style="color: #f9c74f; font-size: 30px;">🏥</h1>
+      </div>
+      <div>
+        <h3 style="color: #f9c74f; margin: 0;">Care Team Private Limited</h3>
+        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern<br>Jan 2022 - Mar 2022</p>
+      </div>
+    </div>
+    <div style="border-left: 2px solid #f9c74f; padding-left: 15px;">
+      <ul style="list-style-type: none; padding-left: 0;">
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #f9c74f; margin-right: 10px;">🎓</span>
+          <span>Built an online certificate generator managing 10k+ user records</span>
+        </li>
+        <li style="margin-bottom: 10px; display: flex; align-items: center;">
+          <span style="color: #f9c74f; margin-right: 10px;">⚡</span>
+          <span>Reduced manual processing time by 70%</span>
+        </li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🌿 Orga Plants</h3>
-      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Apr 2022 - Oct 2022</em></p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-        <li style="margin-bottom: 8px; line-height: 1.6;">🕸️ Optimized data handling with web scraping for user payments and orders</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">🔄 Developed UI and backend with Django, reducing page load times by 30%</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🏥 Care Team Private Limited</h3>
-      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Jan 2022 - Mar 2022</em></p>
-      <ul style="list-style-type: none; padding-left: 5px;">
-        <li style="margin-bottom: 8px; line-height: 1.6;">🎓 Built an online certificate generator managing 10k+ user records</li>
-        <li style="margin-bottom: 8px; line-height: 1.6;">⚡ Reduced manual processing time by 70%</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 ## 🎓 Education & Certifications
 
