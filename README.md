@@ -44,13 +44,18 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 ## 💼 Experience
 
 <div style="background: linear-gradient(to right, #000428, #004e92); border-radius: 16px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-  <div style="display: flex; align-items: center;">
-    <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
-      <h1 style="color: #00f2fe; font-size: 35px;">🚀</h1>
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+        <h1 style="color: #00f2fe; font-size: 35px;">🚀</h1>
+      </div>
+      <div>
+        <h3 style="color: #00f2fe; margin: 0;">FinSocial Digital Systems</h3>
+        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">AI Engineer</p>
+      </div>
     </div>
-    <div>
-      <h3 style="color: #00f2fe; margin: 0;">FinSocial Digital Systems</h3>
-      <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">AI Engineer | Oct 2024 - Present</p>
+    <div style="background: rgba(0, 242, 254, 0.15); padding: 8px 15px; border-radius: 20px; border: 1px solid #00f2fe;">
+      <p style="color: #00f2fe; margin: 0; font-weight: bold;">Oct 2024 - Present</p>
     </div>
   </div>
   <div style="margin-left: 100px; border-left: 2px solid #00f2fe; padding-left: 20px; margin-top: 15px;">
@@ -77,13 +82,18 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 </div>
 
 <div style="background: linear-gradient(to right, #16222A, #3A6073); border-radius: 16px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-  <div style="display: flex; align-items: center;">
-    <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
-      <h1 style="color: #4ecdc4; font-size: 35px;">📊</h1>
+  <div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 80px; width: 80px; display: flex; justify-content: center; align-items: center; margin-right: 20px;">
+        <h1 style="color: #4ecdc4; font-size: 35px;">📊</h1>
+      </div>
+      <div>
+        <h3 style="color: #4ecdc4; margin: 0;">BytEquity</h3>
+        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Data Analyst</p>
+      </div>
     </div>
-    <div>
-      <h3 style="color: #4ecdc4; margin: 0;">BytEquity</h3>
-      <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Data Analyst | Sep 2023 - Present</p>
+    <div style="background: rgba(78, 205, 196, 0.15); padding: 8px 15px; border-radius: 20px; border: 1px solid #4ecdc4;">
+      <p style="color: #4ecdc4; margin: 0; font-weight: bold;">Sep 2023 - Present</p>
     </div>
   </div>
   <div style="margin-left: 100px; border-left: 2px solid #4ecdc4; padding-left: 20px; margin-top: 15px;">
@@ -107,13 +117,18 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1; background: linear-gradient(to right, #0f0c29, #302b63); border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-        <h1 style="color: #ff6b6b; font-size: 30px;">🌿</h1>
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+      <div style="display: flex; align-items: center;">
+        <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+          <h1 style="color: #ff6b6b; font-size: 30px;">🌿</h1>
+        </div>
+        <div>
+          <h3 style="color: #ff6b6b; margin: 0;">Orga Plants</h3>
+          <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern</p>
+        </div>
       </div>
-      <div>
-        <h3 style="color: #ff6b6b; margin: 0;">Orga Plants</h3>
-        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern<br>Apr 2022 - Oct 2022</p>
+      <div style="background: rgba(255, 107, 107, 0.15); padding: 6px 12px; border-radius: 16px; border: 1px solid #ff6b6b;">
+        <p style="color: #ff6b6b; margin: 0; font-weight: bold;">Apr - Oct 2022</p>
       </div>
     </div>
     <div style="border-left: 2px solid #ff6b6b; padding-left: 15px;">
@@ -131,13 +146,18 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </div>
 
   <div style="flex: 1; background: linear-gradient(to right, #200122, #6f0000); border-radius: 16px; padding: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-        <h1 style="color: #f9c74f; font-size: 30px;">🏥</h1>
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+      <div style="display: flex; align-items: center;">
+        <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
+          <h1 style="color: #f9c74f; font-size: 30px;">🏥</h1>
+        </div>
+        <div>
+          <h3 style="color: #f9c74f; margin: 0;">Care Team Private Limited</h3>
+          <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern</p>
+        </div>
       </div>
-      <div>
-        <h3 style="color: #f9c74f; margin: 0;">Care Team Private Limited</h3>
-        <p style="color: #a3a3a3; font-style: italic; margin: 5px 0;">Python Developer Intern<br>Jan 2022 - Mar 2022</p>
+      <div style="background: rgba(249, 199, 79, 0.15); padding: 6px 12px; border-radius: 16px; border: 1px solid #f9c74f;">
+        <p style="color: #f9c74f; margin: 0; font-weight: bold;">Jan - Mar 2022</p>
       </div>
     </div>
     <div style="border-left: 2px solid #f9c74f; padding-left: 15px;">
