@@ -47,46 +47,51 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="200" alt="Experience animation">
 </div>
 
-<div style="position: relative; max-width: 1200px; margin: 0 auto;">
-  <div style="padding: 20px 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="color: #ff4b4b; margin-bottom: 8px;">🚀 FinSocial Digital Systems</h3>
-    <p style="color: #a3a3a3; margin-bottom: 12px;"><em>AI Engineer | Oct 2024 - Present</em></p>
-    <ul style="list-style-type: none;">
-      <li style="margin-bottom: 8px; line-height: 1.6;">🤖 Enabling Trading With Artificial Intelligence</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">🔮 Building RAG-powered trading systems with multi-processing backtesting</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">⛓️ Developing blockchain integrations for trading platforms using Ethereum and MetaMask</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">☁️ Implementing serverless architectures with AWS, Koyeb, and Run Pod</li>
-    </ul>
-  </div>
-
-  <div style="padding: 20px 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="color: #ff4b4b; margin-bottom: 8px;">📊 BytEquity</h3>
-    <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Data Analyst | Sep 2023 - Present</em></p>
-    <ul style="list-style-type: none;">
-      <li style="margin-bottom: 8px; line-height: 1.6;">📈 Implemented 8 automated trading strategies on Fyers, Kite, and MT5</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">🛠️ Designed no-code platforms for marketing automation</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">👥 Led team of 3 and managed client relations with quantitative analysis</li>
-    </ul>
-  </div>
-
-  <div style="padding: 20px 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="color: #ff4b4b; margin-bottom: 8px;">🌿 Orga Plants</h3>
-    <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Apr 2022 - Oct 2022</em></p>
-    <ul style="list-style-type: none;">
-      <li style="margin-bottom: 8px; line-height: 1.6;">🕸️ Optimized data handling with web scraping for user payments and orders</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">🔄 Developed UI and backend with Django, reducing page load times by 30%</li>
-    </ul>
-  </div>
-
-  <div style="padding: 20px 30px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-    <h3 style="color: #ff4b4b; margin-bottom: 8px;">🏥 Care Team Private Limited</h3>
-    <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Jan 2022 - Mar 2022</em></p>
-    <ul style="list-style-type: none;">
-      <li style="margin-bottom: 8px; line-height: 1.6;">🎓 Built an online certificate generator managing 10k+ user records</li>
-      <li style="margin-bottom: 8px; line-height: 1.6;">⚡ Reduced manual processing time by 70%</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🚀 FinSocial Digital Systems</h3>
+      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>AI Engineer | Oct 2024 - Present</em></p>
+      <ul style="list-style-type: none; padding-left: 5px;">
+        <li style="margin-bottom: 8px; line-height: 1.6;">🤖 Enabling Trading With Artificial Intelligence</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">🔮 Building RAG-powered trading systems with multi-processing backtesting</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">⛓️ Developing blockchain integrations for trading platforms using Ethereum and MetaMask</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">☁️ Implementing serverless architectures with AWS, Koyeb, and Run Pod</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="color: #ff4b4b; margin-bottom: 8px;">📊 BytEquity</h3>
+      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Data Analyst | Sep 2023 - Present</em></p>
+      <ul style="list-style-type: none; padding-left: 5px;">
+        <li style="margin-bottom: 8px; line-height: 1.6;">📈 Implemented 8 automated trading strategies on Fyers, Kite, and MT5</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">🛠️ Designed no-code platforms for marketing automation</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">👥 Led team of 3 and managed client relations with quantitative analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🌿 Orga Plants</h3>
+      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Apr 2022 - Oct 2022</em></p>
+      <ul style="list-style-type: none; padding-left: 5px;">
+        <li style="margin-bottom: 8px; line-height: 1.6;">🕸️ Optimized data handling with web scraping for user payments and orders</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">🔄 Developed UI and backend with Django, reducing page load times by 30%</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; border-left: 4px solid #ff4b4b; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="color: #ff4b4b; margin-bottom: 8px;">🏥 Care Team Private Limited</h3>
+      <p style="color: #a3a3a3; margin-bottom: 12px;"><em>Python Developer Intern | Jan 2022 - Mar 2022</em></p>
+      <ul style="list-style-type: none; padding-left: 5px;">
+        <li style="margin-bottom: 8px; line-height: 1.6;">🎓 Built an online certificate generator managing 10k+ user records</li>
+        <li style="margin-bottom: 8px; line-height: 1.6;">⚡ Reduced manual processing time by 70%</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Education & Certifications
 
@@ -107,7 +112,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ### 🛠️ Skills & Technologies
 
-<table align="center">
+<table>
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
       <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
