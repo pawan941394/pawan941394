@@ -312,10 +312,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical" alt="Top Languages" />
