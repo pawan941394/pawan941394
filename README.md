@@ -224,7 +224,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://cdn.worldvectorlogo.com/logos/datacamp-1.svg" width="40" height="40" alt="DataCamp"><br>
+        <img src="https://media.datacamp.com/legacy/image/upload/v1654675854/Screenshot_2022_06_08_at_09_10_31_8da07e9a56.png" width="40" height="40" alt="DataCamp"><br>
         <strong>Associate Data Analyst</strong><br>
         <span>DataCamp</span><br>
         <sub>Data manipulation, visualization & analysis</sub>
@@ -242,7 +242,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
         <sub>Deploying ML systems at scale</sub>
       </td>
       <td align="center">
-        <img src="https://media.licdn.com/dms/image/C560BAQFAVLoL6j71Kg/company-logo_200_200/0/1670302345227?e=2147483647&v=beta&t=IlY4wVFpTJFzg8IG4UZ9IRxAXXANBzqZ_-TQOLiVqwU" width="40" height="40" alt="LearnBay"><br>
+        <img src="https://www.learnbay.co/_next/image?url=https%3A%2F%2Fd32and0ii3b8oy.cloudfront.net%2Fweb%2Fs3_main%2FlearnbayMain%2Flearnbay-logo.png&w=256&q=100" width="40" height="40" alt="LearnBay"><br>
         <strong>Master's in Data Science and AI</strong><br>
         <span>LearnBay</span><br>
         <sub>Advanced ML, NLP, Computer Vision</sub>
