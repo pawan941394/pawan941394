@@ -101,6 +101,8 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
 </div>
 
+<br>
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&row=1" alt="GitHub Trophies" />
 </div>
