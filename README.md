@@ -275,7 +275,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ### 🛠️ Skills & Technologies
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
       <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
