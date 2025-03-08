@@ -24,7 +24,12 @@
   <a href="https://share.streamlit.io/user/pawan941394"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
 </p>
 
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 ## 🚀 About Me
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Tech animation">
 
 Data Science & AI professional with expertise in algorithmic trading, LLM integrations, and full-stack development. I create innovative solutions at the intersection of finance and technology:
@@ -43,7 +48,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
