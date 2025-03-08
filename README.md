@@ -87,7 +87,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
     <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
       <img width="70" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
       <h3 style="color:#fb8500;">Trading & Blockchain</h3>
-      <div>• Algo Trading <br>• Tradetron • <br> Trading View<br>Backtrader • MetaMask<br></div>
+      <div>• Algo Trading <br>• Tradetron • <br> Trading View • <br>Backtrader • MetaMask<br></div>
     </td>
   </tr>
 </table>
