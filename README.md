@@ -93,14 +93,22 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
-### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="25" height="25" />Github Stats
+### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical" alt="Pawan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&row=1" alt="GitHub Trophies" />
+</div>
 
 ## 💼 Experience
 
