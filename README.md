@@ -48,7 +48,7 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 
 <hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
