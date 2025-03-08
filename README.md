@@ -45,6 +45,9 @@ Currently working at FinSocial Digital Systems as an AI Engineer, implementing c
 
 ### 🛠️ Skills & Technologies
 
+
+<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+
 <table width="100%" align="center">
   <tr>
     <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
