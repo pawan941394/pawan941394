@@ -60,7 +60,7 @@
 - 🤖 **Machine Learning & Generative AI** <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="20px">
 - 📈 **Algorithmic Trading Systems** <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="20px">
 - 🌐 **Full Stack Web Development** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20px">
-- ⚙️ **API Integration & Automation** <img src="https://user-images.githubusercontent.com/74038190/212284111-0b5c4da7-bad1-4d92-85f8-9d484f0b71a3.gif" width="20px">
+- ⚙️ **API Integration & Automation** 
 
 <br clear="both">
 
@@ -74,9 +74,8 @@
 ## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-94c8-7b16c5bb7861.gif" width="50px"> 
+ 
   <strong>Tech Stack</strong> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-94c8-7b16c5bb7861.gif" width="50px">
 </div>
 
 <table align="center">
@@ -94,7 +93,7 @@
       <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn • Plotly</div>
     </td>
     <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="50px"><br>
+     <br>
       <h3>🤖 ML & AI</h3>
       <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
       <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
@@ -114,7 +113,7 @@
       <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • React</div>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284111-0b5c4da7-bad1-4d92-85f8-9d484f0b71a3.gif" width="50px"><br>
+      <br>
       <h3>📈 Trading & Blockchain</h3>
       <img src="https://skillicons.dev/icons?i=solidity" /><br>
       <div>Algo Trading • Tradetron • TradingView<br>Backtrader • MetaMask • Smart Contracts</div>
@@ -182,7 +181,7 @@
       <sub>2019-2023 | Signal Processing & Communications</sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="40px"><br>
+      <br>
       <strong>📊 Data Science Master's</strong><br>
       <span>LearnBay</span><br>
       <sub>Advanced ML, NLP, Computer Vision</sub>
@@ -252,7 +251,7 @@
       <img src="https://geps.dev/progress/95" />
     </td>
     <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="30px">
+      <width="30px">
       <h3>📊 LLM Analytics Platform</h3>
       <p>Developing a comprehensive platform for large language model analysis and deployment with real-time monitoring capabilities.</p>
       <img src="https://geps.dev/progress/95" />
@@ -306,6 +305,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✨;Let's+code+the+future+together!+🚀;Happy+Coding!+💻&font=Fira%20Code&center=true&width=380&height=50&color=58a6ff&vCenter=true&size=18&pause=3000">
 </div>
-
 
 
