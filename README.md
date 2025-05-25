@@ -84,25 +84,19 @@
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"><br>
       <h3>🐍 Data Science & Analysis</h3>
-      <img src="https://skillicons.dev/icons?i=python" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=python,pandas,numpy" /><br>
       <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50px"><br>
       <h3>📊 Data Visualization</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="50"/>
-      <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" width="50"/>
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=d3,grafana" /><br>
       <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn • Plotly</div>
     </td>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="50px"><br>
       <h3>🤖 ML & AI</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
       <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
     </td>
   </tr>
@@ -110,25 +104,19 @@
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px"><br>
       <h3>☁️ Cloud & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=azure" width="50"/>
-      <img src="https://skillicons.dev/icons?i=aws" width="50"/>
-      <img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=azure,aws,docker" /><br>
       <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px"><br>
       <h3>💻 Development</h3>
-      <img src="https://skillicons.dev/icons?i=django" width="50"/>
-      <img src="https://skillicons.dev/icons?i=react" width="50"/>
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=django,react,js,html,css" /><br>
       <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • React</div>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212284111-0b5c4da7-bad1-4d92-85f8-9d484f0b71a3.gif" width="50px"><br>
       <h3>📈 Trading & Blockchain</h3>
-      <img src="https://skillicons.dev/icons?i=solidity" width="50"/>
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="50"/>
-      <img src="https://alternative.me/crypto/icons/bitcoin.png" width="50"/><br>
+      <img src="https://skillicons.dev/icons?i=solidity" /><br>
       <div>Algo Trading • Tradetron • TradingView<br>Backtrader • MetaMask • Smart Contracts</div>
     </td>
   </tr>
@@ -260,46 +248,17 @@
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">
       <h3>🤖 AI Trading Bot</h3>
-      <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Trading Bot Animation">
       <p>Building an advanced algorithmic trading system using machine learning for market prediction and automated trading strategies.</p>
-      <img src="https://geps.dev/progress/95?dangerColor=800909&warningColor=ff9500&successColor=006600" />
+      <img src="https://geps.dev/progress/95" />
     </td>
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="30px">
       <h3>📊 LLM Analytics Platform</h3>
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Analytics Platform Animation">
       <p>Developing a comprehensive platform for large language model analysis and deployment with real-time monitoring capabilities.</p>
-      <img src="https://geps.dev/progress/95?dangerColor=800909&warningColor=ff9500&successColor=006600" />
+      <img src="https://geps.dev/progress/95" />
     </td>
   </tr>
 </table>
-
-<!-- Additional Current Projects Section -->
-<div align="center">
-  <h3>🌟 Featured Projects</h3>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" alt="Data Analysis">
-        <h4>📈 Stock Market Predictor</h4>
-        <p>Real-time stock price prediction using LSTM and sentiment analysis</p>
-        <img src="https://geps.dev/progress/88?dangerColor=800909&warningColor=ff9500&successColor=006600" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="150" alt="AI Chatbot">
-        <h4>🤖 AI Financial Advisor</h4>
-        <p>Intelligent chatbot for financial advice using RAG and LangChain</p>
-        <img src="https://geps.dev/progress/92?dangerColor=800909&warningColor=ff9500&successColor=006600" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Portfolio Optimizer">
-        <h4>💼 Portfolio Optimizer</h4>
-        <p>AI-driven portfolio optimization with risk management</p>
-        <img src="https://geps.dev/progress/90?dangerColor=800909&warningColor=ff9500&successColor=006600" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -347,5 +306,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✨;Let's+code+the+future+together!+🚀;Happy+Coding!+💻&font=Fira%20Code&center=true&width=380&height=50&color=58a6ff&vCenter=true&size=18&pause=3000">
 </div>
+
 
 
