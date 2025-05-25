@@ -1,260 +1,310 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome+to+Pawan's+Digital+Universe;Full+Stack+Developer;Data+Science+%26+AI+Specialist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=21">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pawan's+Digital+Universe+🌟;Full+Stack+Developer+💻;Data+Science+%26+AI+Specialist+🤖;Algorithmic+Trading+Expert+📈;Building+the+Future+with+Code+✨&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=22&pause=1000&repeat=true">
 </div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=blueviolet" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pawan941394?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/pawan941394?label=Stars&style=social" alt="GitHub stars" />
 </div>
-<!-- Added auto-playing animation -->
+
+<!-- Animated Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
+<!-- Animated Coding GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation">
 </p>
 
-# 👨‍💻 Pawan Kumar
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  &nbsp;Pawan Kumar&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</h1>
 
+<!-- Animated Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL%20%7C%20JavaScript-blue" />
-  <img src="https://img.shields.io/badge/Expertise-Algorithmic%20Trading%20%7C%20Gen%20AI-orange" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-brightgreen?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL%20%7C%20JavaScript-blue?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expertise-Algorithmic%20Trading%20%7C%20Gen%20AI-orange?style=for-the-badge&logo=trading-view&logoColor=white" />
 </div>
 
+<!-- Animated Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan941394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://share.streamlit.io/user/pawan941394"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
-  <a href="https://www.youtube.com/@Pawankumar-py4tk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pawan941394/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse">
+  </a>
+  <a href="https://share.streamlit.io/user/pawan941394">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Pawankumar-py4tk">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
 </p>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-### 🚀 About Me
-
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+## 🚀 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Tech animation">
 
-Data Science & AI professional with expertise in algorithmic trading, LLM integrations, and full-stack development. I create innovative solutions at the intersection of finance and technology:
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30px"> **Data Science & AI professional** with expertise in algorithmic trading, LLM integrations, and full-stack development.
 
-- 📊 **Data Analysis & Visualization**
-- 🤖 **Machine Learning & Generative AI**
-- 📈 **Algorithmic Trading Systems**
-- 🌐 **Full Stack Web Development**
-- ⚙️ **API Integration & Automation**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> **Creating innovative solutions** at the intersection of finance and technology:
 
-Currently working at FinSocial Digital Systems as an AI Engineer, implementing cutting-edge AI solutions for trading platforms.
+- 📊 **Data Analysis & Visualization** <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20px">
+- 🤖 **Machine Learning & Generative AI** <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="20px">
+- 📈 **Algorithmic Trading Systems** <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="20px">
+- 🌐 **Full Stack Web Development** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20px">
+- ⚙️ **API Integration & Automation** <img src="https://user-images.githubusercontent.com/74038190/212284111-0b5c4da7-bad1-4d92-85f8-9d484f0b71a3.gif" width="20px">
+
+<br clear="both">
 
 <div align="center">
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-94c8-7b16c5bb7861.gif" width="50px"> 
+  <strong>Tech Stack</strong> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd8-94c8-7b16c5bb7861.gif" width="50px">
+</div>
 
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-<table width="100%" align="center">
+<table align="center">
   <tr>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #3a0647, #1d0b22); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Data Science"><br>
-      <h3 style="color:#ff6b6b;">Data Science & Analysis</h3>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"><br>
+      <h3>🐍 Data Science & Analysis</h3>
+      <img src="https://skillicons.dev/icons?i=python,pandas,numpy" /><br>
       <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
     </td>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #0b3866, #071a30); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Data Visualization"><br>
-      <h3 style="color:#4ecdc4;">Data Visualization</h3>
-      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn</div>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50px"><br>
+      <h3>📊 Data Visualization</h3>
+      <img src="https://skillicons.dev/icons?i=d3,grafana" /><br>
+      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn • Plotly</div>
     </td>
-    <td align="center" width="33%" style="border-radius:10px; background-image:linear-gradient(to bottom right, #36382e, #1a1c16); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="ML & AI"><br>
-      <h3 style="color:#f9c74f;">ML & AI</h3>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="50px"><br>
+      <h3>🤖 ML & AI</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
       <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
     </td>
   </tr>
   <tr>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #114b5f, #0a2f3c); padding:10px;">
-      <img width="70" src="https://rhisac.org/wp-content/uploads/Application-Security-Challenges-Caused-by-Cloud-APIs-1024x1024.jpg" alt="Cloud & APIs"><br>
-      <h3 style="color:#90be6d;">Cloud & APIs</h3>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px"><br>
+      <h3>☁️ Cloud & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=azure,aws,docker" /><br>
       <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
     </td>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #5f0f40, #310821); padding:10px;">
-      <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Development"><br>
-      <h3 style="color:#48bfe3;">Development</h3>
-      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • Hyperstack</div>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px"><br>
+      <h3>💻 Development</h3>
+      <img src="https://skillicons.dev/icons?i=django,react,js,html,css" /><br>
+      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • React</div>
     </td>
-    <td align="center" style="border-radius:10px; background-image:linear-gradient(to bottom right, #184e77, #0d293f); padding:10px;">
-      <img width="70" src="https://stormgain.com/sites/default/files/styles/amp_1200x900_4_3/public/2022-11/cryptocurrency-trading-strategies-main.jpg?itok=b2hWzHAx" alt="Trading & Blockchain"><br>
-      <h3 style="color:#fb8500;">Trading & Blockchain</h3>
-      <div>Algo Trading • Tradetron • Trading View • Backtrader  • MetaMask • Smart Contracts</div>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284111-0b5c4da7-bad1-4d92-85f8-9d484f0b71a3.gif" width="50px"><br>
+      <h3>📈 Trading & Blockchain</h3>
+      <img src="https://skillicons.dev/icons?i=solidity" /><br>
+      <div>Algo Trading • Tradetron • TradingView<br>Backtrader • MetaMask • Smart Contracts</div>
     </td>
   </tr>
 </table>
 
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats
-
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
+<!-- Animated Progress Bars -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical" alt="GitHub Streak" />
+  <h3>📈 Skill Proficiency</h3>
+  
+  ![Python](https://geps.dev/progress/95?dangerColor=800909&warningColor=ff9500&successColor=006600)
+  ![Machine Learning](https://geps.dev/progress/90?dangerColor=800909&warningColor=ff9500&successColor=006600)
+  ![Data Analysis](https://geps.dev/progress/88?dangerColor=800909&warningColor=ff9500&successColor=006600)
+  ![Trading Algorithms](https://geps.dev/progress/85?dangerColor=800909&warningColor=ff9500&successColor=006600)
+  ![Full Stack Development](https://geps.dev/progress/80?dangerColor=800909&warningColor=ff9500&successColor=006600)
 </div>
 
-<br>
-<br>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&row=1" alt="GitHub Trophies" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
+  <strong>My GitHub Analytics</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan941394&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 Education & Certifications
 
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 25px;">
-  <div style="flex: 1; min-width: 300px; background: linear-gradient(45deg, #3a1c71, #d76d77); border-radius: 16px; padding: 20px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 50%; height: 60px; width: 60px; display: flex; justify-content: center; align-items: center; margin-right: 15px;">
-        <h1 style="color: #ffffff; font-size: 30px;">🎓</h1>
-      </div>
-      <div>
-        <h3 style="color: #ffffff; margin: 0;">BTech in Electronics & Communication</h3>
-        <p style="color: #f1f1f1; font-style: italic; margin: 5px 0;">Arya College of Engineering & IT, Jaipur</p>
-        <div style="background: rgba(255, 255, 255, 0.15); padding: 3px 10px; border-radius: 12px; display: inline-block;">
-          <p style="color: #ffffff; margin: 0; font-size: 14px;">2019-2023</p>
-        </div>
-      </div>
-    </div>
-    <div style="border-left: 2px solid rgba(255, 255, 255, 0.5); padding-left: 15px; margin-left: 30px;">
-      <p style="color: #f1f1f1;">Focused on signal processing and communications systems while developing a strong foundation in programming and electronics.</p>
-      <div style="background: rgba(255, 255, 255, 0.1); border-radius: 8px; padding: 10px; margin-top: 10px;">
-        <p style="color: #ffffff; margin: 0;"><strong>Key Projects:</strong> IoT-based Home Automation, ML-driven Signal Analysis</p>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
+  <strong>Learning Journey</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
 </div>
 
-<div style="margin: 30px 0;">
-  <h3 align="center">🏆 Professional Certifications</h3>
-  
-  <div align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/DataCamp-Associate_Data_Analyst-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp Certification"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/IBM-Data_Science_and_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certification"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/🤖_Advanced_ML_Engineering-DD1818?style=for-the-badge" alt="Advanced ML Engineering"/>
-    </a>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40px"><br>
+      <strong>🎓 BTech in ECE</strong><br>
+      <span>Arya College of Engineering & IT</span><br>
+      <sub>2019-2023 | Signal Processing & Communications</sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="40px"><br>
+      <strong>📊 Data Science Master's</strong><br>
+      <span>LearnBay</span><br>
+      <sub>Advanced ML, NLP, Computer Vision</sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40px"><br>
+      <strong>🏆 Associate Data Analyst</strong><br>
+      <span>DataCamp</span><br>
+      <sub>Data manipulation & visualization</sub>
+    </td>
+  </tr>
+</table>
 
-  <br>
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://media.datacamp.com/legacy/image/upload/v1654675854/Screenshot_2022_06_08_at_09_10_31_8da07e9a56.png" width="40" height="40" alt="DataCamp"><br>
-        <strong>Associate Data Analyst</strong><br>
-        <span>DataCamp</span><br>
-        <sub>Data manipulation, visualization & analysis</sub>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="40" height="40" alt="IBM"><br>
-        <strong>Data Science and AI</strong><br>
-        <span>IBM</span><br>
-        <sub>ML algorithms & AI integration</sub>
-      </td>
-      <td align="center">
-        <span style="font-size: 30px;">🤖</span><br>
-        <strong>Advanced ML Engineering</strong><br>
-        <span>Specialized Training</span><br>
-        <sub>Deploying ML systems at scale</sub>
-      </td>
-      <td align="center">
-        <img src="https://www.learnbay.co/_next/image?url=https%3A%2F%2Fd32and0ii3b8oy.cloudfront.net%2Fweb%2Fs3_main%2FlearnbayMain%2Flearnbay-logo.png&w=256&q=100" width="40" height="40" alt="LearnBay"><br>
-        <strong>Master's in Data Science and AI</strong><br>
-        <span>LearnBay</span><br>
-        <sub>Advanced ML, NLP, Computer Vision</sub>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/DataCamp-Associate_Data_Analyst-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/IBM-Data_Science_and_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🤖_Advanced_ML_Engineering-DD1818?style=for-the-badge" alt="Advanced ML"/>
+  </a>
 </div>
 
-<div>
-  <h3 align="center">🌟 Continuous Learning Journey</h3>
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <h4>🔥 Trading Algorithms</h4>
-        <p>Specialized coursework in financial algorithms and market analysis</p>
-      </td>
-      <td align="center">
-        <h4>🧠 LLM Specialization</h4>
-        <p>Advanced study of large language models and their applications</p>
-      </td>
-      <td align="center">
-        <h4>☁️ Cloud Architecture</h4>
-        <p>Designing scalable systems on AWS and Azure platforms</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🛠️ Tools & Development Environment
 
-
-
-
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-
-
-### 🛠️ Tools & Development Environment
-
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
+  <strong>Development Arsenal</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Tech stack animation">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,docker,git,postman,linux,windows" />
 </div>
 
-<hr style="border: 1px solid #BB2649; margin-top: 20px; margin-bottom: 20px;">
-
-<div align="center" style="background: linear-gradient(45deg, #0d1117, #161b22); border-radius: 10px; padding: 20px; margin-top: 30px;">
-  <h3 style="color: #58a6ff; margin-top: 0;">Let's Connect and Build Something Amazing! ✨</h3>
-  
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-    <a href="mailto:pawankumarwork9413@gmail.com" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/pawan941394/" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/pawan941394" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </div>
-  
-  <div style="margin-top: 15px; color: #8b949e; font-size: 14px;">
-    ⚡ Available for freelance projects and collaborations
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
-<div align="center" style="margin-top: 30px; font-size: 12px; color: #8b949e;">
-  <p>Made with 💻 and ☕ by Pawan Kumar</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Current Focus & Projects
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px">
+  <strong>What I'm Working On</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px">
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">
+      <h3>🤖 AI Trading Bot</h3>
+      <p>Building an advanced algorithmic trading system using machine learning for market prediction and automated trading strategies.</p>
+      <img src="https://geps.dev/progress/75" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="30px">
+      <h3>📊 LLM Analytics Platform</h3>
+      <p>Developing a comprehensive platform for large language model analysis and deployment with real-time monitoring capabilities.</p>
+      <img src="https://geps.dev/progress/60" />
+    </td>
+  </tr>
+</table>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Connect and Collaborate!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px">
+  <strong>Build Something Amazing Together!</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px">
+</div>
+
+<div align="center">
+  <a href="mailto:pawankumarwork9413@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/pawan941394/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
+  </a>
+  <a href="https://github.com/pawan941394">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black" />
+  </a>
+  <a href="https://www.youtube.com/@Pawankumar-py4tk">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=red" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20px">
+  <strong>⚡ Available for freelance projects and collaborations</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20px">
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">
+  <strong>Made with 💻 and ☕ by Pawan Kumar</strong>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✨;Let's+code+the+future+together!+🚀;Happy+Coding!+💻&font=Fira%20Code&center=true&width=380&height=50&color=58a6ff&vCenter=true&size=18&pause=3000">
 </div>
 
 
