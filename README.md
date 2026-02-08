@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Pawan's+Digital+Universe+🌟;Full+Stack+Developer+💻;Data+Science+%26+AI+Specialist+🤖;Algorithmic+Trading+Expert+📈;Building+the+Future+with+Code+✨&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=22&pause=1000&repeat=true">
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=blueviolet" alt="Profile views"/>
@@ -9,8 +7,6 @@
 </div>
 
 
-
-# Pawan Kumar
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22c55e&center=true&vCenter=true&width=760&lines=Senior+AI%2FML+Engineer;Machine+Learning+%7C+LLM+Systems+%7C+RAG;Voice+AI+%7C+Agents+%7C+Automation" alt="Typing SVG" />
