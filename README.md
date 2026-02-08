@@ -326,7 +326,7 @@ Two projects upfront, with each category in its own dropdown.
 
 ## Education
 
-- BTech in ECE, Arya College of Engineering and IT (RTU), Jaipur - 2023
+- BTech in ECE, Arya College of Engineering and IT , Jaipur - 2023
 
 
 ---
