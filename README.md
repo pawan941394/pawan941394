@@ -8,302 +8,355 @@
   <img src="https://img.shields.io/github/stars/pawan941394?label=Stars&style=social" alt="GitHub stars" />
 </div>
 
-<!-- Animated Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</div>
 
-<!-- Animated Coding GIF -->
+
+# Pawan Kumar
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=22c55e&center=true&vCenter=true&width=760&lines=Senior+AI%2FML+Engineer;Machine+Learning+%7C+LLM+Systems+%7C+RAG;Voice+AI+%7C+Agents+%7C+Automation" alt="Typing SVG" />
 </p>
 
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-  &nbsp;Pawan Kumar&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-</h1>
-
-<!-- Animated Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20AI-brightgreen?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL%20%7C%20JavaScript-blue?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expertise-Algorithmic%20Trading%20%7C%20Gen%20AI-orange?style=for-the-badge&logo=trading-view&logoColor=white" />
-</div>
-
-<!-- Animated Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan941394/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse">
-  </a>
-  <a href="https://share.streamlit.io/user/pawan941394">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@Pawankumar-py4tk">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:22c55e&height=140&section=header&text=Pawan%20Kumar&fontSize=40&fontColor=ffffff" alt="Header" />
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <strong>Senior AI/ML Engineer - Voice AI - LLM Systems - RAG - Automation</strong>
+</p>
 
-## 🚀 About Me
+<p align="center">
+  I build production-grade AI/ML systems with strong ownership across backend and cloud deployment.
+  Reliable, low-latency solutions that create real business impact.
+</p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Tech animation">
+<p align="center">
+  <a href="mailto:pawankumarwork9413@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/pawan941394/">LinkedIn</a> |
+  <a href="https://github.com/pawan941394">GitHub</a> |
+  <a href="https://www.youtube.com/@Pawankumar-py4tk">YouTube</a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30px"> **Data Science & AI professional** with expertise in algorithmic trading, LLM integrations, and full-stack development.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Production%20Systems-22c55e?style=for-the-badge" alt="AI ML" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Pipelines-0ea5e9?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/LLM-RAG%20%26%20Agents-f97316?style=for-the-badge" alt="LLM" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> **Creating innovative solutions** at the intersection of finance and technology:
+---
 
-- 📊 **Data Analysis & Visualization** <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="20px">
-- 🤖 **Machine Learning & Generative AI** <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4b3d-b250-833f18c6ca44.gif" width="20px">
-- 📈 **Algorithmic Trading Systems** <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="20px">
-- 🌐 **Full Stack Web Development** <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="20px">
-- ⚙️ **API Integration & Automation** 
+## Signal Board
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
- 
-  <strong>Tech Stack</strong> 
-</div>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px"><br>
-      <h3>🐍 Data Science & Analysis</h3>
-      <img src="https://skillicons.dev/icons?i=python,pandas,numpy" /><br>
-      <div>NumPy • Pandas • Statistics<br>Backtesting • Option Strategies</div>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50px"><br>
-      <h3>📊 Data Visualization</h3>
-      <img src="https://skillicons.dev/icons?i=d3,grafana" /><br>
-      <div>Power BI • Tableau • Excel<br>Matplotlib • Seaborn • Plotly</div>
-    </td>
-    <td align="center" width="33%">
-     <br>
-      <h3>🤖 ML & AI</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
-      <div>LangChain • FAISS • Google PaLM<br>Gemini • Llama • RAG<br>VLLM • Ollama</div>
-    </td>
+    <td><strong>AI Focus</strong><br/>LLM systems, RAG, agents, voice AI</td>
+    <td><strong>ML Focus</strong><br/>Model training, evaluation, CV, NLP</td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px"><br>
-      <h3>☁️ Cloud & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=azure,aws,docker" /><br>
-      <div>Azure • AWS • Kite API<br>Fyers API • Alpaca API<br>Run Pod • Koyeb</div>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px"><br>
-      <h3>💻 Development</h3>
-      <img src="https://skillicons.dev/icons?i=django,react,js,html,css" /><br>
-      <div>Django • Streamlit • HTML/CSS<br>JavaScript • FastAPI • React</div>
-    </td>
-    <td align="center">
-      <br>
-      <h3>📈 Trading & Blockchain</h3>
-      <img src="https://skillicons.dev/icons?i=solidity" /><br>
-      <div>Algo Trading • Tradetron • TradingView<br>Backtrader • MetaMask • Smart Contracts</div>
-    </td>
+    <td><strong>Production Strength</strong><br/>Latency, reliability, monitoring</td>
+    <td><strong>Core Stack</strong><br/>Python, FastAPI, PyTorch, AWS</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong><br/>3+ years in AI/ML and data</td>
+    <td><strong>Contact</strong><br/>pawankumarwork9413@gmail.com | +91 9057714590</td>
   </tr>
 </table>
 
-<!-- Animated Progress Bars -->
-<div align="center">
-  <h3>📈 Skill Proficiency</h3>
-  
-  ![Python](https://geps.dev/progress/95?dangerColor=800909&warningColor=ff9500&successColor=006600)
-  ![Machine Learning](https://geps.dev/progress/90?dangerColor=800909&warningColor=ff9500&successColor=006600)
-  ![Data Analysis](https://geps.dev/progress/88?dangerColor=800909&warningColor=ff9500&successColor=006600)
-  ![Trading Algorithms](https://geps.dev/progress/85?dangerColor=800909&warningColor=ff9500&successColor=006600)
-  ![Full Stack Development](https://geps.dev/progress/80?dangerColor=800909&warningColor=ff9500&successColor=006600)
-</div>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Highlights
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> GitHub Stats
+- Built production Voice AI with STT/TTS and multi-turn calling agents
+- Automated 8 trading strategies -> **25% efficiency gain**
+- Certificate platform handling **10k+ records**
+- Reduced manual processing time by **70%**
+- Improved UI performance by **~80%** via backend optimization
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
-  <strong>My GitHub Analytics</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
-</div>
+## AI vs ML Focus
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
+**AI**
+- LLM systems, RAG, tool use, agent orchestration
+- Voice AI pipelines with STT/TTS and latency tuning
+- Production guardrails and evaluation
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawan941394&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+**ML**
+- Model training, CV, NLP, and dataset workflows
+- Feature engineering, validation, and metrics
+- Deployment-ready inference and monitoring
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan941394&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
-</div>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## AI/ML Focus Areas
 
-## 🎓 Education & Certifications
+- LLM productization: evaluation, prompt systems, fine-tuning, and guardrails
+- RAG at scale: retrieval design, vector DBs, relevance tuning, and cost control
+- Voice AI: real-time STT/TTS, latency optimization, and conversation quality
+- AI automation: multi-agent workflows, tools, and reliable orchestration
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
-  <strong>Learning Journey</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50px">
-</div>
+---
 
-<table align="center">
+## How I Work
+
+- Start with the business goal and define measurable success metrics
+- Build reliable baselines first, then iterate toward quality and scale
+- Ship production-ready systems with monitoring, fallback paths, and cost controls
+
+```text
+Discover -> Prototype -> Evaluate -> Deploy -> Monitor
+```
+
+---
+
+## 30 / 60 / 90 Day Impact
+
+| Timeline | What I Deliver |
+| --- | --- |
+| 30 days | Audit current AI stack, define KPIs, and ship a stable baseline pipeline |
+| 60 days | Production-grade RAG/LLM system with evaluation and monitoring |
+| 90 days | Optimize latency and cost, scale workflows, and enable new AI features |
+
+---
+## Featured Projects
+
+- **AI YouTube Video Automation** - End-to-end pipeline that generates script, video, thumbnail, SEO, and uploads to YouTube
+- **Finance Agent Assistant** - Real-time stock analysis using multi-model LLM pipelines
+- **Globe Hopper** - AI travel itinerary generator with PDF export
+- **MedX Tutor** - AI tool for radiographic image generation and X-ray interpretation guidance
+- **AI Email Auto-Responder** - Context-aware Gmail replies using IMAP/SMTP + LLMs
+- **AI Social Media Manager** - Auto-generates images/posts and publishes to LinkedIn + X
+
+---
+
+## Signature Builds
+
+<table>
   <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40px"><br>
-      <strong>🎓 BTech in ECE</strong><br>
-      <span>Arya College of Engineering & IT</span><br>
-      <sub>2019-2023 | Signal Processing & Communications</sub>
-    </td>
-    <td align="center">
-      <br>
-      <strong>📊 Data Science Master's</strong><br>
-      <span>LearnBay</span><br>
-      <sub>Advanced ML, NLP, Computer Vision</sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40px"><br>
-      <strong>🏆 Associate Data Analyst</strong><br>
-      <span>DataCamp</span><br>
-      <sub>Data manipulation & visualization</sub>
-    </td>
+    <td><strong>AI YouTube Video Automation</strong><br/>End-to-end content pipeline: script, video, SEO, upload.</td>
+    <td><strong>Finance Agent Assistant</strong><br/>Real-time market insights with multi-model LLM pipelines.</td>
+    <td><strong>MedX Tutor</strong><br/>AI radiography tutor with guided interpretation workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>PDF Chat Assistant</strong><br/>Chat with documents using Gemini-powered retrieval.</td>
+    <td><strong>Site2Answers RAG</strong><br/>Crawl, embed, retrieve, and answer from any site.</td>
+    <td><strong>AI Social Media Manager</strong><br/>One-click content creation and publishing automation.</td>
   </tr>
 </table>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/DataCamp-Associate_Data_Analyst-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" alt="DataCamp"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/IBM-Data_Science_and_AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🤖_Advanced_ML_Engineering-DD1818?style=for-the-badge" alt="Advanced ML"/>
-  </a>
-</div>
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Project Atlas
 
-## 🛠️ Tools & Development Environment
+Two projects upfront, with each category in its own dropdown.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
-  <strong>Development Arsenal</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50px">
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,docker,git,postman,linux,windows" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Current Focus & Projects
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px">
-  <strong>What I'm Working On</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="50px">
-</div>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px">
-      <h3>🤖 AI Trading Bot</h3>
-      <p>Building an advanced algorithmic trading system using machine learning for market prediction and automated trading strategies.</p>
-      <img src="https://geps.dev/progress/95" />
-    </td>
-    <td align="center" width="50%">
-      <width="30px">
-      <h3>📊 LLM Analytics Platform</h3>
-      <p>Developing a comprehensive platform for large language model analysis and deployment with real-time monitoring capabilities.</p>
-      <img src="https://geps.dev/progress/95" />
-    </td>
+    <td><strong>Spotlight 1</strong><br/><a href="https://github.com/pawan941394/AI-YouTube-Video-Automation">AI YouTube Video Automation</a><br/>End-to-end content pipeline: script, video, SEO, upload.</td>
+    <td><strong>Spotlight 2</strong><br/><a href="https://github.com/pawan941394/Finance-Agent">Finance-Agent</a><br/>Real-time stock analysis with Gemini AI and Yahoo Finance.</td>
   </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Browse Tracks**
 
-## 🤝 Let's Connect and Collaborate!
+`AI` `ML` `Data/Analytics` `Automation/Agents` `Web/App` `Other`
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px">
-  <strong>Build Something Amazing Together!</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50px">
-</div>
+<details>
+<summary><strong>AI (25)</strong></summary>
 
-<div align="center">
-  <a href="mailto:pawankumarwork9413@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/pawan941394/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />
-  </a>
-  <a href="https://github.com/pawan941394">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black" />
-  </a>
-  <a href="https://www.youtube.com/@Pawankumar-py4tk">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=red" />
-  </a>
-</div>
+- [AI-Agents-Memories](https://github.com/pawan941394/AI-Agents-Memories) - A simple, persistent chat application powered by Google's Gemini AI that remembers your conversation history across sessions.
+- [ai-audio-agent](https://github.com/pawan941394/ai-audio-agent) - This AI Audio Agent is an intelligent text-to-speech conversion bot powered by Google Gemini AI and Google Text-to-Speech (gTTS). The agent can understand natural language commands and convert any text into high-quality audio files.
+- [AI-Resume-Analyzer](https://github.com/pawan941394/AI-Resume-Analyzer) - An AI-powered application that analyzes your resume against specific job descriptions, providing personalized feedback and recommendations to help improve your chances of landing your dream job.
+- [AI-Vision-Chat-Assistant](https://github.com/pawan941394/AI-Vision-Chat-Assistant) - An intelligent image analysis tool that combines the power of Large Language Models (LLM) with computer vision to provide interactive conversations about any image. This project leverages Ollama's vision model to analyze images and respond to user queries in natural language.
+- [ai-voice-assistant](https://github.com/pawan941394/ai-voice-assistant) - No description
+- [AI-X-Ray-Imaging-Hackathon-Project](https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project) - An innovative AI-powered medical education platform that generates synthetic X-rays from natural language prompts and provides interactive learning experiences for medical students and professionals.
+- [Ask-Question----LLM_Project](https://github.com/pawan941394/Ask-Question----LLM_Project) - With so much information online, extracting relevant insights can be tough. I created Gen AI: News Research Tool to simplify this process, using AI to help users quickly get precise answers from news articles.
+- [blacboxaiwebsite](https://github.com/pawan941394/blacboxaiwebsite) - No description
+- [brand-visibility-builder](https://github.com/pawan941394/brand-visibility-builder) - A unified AI workspace that interviews your client, captures every requirement, and spins up on-brand assets in a single collaborative hub.
+- [chatbot](https://github.com/pawan941394/chatbot) - No description
+- [create-your-AI-Avatar](https://github.com/pawan941394/create-your-AI-Avatar) - Transform any text into professional AI avatar videos using the power of HeyGen API! Just type your message, and watch as a realistic AI avatar speaks your words with perfect lip-sync and natural expressions.
+- [Finance-Agent](https://github.com/pawan941394/Finance-Agent) - A powerful AI-powered finance assistant built with Streamlit that provides real-time stock analysis, analyst recommendations, and financial data insights using Google's Gemini AI and Yahoo Finance.
+- [FinBot_AI_Software_Engineer](https://github.com/pawan941394/FinBot_AI_Software_Engineer) - No description
+- [Naukri-Web-Scrapper-](https://github.com/pawan941394/Naukri-Web-Scrapper-) - A powerful Python tool for scraping job listings from Naukri.com, allowing you to search for jobs by title and collect detailed information in a CSV format.
+- [Nse-Option-Chain---LLM-Project](https://github.com/pawan941394/Nse-Option-Chain---LLM-Project) - This project was developed by a single developer with a passion for combining financial data analysis with cutting-edge AI technologies. The NSE Option Chain With Gen AI tool brings together real-time stock market data and AI-driven insights to help users make informed decisions. By leveraging the power of the NSE API and generative AI.
+- [own_LLM](https://github.com/pawan941394/own_LLM) - No description
+- [PDF-Chat-Assistant-with-Gemini-AI](https://github.com/pawan941394/PDF-Chat-Assistant-with-Gemini-AI) - A Streamlit web application that allows users to upload PDF documents and have interactive conversations about their content using Google's Gemini AI.
+- [Restaurant--Name-Menu--Creation--LLM_Project](https://github.com/pawan941394/Restaurant--Name-Menu--Creation--LLM_Project) - No description
+- [site2answers-rag](https://github.com/pawan941394/site2answers-rag) - Site-to-answers RAG chatbot: crawl a site, embed with Gemini, retrieve top chunks, and chat via Agno
+- [system-Prompt](https://github.com/pawan941394/system-Prompt) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
+- [Talk-to-your-DB----LLM_Project](https://github.com/pawan941394/Talk-to-your-DB----LLM_Project) - In many organizations, valuable data often remains untapped because only a few people have the technical skills to access it. Talk To Your DB was built to address this challenge. By enabling natural language queries, my goal is to bridge the gap between data and decision-making, allowing more people to gain actionable insights from their databases.
+- [text-to-image-and-Image-Editor-AI-Assistant](https://github.com/pawan941394/text-to-image-and-Image-Editor-AI-Assistant) - AI Image Generator & Assistant! Leverage the power of Streamlit and Gemini AI to generate and edit images with creative text prompts. Build stunning visuals or refine your images effortlessly.
+- [trading-rag-assistant](https://github.com/pawan941394/trading-rag-assistant) - An AI-powered chatbot built with Streamlit and Agno AI Agent that helps you analyze holdings and trades data using natural language queries.
+- [Youtube-AI-Agent](https://github.com/pawan941394/Youtube-AI-Agent) - Bharat AI Connect YouTube Agent is an intelligent AI-powered assistant that transforms how you interact with YouTube videos. Upload a video URL, and our AI will help you extract valuable insights, summaries, and answer any questions about the content!
+- [YouTube-Transcript-AI-Assistant](https://github.com/pawan941394/YouTube-Transcript-AI-Assistant) - An AI-powered tool that extracts YouTube video transcripts and lets you chat with the content using LLMs. Get insights, summaries, and answers without watching the entire video. Built with Python and Streamlit, it supports multiple languages, auto-generated captions, and provides a clean interface for interacting with video content.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20px">
-  <strong>⚡ Available for freelance projects and collaborations</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="20px">
-</div>
+</details>
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">
-  <strong>Made with 💻 and ☕ by Pawan Kumar</strong>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20px">
-</div>
+<details>
+<summary><strong>ML (6)</strong></summary>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+✨;Let's+code+the+future+together!+🚀;Happy+Coding!+💻&font=Fira%20Code&center=true&width=380&height=50&color=58a6ff&vCenter=true&size=18&pause=3000">
-</div>
+- [animal-faces-classifier](https://github.com/pawan941394/animal-faces-classifier) - A compact PyTorch pipeline that learns to recognize cat, dog, and wild animal faces from the AFHQ dataset.
+- [Automaticc-Tweets](https://github.com/pawan941394/Automaticc-Tweets) - In this project, we have designed a project through simple web technology like HTML, CSS, JAVASCRIPT, DJANGO. This is working like an alarm clock you can add your tweets and set time these tweets will be automatic post on your given time.
+- [bean-leaf-disease-classification](https://github.com/pawan941394/bean-leaf-disease-classification) - Early detection of fungal disease can reduce yield loss by enabling faster intervention. This repo demonstrates a compact, reproducible image-classification pipeline with transfer learning.
+- [Flutter_learning](https://github.com/pawan941394/Flutter_learning) - No description
+- [handwritten-digit-classifier](https://github.com/pawan941394/handwritten-digit-classifier) - A deep learning project that recognizes handwritten digits (0-9) using a Neural Network built with PyTorch.
+- [rice_type_classification](https://github.com/pawan941394/rice_type_classification) - A deep learning project to classify rice types (Jasmine vs Gonen) using a Neural Network built with PyTorch.
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Data/Analytics (4)</strong></summary>
+
+- [Facebook_data_analysis](https://github.com/pawan941394/Facebook_data_analysis) - Welcome to the "Facebook Data Analysis" project, where we've embarked on an exciting journey into the world of data. With 98,000 records at our fingertips, we've harnessed the power of Python, SQL, and Power BI to uncover valuable insights.
+- [HR_Data_Analysis](https://github.com/pawan941394/HR_Data_Analysis) - Welcome to the HR Data Analysis project repository. This project utilizes Tableau and SQL to analyze and visualize human resources data, providing valuable insights into our organization's workforce.
+- [Pizza-Store-Report](https://github.com/pawan941394/Pizza-Store-Report) - It's an Data Analysis Project where  I have developed a Complete "Pizza-Store-Report" With the SQl  and Tableau .
+- [YouTubeAndSpotify_DataAnalysis](https://github.com/pawan941394/YouTubeAndSpotify_DataAnalysis) - "YouTube and Spotify Data Analysis"
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Automation/Agents (3)</strong></summary>
+
+- [Humanoid-robot](https://github.com/pawan941394/Humanoid-robot) - No description
+- [linkedin-automation](https://github.com/pawan941394/linkedin-automation) - No description
+- [personal_social_media](https://github.com/pawan941394/personal_social_media) - in this project i have created a personal social app .
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Web/App (20)</strong></summary>
+
+- [Corona-Live-Update](https://github.com/pawan941394/Corona-Live-Update) - Feel free to use our app
+- [Django_mini_projects](https://github.com/pawan941394/Django_mini_projects) - hello, everyone I have created some Django projects for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
+- [Django_Todo_list](https://github.com/pawan941394/Django_Todo_list) - hello everyone today I have created a lTodo app with Django I hope you all like it then tell me how I can minimize code.
+- [Happy-Birthday](https://github.com/pawan941394/Happy-Birthday) - This is a web based interactive birthday card.
+- [iNotebook-React](https://github.com/pawan941394/iNotebook-React) - INotebook is a React Application for managing personal notes on the cloud
+- [JavaScript-Calculator](https://github.com/pawan941394/JavaScript-Calculator) - hello guys today I have created my first music app with javaScript calculator. Check this how is this and also contribute if you can
+- [JavaScript-Projects](https://github.com/pawan941394/JavaScript-Projects) - hello, everyone I have created some javascript projects  for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
+- [JavaScript_Games](https://github.com/pawan941394/JavaScript_Games) - Hello everyone i have created some cool game through javascript . Tell me how is this .
+- [job-tracking-application](https://github.com/pawan941394/job-tracking-application) - No description
+- [link_shortener-](https://github.com/pawan941394/link_shortener-) - hello everyone today I have created a link shortener app with Django I hope you all like it then tell me how I can minimize code.
+- [Music-App](https://github.com/pawan941394/Music-App) - Today I have created my first music app with java. Check this how is this and also contribute if you can
+- [Personal-Job-Tracking-application](https://github.com/pawan941394/Personal-Job-Tracking-application) - No description
+- [Portfolio](https://github.com/pawan941394/Portfolio) - No description
+- [reactFirstWebsite](https://github.com/pawan941394/reactFirstWebsite) - No description
+- [reactTextUtils](https://github.com/pawan941394/reactTextUtils) - No description
+- [Resume_Website](https://github.com/pawan941394/Resume_Website) - i have created a resume website . you can use this as a portfolio
+- [rockpaperscissor_game](https://github.com/pawan941394/rockpaperscissor_game) - Hello everyone i have created some this game through javascript . Tell me how is this .
+- [textutials_website](https://github.com/pawan941394/textutials_website) - edit your texts
+- [Web-Animation](https://github.com/pawan941394/Web-Animation) - hello, everyone I have created some web animation projects for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
+- [web-developement](https://github.com/pawan941394/web-developement) - learn together
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>Other (25)</strong></summary>
+
+- [Analyzing_Banking_Trends](https://github.com/pawan941394/Analyzing_Banking_Trends) - Analyzing Banking Trends: Customer Transactions and Regional Impact
+- [codevirus](https://github.com/pawan941394/codevirus) - No description
+- [codevirus-code](https://github.com/pawan941394/codevirus-code) - codevirus complete code
+- [CPP-Programming](https://github.com/pawan941394/CPP-Programming) - here you will be get complete topics and many question with solution
+- [DAMNCON](https://github.com/pawan941394/DAMNCON) - No description
+- [Dream_project](https://github.com/pawan941394/Dream_project) - No description
+- [evaluate-resume-with-job-description-and-make-assessment](https://github.com/pawan941394/evaluate-resume-with-job-description-and-make-assessment) - No description
+- [Google-Meet](https://github.com/pawan941394/Google-Meet) - No description
+- [hackershala_project](https://github.com/pawan941394/hackershala_project) - No description
+- [images-optamization](https://github.com/pawan941394/images-optamization) - images optamization
+- [InstaGram_Clone](https://github.com/pawan941394/InstaGram_Clone) - No description
+- [MakeANote](https://github.com/pawan941394/MakeANote) - No description
+- [makeanotetesting](https://github.com/pawan941394/makeanotetesting) - No description
+- [MakeNote.in](https://github.com/pawan941394/MakeNote.in) - No description
+- [Naukri.com-Clone](https://github.com/pawan941394/Naukri.com-Clone) - No description
+- [neworga](https://github.com/pawan941394/neworga) - No description
+- [oceanthink](https://github.com/pawan941394/oceanthink) - No description
+- [pawan941394](https://github.com/pawan941394/pawan941394) - No description
+- [python-programing](https://github.com/pawan941394/python-programing) - codeing problem
+- [Python-with-Projects-](https://github.com/pawan941394/Python-with-Projects-) - hello, everyone I have created some python projects for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
+- [TCS-iON-RIO-45](https://github.com/pawan941394/TCS-iON-RIO-45) - No description
+- [testing](https://github.com/pawan941394/testing) - No description
+- [testing_repo](https://github.com/pawan941394/testing_repo) - No description
+- [TicTacToeGame](https://github.com/pawan941394/TicTacToeGame) - Hello everyone i have created a Tic toe game i hope you like it
+- [unifiedTechnology](https://github.com/pawan941394/unifiedTechnology) - No description
+
+</details>
+
+---
+
+## Core Skills (AI/ML Focus)
+
+- **AI/ML Core:** **Machine Learning**, **LLMs**, **RAG**, **Prompt Engineering**, **Fine-tuning**, **LoRA**, **vLLM**, **Quantization**, **Vector Databases**, **Generative AI Pipelines**
+- **AI/ML Frameworks:** **PyTorch**, **scikit-learn**, **Hugging Face**, **LangChain**, **Agno**, **Ollama**
+- **Voice AI:** **STT**, **TTS**, low-latency inference, multi-turn call flows
+- **Data & Analytics:** **SQL**, **MySQL**, **Pandas**, **NumPy**, **Matplotlib**, Data Analysis, Data Visualization, Data Quality
+- **Backend:** **Python**, **FastAPI**, **Django**, **Streamlit**, REST APIs, Git, GitHub
+- **Cloud & Infra:** **AWS**, **Azure**, **Docker**, **GPU**, Cloud APIs, Automation
+- **AI Specializations:** **Computer Vision**, **NLP**
+- **Finance & Trading:** Backtesting, Option Strategies, Algorithmic Trading
+- **Additional:** Web Development, App Development, WordPress
+
+---
+
+## Experience
+
+**Senior AI Engineer - Primesource Consulting LLP** (Dec 2025 - Present)  
+- Built **Voice AI** systems with real-time **STT/TTS**, multi-turn calling agents, and production reliability
+- Delivered **LLM** integrations for inbound/outbound workflows with latency optimization
+- Deployed **AI/ML** pipelines focused on stability, accuracy, and scale
+
+**AI/ML Engineer - Finsocial Digital Systems** (Oct 2024 - Nov 2025)  
+- Built India-focused **LLMs** and **AI/ML** tools for algorithmic trading
+- Developed **multi-agent** pipelines for financial and geospatial insights
+- Shipped end-to-end **AI systems** using **Python**, **Streamlit**, and **AWS**
+
+**Data Analyst - Bytequity** (Dec 2023 - Aug 2024)
+
+**Python Developer - Orga Plants** (Mar 2022 - Mar 2023)  
+- Built **Python** + **Django** backend services and optimized UI performance by ~80%
+
+**Python Developer Intern - Care Team Pvt Ltd** (Jan 2022 - Mar 2022)  
+- Automated certificate generation for 10k+ user records
+
+---
 
 
+## Education
+
+- BTech in ECE, Arya College of Engineering and IT (RTU), Jaipur - 2023
+
+
+---
+
+## Certifications
+
+- IBM Data Science Professional Certificate
+- Python for Data Science and AI
+- Microsoft Future Ready Talent
+
+---
+
+## Contact
+
+- Email: **pawankumarwork9413@gmail.com**
+- Phone: **+91 9057714590**
+- LinkedIn: https://www.linkedin.com/in/pawan941394/
+- GitHub: https://github.com/pawan941394
+- YouTube: https://www.youtube.com/@Pawankumar-py4tk
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:111827,100:0f172a&height=120&section=footer" alt="Footer" />
+</p>
+
+## Availability
+
+If you are hiring for **AI/ML Engineer / GenAI / Voice AI** roles, I can deliver production-grade systems fast. I am looking for a long-term role and would like to grow with one company for the next 5-6 years in the right opportunity. Let's connect.
