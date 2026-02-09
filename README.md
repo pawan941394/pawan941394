@@ -193,7 +193,7 @@ Two projects upfront, with each category in its own dropdown.
 <summary><strong>ML (6)</strong></summary>
 
 - [animal-faces-classifier](https://github.com/pawan941394/animal-faces-classifier) - A compact PyTorch pipeline that learns to recognize cat, dog, and wild animal faces from the AFHQ dataset.
-- [Automaticc-Tweets](https://github.com/pawan941394/Automaticc-Tweets) - In this project, we have designed a project through simple web technology like HTML, CSS, JAVASCRIPT, DJANGO. This is working like an alarm clock you can add your tweets and set time these tweets will be automatic post on your given time.
+- [Audio-classification-cnn](https://github.com/pawan941394/audio-classification-cnn) - A cutting-edge deep learning project for classifying audio recordings of Quran recitations using Convolutional Neural Networks (CNN) and mel-spectrogram features.
 - [bean-leaf-disease-classification](https://github.com/pawan941394/bean-leaf-disease-classification) - Early detection of fungal disease can reduce yield loss by enabling faster intervention. This repo demonstrates a compact, reproducible image-classification pipeline with transfer learning.
 - [Flutter_learning](https://github.com/pawan941394/Flutter_learning) - No description
 - [handwritten-digit-classifier](https://github.com/pawan941394/handwritten-digit-classifier) - A deep learning project that recognizes handwritten digits (0-9) using a Neural Network built with PyTorch.
