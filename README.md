@@ -157,8 +157,9 @@ Two projects upfront, with each category in its own dropdown.
 `AI` `ML` `Data/Analytics` `Automation/Agents` `Web/App` `Other`
 
 <details>
-<summary><strong>AI (25)</strong></summary>
-
+<summary><strong>AI (26)</strong></summary>
+  
+- [Open CV with AI Agent](https://github.com/pawan941394/opencv-ai-vision-agent) - OpenCV AI Agent Demo application
 - [AI-Agents-Memories](https://github.com/pawan941394/AI-Agents-Memories) - A simple, persistent chat application powered by Google's Gemini AI that remembers your conversation history across sessions.
 - [ai-audio-agent](https://github.com/pawan941394/ai-audio-agent) - This AI Audio Agent is an intelligent text-to-speech conversion bot powered by Google Gemini AI and Google Text-to-Speech (gTTS). The agent can understand natural language commands and convert any text into high-quality audio files.
 - [AI-Resume-Analyzer](https://github.com/pawan941394/AI-Resume-Analyzer) - An AI-powered application that analyzes your resume against specific job descriptions, providing personalized feedback and recommendations to help improve your chances of landing your dream job.
