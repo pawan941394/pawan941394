@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+
+
+<p align="center">
+  <!-- Custom-Designed 3D Animated perspective banner -->
+
+  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
+</p>
+
+>>>>>>> 4a5d9e1dd215a750e994187ee222b40cb58f64af
 <div align="center">
   <!-- Interactive visitor counter and followers badge -->
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -5,10 +16,13 @@
   <img src="https://img.shields.io/github/stars/pawan941394?label=REPOS+STARS&style=social" alt="GitHub stars" />
 </div>
 
+<<<<<<< HEAD
 <p align="center">
   <!-- Custom-Designed 3D Animated perspective banner -->
   <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
 </p>
+=======
+>>>>>>> 4a5d9e1dd215a750e994187ee222b40cb58f64af
 
 <p align="center">
   <strong>🔥 Senior AI Engineer &amp; Data Scientist specializing in low-latency Voice AI, Multi-Agent LLM Orchestrations, &amp; Algorithmic Trading Systems</strong>
@@ -145,6 +159,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 💼 Professional Timeline &amp; Breakthroughs
 
 <table width="100%">
@@ -216,6 +231,20 @@
     </td>
   </tr>
 </table>
+=======
+## 💼 Experience &amp; Achievements
+
+*   **Calance** | *AI Engineer* (March 2026 - Present)
+    *   Designing production-scale cognitive AI backend engines and low-latency API architectures.
+*   **Primesource Consulting LLP** | *Senior AI Engineer* (Dec 2025 - March 2026)
+    *   Designed real-time **Voice AI pipelines** using TTS/STT with latency optimization.
+    *   Constructed production-grade conversational calling agents with multi-turn intent extraction.
+*   **FinSocial Digital Systems** | *AI Engineer* (Oct 2024 - Nov 2025)
+    *   Engineered advanced multi-agent LLM systems to analyze financial market charts and trading strategies.
+*   **BytEquity** | *Data Analyst* (Dec 2023 - Aug 2024)
+    *   Coded and deployed **8 automated algorithmic trading strategies** on major platforms, raising operational speed by **25%**.
+    *   Developed custom web scraping engines on AWS/Azure to parse market-relevant marketing campaigns.
+>>>>>>> 4a5d9e1dd215a750e994187ee222b40cb58f64af
 
 ---
 
@@ -355,10 +384,14 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 ## 📊 Live Stats Dashboard
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=tokyonight" alt="Pawan's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan941394&layout=compact&theme=tokyonight" alt="Pawan's Top Languages" />
   <br/><br/>
+=======
+
+>>>>>>> 4a5d9e1dd215a750e994187ee222b40cb58f64af
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -372,5 +405,8 @@ Click on the tabs below to explore all of my repositories grouped by core engine
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pawan941394/">in/pawan941394</a> | 
     <strong>Portfolio:</strong> <a href="https://pawankumar.dorik.io/">pawankumar.dorik.io</a>
   </p>
+<<<<<<< HEAD
   <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/main/banner.svg" style="display: none;" />
+=======
+>>>>>>> 4a5d9e1dd215a750e994187ee222b40cb58f64af
 </div>
