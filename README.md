@@ -1,3 +1,10 @@
+
+<p align="center">
+  <!-- Custom-Designed 3D Animated perspective banner -->
+  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
+</p>
+
+
 <div align="center">
   <!-- Interactive visitor counter and followers badge -->
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -5,10 +12,6 @@
   <img src="https://img.shields.io/github/stars/pawan941394?label=REPOS+STARS&style=social" alt="GitHub stars" />
 </div>
 
-<p align="center">
-  <!-- Custom-Designed 3D Animated perspective banner -->
-  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
-</p>
 
 <p align="center">
   <strong>🔥 Senior AI Engineer &amp; Data Scientist specializing in low-latency Voice AI, Multi-Agent LLM Orchestrations, &amp; Algorithmic Trading Systems</strong>
@@ -449,10 +452,7 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 ## 📊 Live Stats Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=tokyonight" alt="Pawan's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan941394&layout=compact&theme=tokyonight" alt="Pawan's Top Languages" />
-  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -466,5 +466,4 @@ Click on the tabs below to explore all of my repositories grouped by core engine
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pawan941394/">in/pawan941394</a> | 
     <strong>Portfolio:</strong> <a href="https://pawankumar.dorik.io/">pawankumar.dorik.io</a>
   </p>
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/main/banner.svg" style="display: none;" />
 </div>
