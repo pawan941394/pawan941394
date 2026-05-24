@@ -78,7 +78,7 @@
 *   **⚡ Age 15 (Cybersecurity Maverick):** Stumbled into cybersecurity, launching an ethical hacking YouTube channel that scaled to **5,000+ subscribers** in under a year.
 *   **🎓 College Days (Full-Stack Dev & Freelancer):** Discovered web engineering, self-taught full-stack development, and started freelancing before joining a high-growth startup for **7 months** as a Full-Stack Web Developer managing a team of **five engineering talents**.
 *   **🤖 The AI Awakening:** Hand-selected to architect an advanced **humanoid robotics interface** project. Fell in love with machine intelligence, leading to a deep pivot into Data Science and Deep Learning.
-*   **🚀 Today (Senior AI Systems Engineer):** Designing production-ready, highly parallel Voice AI agents, multi-agent financial quantitative strategies, and enterprise RAG engines with robust, low-latency backends.
+*   **🚀 Today (AI Systems Engineer):** Designing production-ready, highly parallel Voice AI agents, multi-agent financial quantitative strategies, and enterprise RAG engines with robust, low-latency backends.
 
 ---
 
