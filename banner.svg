@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 340" width="100%" height="100%" style="border-radius: 16px; overflow: hidden; background: #060814; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">
+  <!-- Definitions for gradients and clips -->
+  <defs>
+    <!-- Background Radial Glow -->
+    <radialGradient id="bgGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#0c1330"/>
+      <stop offset="60%" stop-color="#060914"/>
+      <stop offset="100%" stop-color="#03040a"/>
+    </radialGradient>
+
+    <!-- Glowing Line Gradients -->
+    <linearGradient id="cyanPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+    <linearGradient id="purplePink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f5aeb"/>
+      <stop offset="100%" stop-color="#ff0844"/>
+    </linearGradient>
+    
+    <!-- Neon Gradients for Grid -->
+    <linearGradient id="gridGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#4facfe" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#7f5aeb" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Mask to fade the 3D Grid near the horizon -->
+    <linearGradient id="gridMaskGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <rect width="830" height="340" fill="url(#gridMaskGrad)"/>
+    </mask>
+  </defs>
+
+  <!-- Styles for Keyframes & Animations -->
+  <style>
+    /* CSS Variables for glowing themes */
+    :root {
+      --cyan: #00f2fe;
+      --blue: #4facfe;
+      --purple: #7f5aeb;
+      --pink: #ff0844;
+    }
+
+    /* 3D Grid Infinite Perspective Scroll */
+    @keyframes gridHorizScroll {
+      0% {
+        transform: scale(1);
+        opacity: 0.1;
+      }
+      20% {
+        opacity: 0.4;
+      }
+      90% {
+        opacity: 0.85;
+      }
+      100% {
+        transform: scale(2.8);
+        opacity: 0;
+      }
+    }
+
+    .grid-plane {
+      transform-origin: 415px 110px;
+    }
+
+    .grid-line-horiz {
+      transform-origin: 415px 110px;
+      animation: gridHorizScroll 4s cubic-bezier(0.15, 0.45, 0.35, 1) infinite;
+      stroke: url(#gridGrad);
+      stroke-width: 1.5px;
+    }
+    .gh-1 { animation-delay: 0s; }
+    .gh-2 { animation-delay: 0.8s; }
+    .gh-3 { animation-delay: 1.6s; }
+    .gh-4 { animation-delay: 2.4s; }
+    .gh-5 { animation-delay: 3.2s; }
+
+    /* Neural Network Node Pulsing */
+    @keyframes nodePulse {
+      0%, 100% {
+        transform: scale(1);
+        filter: drop-shadow(0 0 3px var(--glow));
+      }
+      50% {
+        transform: scale(1.25);
+        filter: drop-shadow(0 0 10px var(--glow));
+      }
+    }
+
+    .node {
+      animation: nodePulse 3s ease-in-out infinite;
+    }
+    .node-cyan { --glow: #00f2fe; transform-origin: 610px 70px; animation-delay: 0s; }
+    .node-purple { --glow: #7f5aeb; transform-origin: 720px 50px; animation-delay: 0.5s; }
+    .node-pink { --glow: #ff0844; transform-origin: 770px 110px; animation-delay: 1s; }
+    .node-cyan-2 { --glow: #00f2fe; transform-origin: 660px 150px; animation-delay: 1.5s; }
+    .node-purple-2 { --glow: #7f5aeb; transform-origin: 740px 190px; animation-delay: 2s; }
+    .node-pink-2 { --glow: #ff0844; transform-origin: 600px 220px; animation-delay: 2.5s; }
+    .node-cyan-3 { --glow: #00f2fe; transform-origin: 780px 230px; animation-delay: 0.8s; }
+
+    /* Data Packet Flow along Neural Connections */
+    @keyframes flowOffset {
+      0% {
+        stroke-dashoffset: 60;
+      }
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .connection-flow {
+      stroke-dasharray: 6 15;
+      animation: flowOffset 3s linear infinite;
+      stroke: #00f2fe;
+      stroke-opacity: 0.6;
+    }
+
+    /* Left Side Core Pulse */
+    @keyframes corePulse {
+      0%, 100% {
+        transform: scale(1);
+        opacity: 0.8;
+        filter: drop-shadow(0 0 5px #00f2fe);
+      }
+      50% {
+        transform: scale(1.05);
+        opacity: 1;
+        filter: drop-shadow(0 0 15px #7f5aeb);
+      }
+    }
+    
+    .ai-core {
+      transform-origin: 100px 170px;
+      animation: corePulse 4s ease-in-out infinite;
+    }
+
+    /* Core Ring Rotating */
+    @keyframes rotateCore {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .core-ring-1 {
+      transform-origin: 100px 170px;
+      animation: rotateCore 12s linear infinite;
+    }
+    .core-ring-2 {
+      transform-origin: 100px 170px;
+      animation: rotateCore 8s linear infinite reverse;
+    }
+
+    /* Typography glowing outline and fade elements */
+    @keyframes titleGlow {
+      0%, 100% {
+        text-shadow: 0 0 8px rgba(0, 242, 254, 0.4), 0 0 20px rgba(127, 90, 235, 0.2);
+      }
+      50% {
+        text-shadow: 0 0 15px rgba(0, 242, 254, 0.7), 0 0 35px rgba(255, 8, 68, 0.4);
+      }
+    }
+    .main-title {
+      animation: titleGlow 4s ease-in-out infinite;
+      font-weight: 800;
+      letter-spacing: 2px;
+    }
+
+    /* Terminal Text Changing Animation (CSS Only typing-like slider) */
+    @keyframes typingText1 {
+      0%, 28% { opacity: 1; }
+      33%, 95% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes typingText2 {
+      0%, 28% { opacity: 0; }
+      33%, 61% { opacity: 1; }
+      66%, 100% { opacity: 0; }
+    }
+    @keyframes typingText3 {
+      0%, 61% { opacity: 0; }
+      66%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    .subtitle-1 { animation: typingText1 9s ease-in-out infinite; }
+    .subtitle-2 { animation: typingText2 9s ease-in-out infinite; }
+    .subtitle-3 { animation: typingText3 9s ease-in-out infinite; }
+
+    /* Blinking Terminal Cursor */
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .cursor {
+      animation: blink 0.8s infinite;
+      fill: #00f2fe;
+    }
+  </style>
+
+  <!-- 1. Background -->
+  <rect width="830" height="340" fill="url(#bgGlow)"/>
+
+  <!-- 2. 3D Perspective Cyber-Grid Floor -->
+  <g mask="url(#gridMask)">
+    <!-- Moving Horizontal Perspective Lines -->
+    <g class="grid-plane">
+      <line x1="-300" y1="110" x2="1130" y2="110" class="grid-line-horiz gh-1"/>
+      <line x1="-300" y1="110" x2="1130" y2="110" class="grid-line-horiz gh-2"/>
+      <line x1="-300" y1="110" x2="1130" y2="110" class="grid-line-horiz gh-3"/>
+      <line x1="-300" y1="110" x2="1130" y2="110" class="grid-line-horiz gh-4"/>
+      <line x1="-300" y1="110" x2="1130" y2="110" class="grid-line-horiz gh-5"/>
+    </g>
+
+    <!-- Radiating Vertical Perspective Lines (Horizon at Y=110) -->
+    <g stroke="url(#gridGrad)" stroke-width="1px" opacity="0.6">
+      <line x1="415" y1="110" x2="415" y2="340"/>
+      <line x1="415" y1="110" x2="315" y2="340"/>
+      <line x1="415" y1="110" x2="215" y2="340"/>
+      <line x1="415" y1="110" x2="115" y2="340"/>
+      <line x1="415" y1="110" x2="-15" y2="340"/>
+      <line x1="415" y1="110" x2="-145" y2="340"/>
+      <line x1="415" y1="110" x2="515" y2="340"/>
+      <line x1="415" y1="110" x2="615" y2="340"/>
+      <line x1="415" y1="110" x2="715" y2="340"/>
+      <line x1="415" y1="110" x2="845" y2="340"/>
+      <line x1="415" y1="110" x2="975" y2="340"/>
+    </g>
+  </g>
+
+  <!-- Neon Horizon line -->
+  <line x1="0" y1="110" x2="830" y2="110" stroke="url(#cyanPurple)" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- 3. Dynamic AI Neural Network Web (Right Side) -->
+  <g id="neuralNet" stroke="#1d264f" stroke-width="1" opacity="0.8">
+    <!-- Static Network Connections -->
+    <line x1="610" y1="70" x2="720" y2="50"/>
+    <line x1="610" y1="70" x2="660" y2="150"/>
+    <line x1="720" y1="50" x2="770" y2="110"/>
+    <line x1="720" y1="50" x2="740" y2="190"/>
+    <line x1="770" y1="110" x2="780" y2="230"/>
+    <line x1="770" y1="110" x2="740" y2="190"/>
+    <line x1="660" y1="150" x2="740" y2="190"/>
+    <line x1="660" y1="150" x2="600" y2="220"/>
+    <line x1="740" y1="190" x2="600" y2="220"/>
+    <line x1="740" y1="190" x2="780" y2="230"/>
+    <line x1="600" y1="220" x2="780" y2="230"/>
+
+    <!-- Dynamic Flow Paths -->
+    <line x1="610" y1="70" x2="720" y2="50" class="connection-flow" style="animation-duration: 4s;"/>
+    <line x1="720" y1="50" x2="770" y2="110" class="connection-flow" style="animation-duration: 3s; reverse;"/>
+    <line x1="660" y1="150" x2="740" y2="190" class="connection-flow" style="animation-duration: 5s;"/>
+    <line x1="740" y1="190" x2="780" y2="230" class="connection-flow" style="animation-duration: 3.5s;"/>
+    <line x1="600" y1="220" x2="780" y2="230" class="connection-flow" style="animation-duration: 4.5s;"/>
+
+    <!-- Pulse-glowing Nodes -->
+    <circle cx="610" cy="70" r="5.5" fill="#00f2fe" class="node node-cyan"/>
+    <circle cx="720" cy="50" r="7" fill="#7f5aeb" class="node node-purple"/>
+    <circle cx="770" cy="110" r="6" fill="#ff0844" class="node node-pink"/>
+    <circle cx="660" cy="150" r="6.5" fill="#00f2fe" class="node node-cyan-2"/>
+    <circle cx="740" cy="190" r="8" fill="#7f5aeb" class="node node-purple-2"/>
+    <circle cx="600" cy="220" r="6" fill="#ff0844" class="node node-pink-2"/>
+    <circle cx="780" cy="230" r="5" fill="#00f2fe" class="node node-cyan-3"/>
+  </g>
+
+  <!-- 4. Glowing AI Core Interface (Left Side Emblem) -->
+  <g class="ai-core" transform="translate(0, 0)">
+    <!-- Core Background Glow -->
+    <circle cx="100" cy="170" r="45" fill="#7f5aeb" fill-opacity="0.05" filter="blur(10px)"/>
+    
+    <!-- Rotating Ring 1 (Complex outer ticks) -->
+    <circle cx="100" cy="170" r="40" fill="none" stroke="url(#cyanPurple)" stroke-width="2.5" stroke-dasharray="15 35 45 25" class="core-ring-1" opacity="0.6"/>
+    
+    <!-- Rotating Ring 2 (Inner ticks) -->
+    <circle cx="100" cy="170" r="32" fill="none" stroke="url(#purplePink)" stroke-width="1.5" stroke-dasharray="5 10 20 8" class="core-ring-2" opacity="0.8"/>
+    
+    <!-- Inner Core Orb -->
+    <circle cx="100" cy="170" r="16" fill="url(#cyanPurple)" opacity="0.9"/>
+    <!-- Tech details inside core -->
+    <circle cx="100" cy="170" r="8" fill="#060814"/>
+    <polygon points="100,165 104,173 96,173" fill="#00f2fe"/>
+  </g>
+
+  <!-- 5. Futuristic Typography (Center-Left) -->
+  <g transform="translate(180, 0)">
+    <!-- Floating Subtitle Label -->
+    <rect x="0" y="115" width="125" height="20" rx="10" fill="#7f5aeb" fill-opacity="0.15" stroke="#7f5aeb" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="62.5" y="129" fill="#7f5aeb" font-size="10" font-weight="700" letter-spacing="1.5" text-anchor="middle">HELLO WORLD</text>
+
+    <!-- Main Title "PAWAN KUMAR" -->
+    <text x="0" y="180" fill="#ffffff" font-size="44" class="main-title">PAWAN KUMAR</text>
+    
+    <!-- Changing Holographic Subtitles -->
+    <g transform="translate(0, 218)">
+      <!-- Command line prefix -->
+      <text x="0" y="0" fill="#7f5aeb" font-size="18" font-family="monospace" font-weight="700" opacity="0.8">> </text>
+      
+      <!-- Subtitle 1: Senior AI Engineer -->
+      <g class="subtitle-1">
+        <text x="20" y="0" fill="#00f2fe" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">Senior AI Engineer</text>
+        <rect x="238" y="-15" width="10" height="18" class="cursor"/>
+      </g>
+      
+      <!-- Subtitle 2: Data Scientist -->
+      <g class="subtitle-2">
+        <text x="20" y="0" fill="#ff0844" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">Data Scientist</text>
+        <rect x="188" y="-15" width="10" height="18" class="cursor"/>
+      </g>
+
+      <!-- Subtitle 3: YouTube Creator -->
+      <g class="subtitle-3">
+        <text x="20" y="0" fill="#4facfe" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">YouTube Creator</text>
+        <rect x="198" y="-15" width="10" height="18" class="cursor"/>
+      </g>
+    </g>
+
+    <!-- Brief bio tagline -->
+    <text x="0" y="252" fill="#586799" font-size="12" font-weight="500" letter-spacing="0.5">Building high-scale Voice AI, RAG Systems, &amp; Algorithmic Agents</text>
+  </g>
+</svg>
