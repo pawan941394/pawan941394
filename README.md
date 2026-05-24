@@ -1,3 +1,11 @@
+
+
+<p align="center">
+  <!-- Custom-Designed 3D Animated perspective banner -->
+
+  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
+</p>
+
 <div align="center">
   <!-- Interactive visitor counter and followers badge -->
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -5,11 +13,6 @@
   <img src="https://img.shields.io/github/stars/pawan941394?label=REPOS+STARS&style=social" alt="GitHub stars" />
 </div>
 
-<p align="center">
-  <!-- Custom-Designed 3D Animated perspective banner -->
-
-  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
-</p>
 
 <p align="center">
   <strong>🔥 Senior AI Engineer &amp; Data Scientist specializing in low-latency Voice AI, Multi-Agent LLM Orchestrations, &amp; Algorithmic Trading Systems</strong>
