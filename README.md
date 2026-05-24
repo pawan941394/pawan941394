@@ -311,5 +311,4 @@ Click on the tabs below to explore all of my repositories grouped by core engine
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pawan941394/">in/pawan941394</a> | 
     <strong>Portfolio:</strong> <a href="https://pawankumar.dorik.io/">pawankumar.dorik.io</a>
   </p>
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/main/banner.svg" style="display: none;" />
 </div>
