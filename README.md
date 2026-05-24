@@ -4,13 +4,16 @@
   <img src="https://img.shields.io/github/followers/pawan941394?label=FOLLOWERS&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/pawan941394?label=REPOS+STARS&style=social" alt="GitHub stars" />
 </div>
+
 <p align="center">
   <!-- Custom-Designed 3D Animated perspective banner -->
   <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
 </p>
+
 <p align="center">
   <strong>🔥 Senior AI Engineer &amp; Data Scientist specializing in low-latency Voice AI, Multi-Agent LLM Orchestrations, &amp; Algorithmic Trading Systems</strong>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan941394/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@Pawankumar-py4tk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -18,15 +21,66 @@
   <a href="https://leetcode.com/u/pawan941394/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://calendly.com/pawankumarwork/30min"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Schedule a Call"/></a>
 </p>
+
 ---
+
+## 📡 Holographic Signal Board
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1e293b; background: #0b0f19; border-radius: 12px; overflow: hidden; color: #f8fafc;">
+  <thead>
+    <tr style="background: #101524; border-bottom: 2px solid #7f5aeb;">
+      <th colspan="2" style="padding: 15px; font-size: 16px; font-weight: 700; color: #00f2fe; text-align: center; letter-spacing: 1px;">📡 HOLOGRAPHIC CORE METRICS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #1e293b;">
+      <td width="50%" style="padding: 15px; border-right: 1px solid #1e293b; vertical-align: top;">
+        <strong style="color: #ff0844; font-size: 14px;">🤖 AI Core Focus</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;">Conversational Voice Systems, Multi-Agent Orchestrations, RAG Architectures, Semantic Routing</span>
+      </td>
+      <td width="50%" style="padding: 15px; vertical-align: top;">
+        <strong style="color: #00f2fe; font-size: 14px;">🧠 Deep Learning &amp; Computer Vision</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;">PyTorch Neural Networks, CNN Audio &amp; Leaf Blight Classifiers, Image Segmentation, NLP</span>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #1e293b;">
+      <td width="50%" style="padding: 15px; border-right: 1px solid #1e293b; vertical-align: top;">
+        <strong style="color: #7f5aeb; font-size: 14px;">⚡ Production &amp; Scale</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;">Sub-second Voice Latency Tuning, Cost Optimization, LLM Guardrail Controls, API Orchestrations</span>
+      </td>
+      <td width="50%" style="padding: 15px; vertical-align: top;">
+        <strong style="color: #4facfe; font-size: 14px;">🛠️ Technical Core</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;">Python, FastAPI, Django, Django REST, SQL, AWS, Azure, APScheduler, Web Scraping Automation</span>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="padding: 15px; border-right: 1px solid #1e293b; vertical-align: top;">
+        <strong style="color: #e2e8f0; font-size: 14px;">💼 Professional Experience</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;">3+ Years building robust AI/ML backends, scraping frameworks, and quantitative trading models.</span>
+      </td>
+      <td width="50%" style="padding: 15px; vertical-align: top;">
+        <strong style="color: #00F2FE; font-size: 14px;">📬 Connect Operations</strong><br/>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;"><strong>Email:</strong> pawankumarwork9413@gmail.com<br/><strong>Mobile:</strong> +91 9413944510 / +91 9057714590</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 💫 The Journey: Back-Bencher to Senior AI Engineer
+
 > *"You don't need a perfect start to make your dreams come true. You just need the audacity to start."*
+
 *   **⚡ Age 15 (Cybersecurity Maverick):** Stumbled into cybersecurity, launching an ethical hacking YouTube channel that scaled to **5,000+ subscribers** in under a year.
 *   **🎓 College Days (Full-Stack Dev & Freelancer):** Discovered web engineering, self-taught full-stack development, and started freelancing before joining a high-growth startup for **7 months** as a Full-Stack Web Developer managing a team of **five engineering talents**.
 *   **🤖 The AI Awakening:** Hand-selected to architect an advanced **humanoid robotics interface** project. Fell in love with machine intelligence, leading to a deep pivot into Data Science and Deep Learning.
 *   **🚀 Today (Senior AI Systems Engineer):** Designing production-ready, highly parallel Voice AI agents, multi-agent financial quantitative strategies, and enterprise RAG engines with robust, low-latency backends.
+
 ---
+
 ## 🎙️ Core Engineering Pillars
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -47,8 +101,39 @@
     </td>
   </tr>
 </table>
+
 ---
+
+## 🧬 AI Production Lifecycle
+
+To translate theoretical algorithms into robust, revenue-producing enterprise assets, I execute my builds along a rigorous deployment flowchart:
+
+```mermaid
+flowchart TD
+  subgraph Research & Design ["🔍 Research & Design"]
+    A["⚙️ Business Goal & Metric KPIs"] --> B["🧪 Prototype & Baseline Pipelines"]
+  end
+  subgraph Rigorous Evaluation ["⚡ Evaluation & Tuning"]
+    B --> C["🤖 LLM Evaluation & Grounding"]
+    C --> D["⚡ Latency & Cost Optimization"]
+  end
+  subgraph Scale & Production ["🚀 Production Deploy"]
+    D --> E["🚀 Low-latency API & VoIP Deploy"]
+    E --> F["📈 Real-time Observability & Guardrails"]
+  end
+
+  style A fill:#0b0f19,stroke:#00f2fe,stroke-width:1.5px,color:#f8fafc
+  style B fill:#0b0f19,stroke:#00f2fe,stroke-width:1.5px,color:#f8fafc
+  style C fill:#0b0f19,stroke:#7f5aeb,stroke-width:1.5px,color:#f8fafc
+  style D fill:#0b0f19,stroke:#7f5aeb,stroke-width:1.5px,color:#f8fafc
+  style E fill:#0b0f19,stroke:#ff0844,stroke-width:1.5px,color:#f8fafc
+  style F fill:#0b0f19,stroke:#ff0844,stroke-width:1.5px,color:#f8fafc
+```
+
+---
+
 ## 🛠️ Tech Stack &amp; Holographic Core
+
 <table width="100%">
   <tr>
     <td valign="top" width="20%">
@@ -86,8 +171,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🎥 YouTube Creator Hub
+
 <div align="center" style="background: #0b0f19; border-radius: 12px; padding: 25px; border: 1px solid #1e293b; color: #f8fafc;">
   <a href="https://www.youtube.com/@Pawankumar-py4tk">
     <img src="https://img.shields.io/badge/YouTube-@Pawankumar--py4tk-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
@@ -102,26 +190,35 @@
     <img src="https://img.shields.io/badge/SUBSCRIBE-NOW-FF0000?style=for-the-badge&logo=youtube" alt="Subscribe"/>
   </a>
 </div>
+
 ---
+
 ## 🚀 Spotlight Builds
+
 ### 📈 [NSE Option Chain Generative AI Analyst](https://github.com/pawan941394/Nse-Option-Chain---LLM-Project)
 > **Stack: Python, Generative AI, NSE Option Chains, Streamlit**
 *   Designed a quantitative analytics dashboard parsing real-time National Stock Exchange (NSE) option chains.
 *   Integrated advanced LLM reasoning to conduct quantitative trade analysis, support/resistance finding, and volatility strategies in natural language.
+
 ### 🧠 [AgentScope Memory Finance Bot](https://github.com/pawan941394/agentscope-memory-finance-bot)
 > **Stack: Python, AgentScope, LLM, Persistent Memory**
 *   Built an autonomous financial assistant utilizing the **AgentScope** multi-agent framework.
 *   Engineered a persistent memory architecture allowing agents to remember historical portfolios, user risk profiles, and context-dependent trade rules across sessions.
+
 ### 🎥 [AI YouTube Video Automation Core](https://github.com/pawan941394/AI-YouTube-Video-Automation)
 > **Stack: Python, OpenAI, FFmpeg, YouTube API**
 *   An end-to-end autonomous content creation suite.
 *   Takes a raw topic, synthesizes highly engaging scripts via GPT models, constructs visuals/audio, generates customized thumbnails, prepares optimized SEO tags, and automates publishing directly to YouTube.
+
 ### 🩺 [MedX Tutor / Radiographic Imaging](https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project)
 > **Stack: TypeScript, Stable Diffusion, LLMs, Medical Datasets**
 *   Developed during a fast-paced medical AI hackathon.
 *   Generates high-fidelity synthetic X-ray models from natural language diagnostic notes, acting as a guided educational visual assistant for radiologists and medical students.
+
 ---
+
 ## 💼 Professional Timeline &amp; Breakthroughs
+
 <table width="100%">
   <!-- Row 1: Calance -->
   <tr style="border: none;">
@@ -139,6 +236,7 @@
       </ul>
     </td>
   </tr>
+
   <!-- Row 2: Primesource Consulting -->
   <tr style="border: none;">
     <td width="28%" valign="top" style="border: none; border-right: 2px solid #ff0844; text-align: right; padding-right: 15px;">
@@ -155,6 +253,7 @@
       </ul>
     </td>
   </tr>
+
   <!-- Row 3: FinSocial Digital Systems -->
   <tr style="border: none;">
     <td width="28%" valign="top" style="border: none; border-right: 2px solid #7f5aeb; text-align: right; padding-right: 15px;">
@@ -171,6 +270,7 @@
       </ul>
     </td>
   </tr>
+
   <!-- Row 4: BytEquity -->
   <tr style="border: none;">
     <td width="28%" valign="top" style="border: none; border-right: 2px solid #00f2fe; text-align: right; padding-right: 15px;">
@@ -188,12 +288,17 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 📁 Repository Atlas
+
 Click on the tabs below to explore all of my repositories grouped by core engineering tracks:
+
 <details>
 <summary><strong>🤖 AI (27)</strong></summary>
 <br/>
+
 -   **[Open CV with AI Agent](https://github.com/pawan941394/opencv-ai-vision-agent)**: OpenCV AI Agent Demo application
 -   **[Agent Scope Memory Finance Agent](https://github.com/pawan941394/agentscope-memory-finance-bot)**: agentscope-memory-finance-bot
 -   **[AI-Agents-Memories](https://github.com/pawan941394/AI-Agents-Memories)**: A simple, persistent chat application powered by Google's Gemini AI that remembers your conversation history across sessions.
@@ -221,35 +326,47 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 -   **[trading-rag-assistant](https://github.com/pawan941394/trading-rag-assistant)**: An AI-powered chatbot built with Streamlit and Agno AI Agent that helps you analyze holdings and trades data using natural language queries.
 -   **[Youtube-AI-Agent](https://github.com/pawan941394/Youtube-AI-Agent)**: Bharat AI Connect YouTube Agent is an intelligent AI-powered assistant that transforms how you interact with YouTube videos. Upload a video URL, and our AI will help you extract valuable insights, summaries, and answer any questions about the content!
 -   **[YouTube-Transcript-AI-Assistant](https://github.com/pawan941394/YouTube-Transcript-AI-Assistant)**: An AI-powered tool that extracts YouTube video transcripts and lets you chat with the content using LLMs. Get insights, summaries, and answers without watching the entire video. Built with Python and Streamlit, it supports multiple languages, auto-generated captions, and provides a clean interface for interacting with video content.
+
 </details>
+
 <details>
 <summary><strong>📊 ML (6)</strong></summary>
 <br/>
+
 -   **[animal-faces-classifier](https://github.com/pawan941394/animal-faces-classifier)**: A compact PyTorch pipeline that learns to recognize cat, dog, and wild animal faces from the AFHQ dataset.
 -   **[Audio-classification-cnn](https://github.com/pawan941394/audio-classification-cnn)**: A cutting-edge deep learning project for classifying audio recordings of Quran recitations using Convolutional Neural Networks (CNN) and mel-spectrogram features.
 -   **[bean-leaf-disease-classification](https://github.com/pawan941394/bean-leaf-disease-classification)**: Early detection of fungal disease can reduce yield loss by enabling faster intervention. This repo demonstrates a compact, reproducible image-classification pipeline with transfer learning.
 -   **[Flutter_learning](https://github.com/pawan941394/Flutter_learning)**: No description
 -   **[handwritten-digit-classifier](https://github.com/pawan941394/handwritten-digit-classifier)**: A deep learning project that recognizes handwritten digits (0-9) using a Neural Network built with PyTorch.
 -   **[rice_type_classification](https://github.com/pawan941394/rice_type_classification)**: A deep learning project to classify rice types (Jasmine vs Gonen) using a Neural Network built with PyTorch.
+
 </details>
+
 <details>
 <summary><strong>📈 Data/Analytics (4)</strong></summary>
 <br/>
+
 -   **[Facebook_data_analysis](https://github.com/pawan941394/Facebook_data_analysis)**: Welcome to the "Facebook Data Analysis" project, where we've embarked on an exciting journey into the world of data. With 98,000 records at our fingertips, we've harnessed the power of Python, SQL, and Power BI to uncover valuable insights.
 -   **[HR_Data_Analysis](https://github.com/pawan941394/HR_Data_Analysis)**: Welcome to the HR Data Analysis project repository. This project utilizes Tableau and SQL to analyze and visualize human resources data, providing valuable insights into our organization's workforce.
 -   **[Pizza-Store-Report](https://github.com/pawan941394/Pizza-Store-Report)**: It's an Data Analysis Project where  I have developed a Complete "" With the SQl  and Tableau .
 -   **[YouTubeAndSpotify_DataAnalysis](https://github.com/pawan941394/YouTubeAndSpotify_DataAnalysis)**: "YouTube and Spotify Data Analysis"
+
 </details>
+
 <details>
 <summary><strong>⚙️ Automation/Agents (3)</strong></summary>
 <br/>
+
 -   **[Humanoid-robot](https://github.com/pawan941394/Humanoid-robot)**: No description
 -   **[linkedin-automation](https://github.com/pawan941394/linkedin-automation)**: No description
 -   **[personal_social_media](https://github.com/pawan941394/personal_social_media)**: in this project i have created a personal social app .
+
 </details>
+
 <details>
 <summary><strong>💻 Web/App (20)</strong></summary>
 <br/>
+
 -   **[Corona-Live-Update](https://github.com/pawan941394/Corona-Live-Update)**: Feel free to use our app
 -   **[Django_mini_projects](https://github.com/pawan941394/Django_mini_projects)**: hello, everyone I have created some Django projects for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
 -   **[Django_Todo_list](https://github.com/pawan941394/Django_Todo_list)**: hello everyone today I have created a lTodo app with Django I hope you all like it then tell me how I can minimize code.
@@ -270,10 +387,13 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 -   **[textutials_website](https://github.com/pawan941394/textutials_website)**: edit your texts
 -   **[Web-Animation](https://github.com/pawan941394/Web-Animation)**: hello, everyone I have created some web animation projects for beginners, I hope you like it and you can also contribute here and also add some new projects for beginners
 -   **[web-developement](https://github.com/pawan941394/web-developement)**: learn together
+
 </details>
+
 <details>
 <summary><strong>📦 Other (25)</strong></summary>
 <br/>
+
 -   **[Analyzing_Banking_Trends](https://github.com/pawan941394/Analyzing_Banking_Trends)**: Analyzing Banking Trends: Customer Transactions and Regional Impact
 -   **[codevirus](https://github.com/pawan941394/codevirus)**: No description
 -   **[codevirus-code](https://github.com/pawan941394/codevirus-code)**: codevirus complete code
@@ -299,9 +419,13 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 -   **[testing_repo](https://github.com/pawan941394/testing_repo)**: No description
 -   **[TicTacToeGame](https://github.com/pawan941394/TicTacToeGame)**: Hello everyone i have created a Tic toe game i hope you like it
 -   **[unifiedTechnology](https://github.com/pawan941394/unifiedTechnology)**: No description
+
 </details>
+
 ---
+
 ## 📊 Live Stats Dashboard
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=tokyonight" alt="Pawan's GitHub Stats" />
   <br/><br/>
@@ -309,7 +433,9 @@ Click on the tabs below to explore all of my repositories grouped by core engine
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 ---
+
 <div align="center">
   <h3>📬 Let's Construct Something Innovative Together!</h3>
   <p>Whether it is building custom voice agents, scaling LLM pipelines, or writing quant trading strategies, let's connect!</p>
