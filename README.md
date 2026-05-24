@@ -7,9 +7,8 @@
 
 <p align="center">
   <!-- Custom-Designed 3D Animated perspective banner -->
-  ![Uploading banner.svg…]()
 
-  <img src="./banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
+  <img src="banner.svg" alt="Pawan Kumar - AI Engineer & Data Scientist Banner" width="100%"/>
 </p>
 
 <p align="center">
