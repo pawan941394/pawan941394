@@ -296,10 +296,7 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 ## 📊 Live Stats Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=tokyonight" alt="Pawan's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan941394&layout=compact&theme=tokyonight" alt="Pawan's Top Languages" />
-  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan941394&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
