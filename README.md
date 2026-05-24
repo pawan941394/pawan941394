@@ -134,40 +134,62 @@ flowchart TD
 
 ## 🛠️ Tech Stack &amp; Holographic Core
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="20%">
-      <strong>🐍 Languages</strong><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Column 1: Languages -->
+    <td width="50%" valign="top" style="border: none; padding-right: 12px; padding-bottom: 24px;">
+      <div style="background: #0b0f19; border: 1.5px solid #00f2fe; border-radius: 12px; padding: 20px; min-height: 220px; box-shadow: 0 4px 20px rgba(0, 242, 254, 0.05);">
+        <h3 style="margin-top: 0; color: #00f2fe; font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 1px solid rgba(0, 242, 254, 0.2); padding-bottom: 8px; margin-bottom: 12px;">🐍 CORE LANGUAGES</h3>
+        <p style="margin: 0; line-height: 2.2;">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/HTML5/CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5/CSS3"/>
+        </p>
+      </div>
     </td>
-    <td valign="top" width="26%">
-      <strong>🧠 AI/ML &amp; Data Science</strong><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/NumPy%20/%20Pandas-013243?style=flat-square&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+    <!-- Column 2: AI/ML & Data -->
+    <td width="50%" valign="top" style="border: none; padding-left: 12px; padding-bottom: 24px;">
+      <div style="background: #0b0f19; border: 1.5px solid #ff0844; border-radius: 12px; padding: 20px; min-height: 220px; box-shadow: 0 4px 20px rgba(255, 8, 68, 0.05);">
+        <h3 style="margin-top: 0; color: #ff0844; font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 1px solid rgba(255, 8, 68, 0.2); padding-bottom: 8px; margin-bottom: 12px;">🧠 AI/ML &amp; DATA SCIENCE</h3>
+        <p style="margin: 0; line-height: 2.2;">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+          <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+          <img src="https://img.shields.io/badge/NumPy%20/%20Pandas-013243?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+        </p>
+      </div>
     </td>
-    <td valign="top" width="27%">
-      <strong>🌐 Web Frameworks</strong><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  </tr>
+  <tr style="border: none;">
+    <!-- Column 3: Web Frameworks -->
+    <td width="50%" valign="top" style="border: none; padding-right: 12px;">
+      <div style="background: #0b0f19; border: 1.5px solid #7f5aeb; border-radius: 12px; padding: 20px; min-height: 220px; box-shadow: 0 4px 20px rgba(127, 90, 235, 0.05);">
+        <h3 style="margin-top: 0; color: #7f5aeb; font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 1px solid rgba(127, 90, 235, 0.2); padding-bottom: 8px; margin-bottom: 12px;">🌐 WEB FRAMEWORKS</h3>
+        <p style="margin: 0; line-height: 2.2;">
+          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+        </p>
+      </div>
     </td>
-    <td valign="top" width="27%">
-      <strong>⚙️ Cloud &amp; Automation</strong><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git%20/%20GitHub-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/APScheduler-7F5AEB?style=flat-square&logo=clock&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/BeautifulSoup-00F2FE?style=flat-square&logo=web&logoColor=black"/>
+    <!-- Column 4: Cloud & DevOps -->
+    <td width="50%" valign="top" style="border: none; padding-left: 12px;">
+      <div style="background: #0b0f19; border: 1.5px solid #4facfe; border-radius: 12px; padding: 20px; min-height: 220px; box-shadow: 0 4px 20px rgba(79, 172, 254, 0.05);">
+        <h3 style="margin-top: 0; color: #4facfe; font-size: 16px; font-weight: 700; letter-spacing: 0.5px; border-bottom: 1px solid rgba(79, 172, 254, 0.2); padding-bottom: 8px; margin-bottom: 12px;">⚙️ CLOUD &amp; AUTOMATION</h3>
+        <p style="margin: 0; line-height: 2.2;">
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+          <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+          <img src="https://img.shields.io/badge/Git%20/%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+          <img src="https://img.shields.io/badge/APScheduler-7F5AEB?style=for-the-badge&logo=clock&logoColor=white" alt="APScheduler"/>
+          <img src="https://img.shields.io/badge/Scraping-Web-00F2FE?style=for-the-badge&logo=web&logoColor=black" alt="Web Scraping"/>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
@@ -229,9 +251,9 @@ flowchart TD
     <td width="72%" valign="top" style="border: none; padding-left: 15px; padding-bottom: 25px;">
       <h3 style="margin: 0; color: #ffffff; font-size: 20px;">AI Engineer</h3>
       <strong style="color: #4facfe; font-size: 16px;">Calance</strong> · <span style="color: #586799; font-size: 13px;">Gurugram, India</span><br/><br/>
-      <img src="https://img.shields.io/badge/Cognitive--AI-Backend-7f5aeb?style=flat-square" alt="Cognitive AI"/> <img src="https://img.shields.io/badge/Scale-Production-ff0844?style=flat-square" alt="Production Scale"/>
+      <img src="https://img.shields.io/badge/AI--Systems-Backend-7f5aeb?style=flat-square" alt="AI Systems"/> <img src="https://img.shields.io/badge/Scale-Production-ff0844?style=flat-square" alt="Production Scale"/>
       <ul style="margin-top: 10px; color: #94a3b8; line-height: 1.5;">
-        <li>Architecting production-scale cognitive AI backend engines and low-latency API architectures for enterprise application stacks.</li>
+        <li>Architecting production-scale AI backend engines and low-latency API architectures for enterprise application stacks.</li>
         <li>Deploying highly reliable, multi-model LLM systems with focus on cost optimization and robust guardrail routing.</li>
       </ul>
     </td>
