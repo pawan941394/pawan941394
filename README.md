@@ -321,9 +321,10 @@ flowchart TD
 Click on the tabs below to explore all of my repositories grouped by core engineering tracks:
 
 <details>
-<summary><strong>🤖 AI (27)</strong></summary>
+<summary><strong>🤖 AI (28)</strong></summary>
 <br/>
 
+-   **[TalentMagnet-AI](https://github.com/pawan941394/TalentMagnet-AI)** : Transform your LinkedIn presence from a passive resume into an active, opportunity-attracting machine
 -   **[Open CV with AI Agent](https://github.com/pawan941394/opencv-ai-vision-agent)**: OpenCV AI Agent Demo application
 -   **[Agent Scope Memory Finance Agent](https://github.com/pawan941394/agentscope-memory-finance-bot)**: agentscope-memory-finance-bot
 -   **[AI-Agents-Memories](https://github.com/pawan941394/AI-Agents-Memories)**: A simple, persistent chat application powered by Google's Gemini AI that remembers your conversation history across sessions.
