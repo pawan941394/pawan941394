@@ -356,9 +356,10 @@ Click on the tabs below to explore all of my repositories grouped by core engine
 </details>
 
 <details>
-<summary><strong>📊 ML (6)</strong></summary>
+<summary><strong>📊 ML (7)</strong></summary>
 <br/>
 
+-   **[ Air Draw — Real-Time Mid-Air Canvas](https://github.com/pawan941394/Air-Draw-Real-Time-Mid-Air-Canvas)**: Draw, write, and create in mid-air using your webcam! Air Draw is a real-time computer vision application that detects hand landmarks to paint on your screen using dynamic hand gestures.
 -   **[animal-faces-classifier](https://github.com/pawan941394/animal-faces-classifier)**: A compact PyTorch pipeline that learns to recognize cat, dog, and wild animal faces from the AFHQ dataset.
 -   **[Audio-classification-cnn](https://github.com/pawan941394/audio-classification-cnn)**: A cutting-edge deep learning project for classifying audio recordings of Quran recitations using Convolutional Neural Networks (CNN) and mel-spectrogram features.
 -   **[bean-leaf-disease-classification](https://github.com/pawan941394/bean-leaf-disease-classification)**: Early detection of fungal disease can reduce yield loss by enabling faster intervention. This repo demonstrates a compact, reproducible image-classification pipeline with transfer learning.
