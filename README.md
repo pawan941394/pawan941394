@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=pawan941394&style=flat-square&color=00f2fe&label=PROFILE+VIEWS" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/pawan941394?label=Followers&style=social" alt="Followers"/>
   <a href="https://leetcode.com/u/pawan941394/"><img src="https://img.shields.io/badge/LeetCode-pawan941394-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://pawankumar.dorik.io/"><img src="https://img.shields.io/badge/Portfolio-Live-00F2FE?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+ 
 </p>
 
 <p align="center">
@@ -244,7 +244,6 @@ flowchart LR
 </p>
 
 <p align="center">
-  <a href="https://pawankumar.dorik.io/">Portfolio</a> ·
   <a href="https://calendly.com/pawankumarwork/30min">Book 30 min</a> ·
   <a href="https://leetcode.com/u/pawan941394/">LeetCode</a>
 </p>
