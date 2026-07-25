@@ -1,38 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="100%" role="img" aria-label="Tech stack">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="100%" role="img" aria-label="Tech stack">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#0a0f1f"/><stop offset="100%" stop-color="#060814"/>
     </linearGradient>
+    <linearGradient id="aiGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/><stop offset="50%" stop-color="#7f5aeb"/><stop offset="100%" stop-color="#ff0844"/>
+    </linearGradient>
   </defs>
-  <rect width="900" height="340" rx="16" fill="url(#bg)"/>
-  <text x="450" y="40" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="2">HOLOGRAPHIC CORE</text>
-  <circle cx="450" cy="175" r="48" fill="none" stroke="#7f5aeb" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="10 10">
-    <animateTransform attributeName="transform" type="rotate" from="0 450 175" to="360 450 175" dur="9s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="450" cy="175" r="28" fill="#7f5aeb" fill-opacity="0.15" stroke="#00f2fe" stroke-width="1.5"/>
-  <text x="450" y="180" text-anchor="middle" fill="#00f2fe" font-size="11" font-weight="800" font-family="Segoe UI, sans-serif">STACK</text>
+  <rect width="900" height="400" rx="16" fill="url(#bg)"/>
+  <text x="450" y="40" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="2">TECH STACK</text>
 
-  <g font-family="Segoe UI, sans-serif" font-size="12" font-weight="700">
-    <!-- row 1 -->
-    <g transform="translate(40,70)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" repeatCount="indefinite"/><rect width="120" height="36" rx="18" fill="#0b1224" stroke="#3776AB"/><text x="60" y="23" text-anchor="middle" fill="#60a5fa">Python</text></g></g>
-    <g transform="translate(175,70)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.1s" repeatCount="indefinite"/><rect width="120" height="36" rx="18" fill="#0b1224" stroke="#3178C6"/><text x="60" y="23" text-anchor="middle" fill="#93c5fd">TypeScript</text></g></g>
-    <g transform="translate(310,70)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.2s" repeatCount="indefinite"/><rect width="100" height="36" rx="18" fill="#0b1224" stroke="#4479A1"/><text x="50" y="23" text-anchor="middle" fill="#7dd3fc">SQL</text></g></g>
-    <g transform="translate(560,70)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.3s" repeatCount="indefinite"/><rect width="110" height="36" rx="18" fill="#0b1224" stroke="#009688"/><text x="55" y="23" text-anchor="middle" fill="#2dd4bf">FastAPI</text></g></g>
-    <g transform="translate(685,70)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.4s" repeatCount="indefinite"/><rect width="110" height="36" rx="18" fill="#0b1224" stroke="#092E20"/><text x="55" y="23" text-anchor="middle" fill="#34d399">Django</text></g></g>
-    <!-- row 2 -->
-    <g transform="translate(40,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.5s" repeatCount="indefinite"/><rect width="120" height="36" rx="18" fill="#0b1224" stroke="#EE4C2C"/><text x="60" y="23" text-anchor="middle" fill="#fb7185">PyTorch</text></g></g>
-    <g transform="translate(175,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.6s" repeatCount="indefinite"/><rect width="120" height="36" rx="18" fill="#0b1224" stroke="#412991"/><text x="60" y="23" text-anchor="middle" fill="#c4b5fd">OpenAI</text></g></g>
-    <g transform="translate(310,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.7s" repeatCount="indefinite"/><rect width="130" height="36" rx="18" fill="#0b1224" stroke="#1C3C3C"/><text x="65" y="23" text-anchor="middle" fill="#5eead4">LangChain</text></g></g>
-    <g transform="translate(455,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.8s" repeatCount="indefinite"/><rect width="110" height="36" rx="18" fill="#0b1224" stroke="#5C3EE8"/><text x="55" y="23" text-anchor="middle" fill="#a78bfa">OpenCV</text></g></g>
-    <g transform="translate(580,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="0.9s" repeatCount="indefinite"/><rect width="110" height="36" rx="18" fill="#0b1224" stroke="#150458"/><text x="55" y="23" text-anchor="middle" fill="#818cf8">Pandas</text></g></g>
-    <g transform="translate(710,130)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1s" repeatCount="indefinite"/><rect width="110" height="36" rx="18" fill="#0b1224" stroke="#339933"/><text x="55" y="23" text-anchor="middle" fill="#4ade80">Node.js</text></g></g>
-    <!-- row 3 -->
-    <g transform="translate(160,250)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1.1s" repeatCount="indefinite"/><rect width="100" height="36" rx="18" fill="#0b1224" stroke="#FF9900"/><text x="50" y="23" text-anchor="middle" fill="#fbbf24">AWS</text></g></g>
-    <g transform="translate(280,250)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1.2s" repeatCount="indefinite"/><rect width="100" height="36" rx="18" fill="#0b1224" stroke="#0078D4"/><text x="50" y="23" text-anchor="middle" fill="#38bdf8">Azure</text></g></g>
-    <g transform="translate(400,250)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1.3s" repeatCount="indefinite"/><rect width="90" height="36" rx="18" fill="#0b1224" stroke="#F05032"/><text x="45" y="23" text-anchor="middle" fill="#fb923c">Git</text></g></g>
-    <g transform="translate(510,250)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1.4s" repeatCount="indefinite"/><rect width="140" height="36" rx="18" fill="#0b1224" stroke="#00f2fe"/><text x="70" y="23" text-anchor="middle" fill="#00f2fe">Web Scraping</text></g></g>
-    <g transform="translate(670,250)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.8s" begin="1.5s" repeatCount="indefinite"/><rect width="100" height="36" rx="18" fill="#0b1224" stroke="#666"/><text x="50" y="23" text-anchor="middle" fill="#e2e8f0">Flask</text></g></g>
+  <!-- AI / ML / LLM CORE : highlighted hero panel -->
+  <rect x="30" y="60" width="840" height="170" rx="14" fill="#0d1229" stroke="url(#aiGlow)" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="62" cy="92" r="5" fill="#00f2fe">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="78" y="97" fill="#00f2fe" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="2">AI / ML / LLM CORE</text>
+  <text x="842" y="97" text-anchor="end" fill="#7f5aeb" font-size="11" font-weight="700" font-family="Consolas, monospace">primary weapons
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <g font-family="Segoe UI, sans-serif" font-size="13" font-weight="700">
+    <g transform="translate(60,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" repeatCount="indefinite"/><rect width="120" height="38" rx="19" fill="#0b1224" stroke="#EE4C2C" stroke-width="1.5"/><text x="60" y="24" text-anchor="middle" fill="#fb7185">PyTorch</text></g></g>
+    <g transform="translate(195,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.15s" repeatCount="indefinite"/><rect width="115" height="38" rx="19" fill="#0b1224" stroke="#412991" stroke-width="1.5"/><text x="57" y="24" text-anchor="middle" fill="#c4b5fd">OpenAI</text></g></g>
+    <g transform="translate(325,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.3s" repeatCount="indefinite"/><rect width="130" height="38" rx="19" fill="#0b1224" stroke="#1C3C3C" stroke-width="1.5"/><text x="65" y="24" text-anchor="middle" fill="#5eead4">LangChain</text></g></g>
+    <g transform="translate(470,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.45s" repeatCount="indefinite"/><rect width="150" height="38" rx="19" fill="#0b1224" stroke="#00f2fe" stroke-width="1.5"/><text x="75" y="24" text-anchor="middle" fill="#00f2fe">Multi-Agent</text></g></g>
+    <g transform="translate(635,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.6s" repeatCount="indefinite"/><rect width="90" height="38" rx="19" fill="#0b1224" stroke="#7f5aeb" stroke-width="1.5"/><text x="45" y="24" text-anchor="middle" fill="#c4b5fd">RAG</text></g></g>
+    <g transform="translate(740,118)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.75s" repeatCount="indefinite"/><rect width="120" height="38" rx="19" fill="#0b1224" stroke="#ff0844" stroke-width="1.5"/><text x="60" y="24" text-anchor="middle" fill="#ff6b8a">Voice AI</text></g></g>
+
+    <g transform="translate(60,170)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><rect width="115" height="38" rx="19" fill="#0b1224" stroke="#5C3EE8" stroke-width="1.5"/><text x="57" y="24" text-anchor="middle" fill="#a78bfa">OpenCV</text></g></g>
+    <g transform="translate(190,170)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="1.05s" repeatCount="indefinite"/><rect width="115" height="38" rx="19" fill="#0b1224" stroke="#150458" stroke-width="1.5"/><text x="57" y="24" text-anchor="middle" fill="#818cf8">Pandas</text></g></g>
+    <g transform="translate(320,170)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="1.2s" repeatCount="indefinite"/><rect width="140" height="38" rx="19" fill="#0b1224" stroke="#4facfe" stroke-width="1.5"/><text x="70" y="24" text-anchor="middle" fill="#4facfe">STT / TTS</text></g></g>
+    <g transform="translate(475,170)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="1.35s" repeatCount="indefinite"/><rect width="170" height="38" rx="19" fill="#0b1224" stroke="#00f2fe" stroke-width="1.5"/><text x="85" y="24" text-anchor="middle" fill="#5eead4">LLM Guardrails</text></g></g>
+    <g transform="translate(660,170)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="2.6s" begin="1.5s" repeatCount="indefinite"/><rect width="200" height="38" rx="19" fill="#0b1224" stroke="#7f5aeb" stroke-width="1.5"/><text x="100" y="24" text-anchor="middle" fill="#c4b5fd">Prompt Engineering</text></g></g>
   </g>
 
-  <text x="450" y="320" text-anchor="middle" fill="#586799" font-size="11" font-family="Segoe UI, sans-serif">Languages | AI/ML | Frameworks | Cloud</text>
+  <!-- Supporting stacks : dimmer -->
+  <rect x="30" y="250" width="410" height="120" rx="12" fill="#0b1020" stroke="#1e293b" stroke-width="1"/>
+  <text x="55" y="280" fill="#94a3b8" font-size="12" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="1.5">LANGUAGES &amp; WEB</text>
+  <g font-family="Segoe UI, sans-serif" font-size="11" font-weight="700" opacity="0.85">
+    <g transform="translate(55,296)"><rect width="82" height="28" rx="14" fill="#0b1224" stroke="#3776AB"/><text x="41" y="18" text-anchor="middle" fill="#60a5fa">Python</text></g>
+    <g transform="translate(147,296)"><rect width="96" height="28" rx="14" fill="#0b1224" stroke="#3178C6"/><text x="48" y="18" text-anchor="middle" fill="#93c5fd">TypeScript</text></g>
+    <g transform="translate(253,296)"><rect width="60" height="28" rx="14" fill="#0b1224" stroke="#4479A1"/><text x="30" y="18" text-anchor="middle" fill="#7dd3fc">SQL</text></g>
+    <g transform="translate(323,296)"><rect width="86" height="28" rx="14" fill="#0b1224" stroke="#009688"/><text x="43" y="18" text-anchor="middle" fill="#2dd4bf">FastAPI</text></g>
+    <g transform="translate(55,332)"><rect width="82" height="28" rx="14" fill="#0b1224" stroke="#092E20"/><text x="41" y="18" text-anchor="middle" fill="#34d399">Django</text></g>
+    <g transform="translate(147,332)"><rect width="70" height="28" rx="14" fill="#0b1224" stroke="#555"/><text x="35" y="18" text-anchor="middle" fill="#e2e8f0">Flask</text></g>
+    <g transform="translate(227,332)"><rect width="100" height="28" rx="14" fill="#0b1224" stroke="#F7DF1E"/><text x="50" y="18" text-anchor="middle" fill="#fde047">JavaScript</text></g>
+  </g>
+
+  <rect x="460" y="250" width="410" height="120" rx="12" fill="#0b1020" stroke="#1e293b" stroke-width="1"/>
+  <text x="485" y="280" fill="#94a3b8" font-size="12" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="1.5">CLOUD &amp; AUTOMATION</text>
+  <g font-family="Segoe UI, sans-serif" font-size="11" font-weight="700" opacity="0.85">
+    <g transform="translate(485,296)"><rect width="66" height="28" rx="14" fill="#0b1224" stroke="#FF9900"/><text x="33" y="18" text-anchor="middle" fill="#fbbf24">AWS</text></g>
+    <g transform="translate(561,296)"><rect width="72" height="28" rx="14" fill="#0b1224" stroke="#0078D4"/><text x="36" y="18" text-anchor="middle" fill="#38bdf8">Azure</text></g>
+    <g transform="translate(643,296)"><rect width="56" height="28" rx="14" fill="#0b1224" stroke="#F05032"/><text x="28" y="18" text-anchor="middle" fill="#fb923c">Git</text></g>
+    <g transform="translate(709,296)"><rect width="120" height="28" rx="14" fill="#0b1224" stroke="#00f2fe"/><text x="60" y="18" text-anchor="middle" fill="#00f2fe">Web Scraping</text></g>
+    <g transform="translate(485,332)"><rect width="110" height="28" rx="14" fill="#0b1224" stroke="#7f5aeb"/><text x="55" y="18" text-anchor="middle" fill="#c4b5fd">APScheduler</text></g>
+    <g transform="translate(605,332)"><rect width="110" height="28" rx="14" fill="#0b1224" stroke="#4facfe"/><text x="55" y="18" text-anchor="middle" fill="#4facfe">SIP / VoIP</text></g>
+  </g>
 </svg>

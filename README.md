@@ -11,23 +11,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=Senior+AI+Engineer+%7C+Voice+AI+%26+Multi-Agent+Systems;Building+low-latency+LLM+pipelines+in+production;Let's+build+something+that+ships" alt="Typing headline"/>
 </p>
 
-<!-- CONNECT -->
+<!-- CONNECT (each card is a real link) -->
 <p align="center">
-  <img src="./assets/connect.svg" alt="Let's connect" width="100%"/>
+  <img src="./assets/connect-header.svg" alt="Let's connect" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan941394/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pawankumarwork9413@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Serious_inquiries-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <a href="https://www.linkedin.com/in/pawan941394/"><img src="./assets/card-linkedin.svg" alt="Connect on LinkedIn" width="32%"/></a>
+  <a href="mailto:pawankumarwork9413@gmail.com"><img src="./assets/card-email.svg" alt="Email me" width="32%"/></a>
+  <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1"><img src="./assets/card-youtube.svg" alt="Subscribe on YouTube" width="32%"/></a>
 </p>
 
 <p align="center">
@@ -75,19 +67,16 @@ flowchart LR
   <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
-<!-- SPOTLIGHT -->
-<p align="center">
-  <img src="./assets/spotlight.svg" alt="Spotlight builds" width="100%"/>
-</p>
+<!-- SPOTLIGHT (each card is a real link) -->
+<h2 align="center">Spotlight builds</h2>
 
 <p align="center">
-  <a href="https://github.com/pawan941394/Nse-Option-Chain---LLM-Project"><img src="https://img.shields.io/badge/Open-NSE_Option_Chain-00f2fe?style=for-the-badge" alt="NSE"/></a>
-  &nbsp;
-  <a href="https://github.com/pawan941394/agentscope-memory-finance-bot"><img src="https://img.shields.io/badge/Open-Finance_Bot-7f5aeb?style=for-the-badge" alt="Finance Bot"/></a>
-  &nbsp;
-  <a href="https://github.com/pawan941394/AI-YouTube-Video-Automation"><img src="https://img.shields.io/badge/Open-YT_Automation-ff0844?style=for-the-badge" alt="YT Automation"/></a>
-  &nbsp;
-  <a href="https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project"><img src="https://img.shields.io/badge/Open-MedX_Tutor-4facfe?style=for-the-badge" alt="MedX"/></a>
+  <a href="https://github.com/pawan941394/Nse-Option-Chain---LLM-Project"><img src="./assets/spot-nse.svg" alt="NSE Option Chain Analyst" width="49%"/></a>
+  <a href="https://github.com/pawan941394/agentscope-memory-finance-bot"><img src="./assets/spot-agentscope.svg" alt="AgentScope Finance Bot" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/pawan941394/AI-YouTube-Video-Automation"><img src="./assets/spot-ytauto.svg" alt="AI YouTube Automation" width="49%"/></a>
+  <a href="https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project"><img src="./assets/spot-medx.svg" alt="MedX Radiographic Tutor" width="49%"/></a>
 </p>
 
 <p align="center">
@@ -235,9 +224,9 @@ flowchart LR
   <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
-<!-- FOOTER CONNECT -->
+<!-- FOOTER CONNECT (banner links to Calendly) -->
 <p align="center">
-  <img src="./assets/footer.svg" alt="Ready to connect" width="100%"/>
+  <a href="https://calendly.com/pawankumarwork/30min"><img src="./assets/footer.svg" alt="Book a 30 minute call" width="100%"/></a>
 </p>
 
 <p align="center">

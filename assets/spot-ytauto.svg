@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 176" width="100%" role="img" aria-label="AI YouTube Automation">
+  <g transform="translate(5,6)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="3.2s" begin="0.7s" repeatCount="indefinite"/>
+      <rect width="430" height="162" rx="14" fill="#0b1224" stroke="#ff0844" stroke-width="1.5">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.6s" begin="0.7s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="0" width="6" height="162" rx="3" fill="#ff0844"/>
+      <text x="24" y="34" fill="#ff6b8a" font-size="11" font-weight="800" font-family="Segoe UI, sans-serif">AUTOMATION | CONTENT</text>
+      <text x="24" y="60" fill="#f8fafc" font-size="16" font-weight="800" font-family="Segoe UI, sans-serif">AI YouTube Automation</text>
+      <text x="24" y="88" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">Topic to script to media to thumbnail</text>
+      <text x="24" y="107" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">to SEO to auto-publish. Full factory.</text>
+      <text x="24" y="138" fill="#586799" font-size="11" font-family="Consolas, monospace">OpenAI | FFmpeg | YouTube API</text>
+      <text x="406" y="138" text-anchor="end" fill="#ff6b8a" font-size="11" font-weight="700" font-family="Consolas, monospace">open repo -&gt;
+        <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" begin="0.7s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>

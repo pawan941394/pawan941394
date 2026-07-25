@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 84" width="100%" role="img" aria-label="Let's connect">
+  <defs>
+    <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/><stop offset="100%" stop-color="#7f5aeb"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1f"/><stop offset="100%" stop-color="#060814"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="84" rx="14" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="897" height="81" rx="13" fill="none" stroke="url(#cg)" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="0" width="70" height="84" fill="url(#cg)" opacity="0.07">
+    <animate attributeName="x" values="-70;900" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="40" cy="42" r="4" fill="#00f2fe">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="56" y="47" fill="#00f2fe" font-family="Segoe UI, system-ui, sans-serif" font-size="12" font-weight="700" letter-spacing="2">SIGNAL ONLINE</text>
+  <text x="450" y="40" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="800" letter-spacing="1">LET'S CONNECT</text>
+  <text x="450" y="63" text-anchor="middle" fill="#586799" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Opportunities | Collaborations | Build in public - click a card below</text>
+  <text x="845" y="47" text-anchor="end" fill="#7f5aeb" font-family="Consolas, monospace" font-size="13" font-weight="700">&gt; open()
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  </text>
+</svg>
