@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" role="img" aria-label="What I ship">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/><stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f5aeb"/><stop offset="100%" stop-color="#ff0844"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1f"/><stop offset="100%" stop-color="#060814"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes wave {
+      0%{d:path('M0,20 Q25,5 50,20 T100,20 T150,20 T200,20')}
+      50%{d:path('M0,20 Q25,35 50,20 T100,20 T150,20 T200,20')}
+      100%{d:path('M0,20 Q25,5 50,20 T100,20 T150,20 T200,20')}
+    }
+    @keyframes bar { 0%,100%{transform:scaleY(.5)} 50%{transform:scaleY(1)} }
+    @keyframes glowLine { 0%,100%{opacity:.4} 50%{opacity:1} }
+    @keyframes fadeIn { 0%{opacity:.5} 50%{opacity:1} 100%{opacity:.5} }
+    .titleGlow{animation:fadeIn 3s ease-in-out infinite}
+    .wave{fill:none;stroke:url(#g1);stroke-width:2;animation:wave 2.5s ease-in-out infinite}
+    .b{transform-origin:bottom;animation:bar 1.6s ease-in-out infinite}
+    .b2{animation-delay:.2s}.b3{animation-delay:.4s}.b4{animation-delay:.6s}.b5{animation-delay:.8s}
+    .line{animation:glowLine 2s ease-in-out infinite}
+  </style>
+  <rect width="900" height="320" rx="16" fill="url(#bg)"/>
+  <text x="450" y="42" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, system-ui, sans-serif" font-size="20" font-weight="800" letter-spacing="2" class="titleGlow">WHAT I SHIP</text>
+  <line x1="360" y1="54" x2="540" y2="54" stroke="url(#g1)" stroke-width="2" class="line"/>
+
+  <!-- Voice AI card -->
+  <rect x="30" y="75" width="410" height="220" rx="14" fill="#0b1224" stroke="#00f2fe" stroke-opacity=".45" stroke-width="1.5"/>
+  <text x="55" y="110" fill="#00f2fe" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">VOICE AI &amp; CONVERSATIONAL LLMs</text>
+  <!-- waveform -->
+  <g transform="translate(55,125)">
+    <path class="wave" d="M0,20 Q25,5 50,20 T100,20 T150,20 T200,20"/>
+  </g>
+  <text x="55" y="180" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" Sub-second STT / TTS pipelines</text>
+  <text x="55" y="205" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" Multi-turn agents + interruptibility</text>
+  <text x="55" y="230" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" SIP / VoIP dialer integrations</text>
+  <text x="55" y="260" fill="#00f2fe" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif" letter-spacing="1">LATENCY-TUNED · PRODUCTION</text>
+
+  <!-- Quant card -->
+  <rect x="460" y="75" width="410" height="220" rx="14" fill="#0b1224" stroke="#7f5aeb" stroke-opacity=".55" stroke-width="1.5"/>
+  <text x="485" y="110" fill="#c4b5fd" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">QUANT AGENTS &amp; RAG</text>
+  <!-- bars -->
+  <g transform="translate(485,125)" fill="url(#g2)">
+    <rect class="b" x="0" y="8" width="14" height="28" rx="2"/>
+    <rect class="b b2" x="22" y="0" width="14" height="36" rx="2"/>
+    <rect class="b b3" x="44" y="12" width="14" height="24" rx="2"/>
+    <rect class="b b4" x="66" y="4" width="14" height="32" rx="2"/>
+    <rect class="b b5" x="88" y="10" width="14" height="26" rx="2"/>
+  </g>
+  <text x="485" y="180" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" Multi-agent market research systems</text>
+  <text x="485" y="205" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" 8+ algo strategies · +25% speed</text>
+  <text x="485" y="230" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">" Grounded finance bots (Agno)</text>
+  <text x="485" y="260" fill="#c4b5fd" font-size="11" font-weight="700" font-family="Segoe UI, sans-serif" letter-spacing="1">MULTI-AGENT · TRADING</text>
+</svg>

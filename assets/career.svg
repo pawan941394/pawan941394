@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" width="100%" role="img" aria-label="Professional timeline">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1f"/><stop offset="100%" stop-color="#060814"/>
+    </linearGradient>
+    <linearGradient id="vrail" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe"/><stop offset="33%" stop-color="#ff0844"/><stop offset="66%" stop-color="#7f5aeb"/><stop offset="100%" stop-color="#4facfe"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes flow { to { stroke-dashoffset: -30 } }
+    @keyframes blink { 0%,100%{opacity:.5} 50%{opacity:1} }
+    @keyframes slide { 0%,100%{opacity:.85} 50%{opacity:1} }
+    .vrail{stroke-dasharray:6 8;animation:flow 1.4s linear infinite}
+    .live{animation:blink 1.6s ease-in-out infinite}
+    .row{animation:slide 3s ease-in-out infinite}
+    .r2{animation-delay:.25s}.r3{animation-delay:.5s}.r4{animation-delay:.75s}
+  </style>
+  <rect width="900" height="480" rx="16" fill="url(#bg)"/>
+  <text x="450" y="40" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="800" font-family="Segoe UI, sans-serif" letter-spacing="2">PROFESSIONAL TIMELINE</text>
+  <line x1="120" y1="70" x2="120" y2="450" stroke="url(#vrail)" stroke-width="3" class="vrail"/>
+
+  <!-- Calance -->
+  <g class="row">
+    <circle cx="120" cy="105" r="9" fill="#00f2fe"/>
+    <rect x="160" y="75" width="700" height="80" rx="12" fill="#0b1224" stroke="#00f2fe" stroke-opacity=".45"/>
+    <rect x="170" y="88" width="70" height="20" rx="10" fill="#00f2fe" fill-opacity=".15" stroke="#00f2fe" stroke-opacity=".6"/>
+    <text x="205" y="102" text-anchor="middle" fill="#00f2fe" font-size="9" font-weight="800" font-family="Segoe UI, sans-serif" class="live">ACTIVE</text>
+    <text x="255" y="102" fill="#00f2fe" font-size="12" font-weight="700" font-family="Consolas, monospace">Mar 2026  Present</text>
+    <text x="175" y="130" fill="#f8fafc" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">AI Engineer · Calance</text>
+    <text x="175" y="148" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">Production AI backends · multi-model LLMs · cost + guardrails</text>
+  </g>
+  <!-- Primesource -->
+  <g class="row r2">
+    <circle cx="120" cy="205" r="9" fill="#ff0844"/>
+    <rect x="160" y="175" width="700" height="80" rx="12" fill="#0b1224" stroke="#ff0844" stroke-opacity=".4"/>
+    <text x="175" y="200" fill="#ff6b8a" font-size="12" font-weight="700" font-family="Consolas, monospace">Dec 2025  Mar 2026</text>
+    <text x="175" y="225" fill="#f8fafc" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">Senior AI Engineer · Primesource</text>
+    <text x="175" y="243" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">Voice AI STT/TTS · multi-turn calling agents · sub-second latency</text>
+  </g>
+  <!-- FinSocial -->
+  <g class="row r3">
+    <circle cx="120" cy="305" r="9" fill="#7f5aeb"/>
+    <rect x="160" y="275" width="700" height="80" rx="12" fill="#0b1224" stroke="#7f5aeb" stroke-opacity=".45"/>
+    <text x="175" y="300" fill="#c4b5fd" font-size="12" font-weight="700" font-family="Consolas, monospace">Oct 2024  Nov 2025</text>
+    <text x="175" y="325" fill="#f8fafc" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">AI Engineer · FinSocial Digital Systems</text>
+    <text x="175" y="343" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">Multi-agent quant research · voice / video / chat trading agents</text>
+  </g>
+  <!-- BytEquity -->
+  <g class="row r4">
+    <circle cx="120" cy="405" r="9" fill="#4facfe"/>
+    <rect x="160" y="375" width="700" height="80" rx="12" fill="#0b1224" stroke="#4facfe" stroke-opacity=".4"/>
+    <text x="175" y="400" fill="#4facfe" font-size="12" font-weight="700" font-family="Consolas, monospace">Dec 2023  Aug 2024</text>
+    <text x="175" y="425" fill="#f8fafc" font-size="15" font-weight="800" font-family="Segoe UI, sans-serif">Data Analyst &amp; Python Dev · BytEquity</text>
+    <text x="175" y="443" fill="#94a3b8" font-size="12" font-family="Segoe UI, sans-serif">8 algo strategies live · +25% execution speed · scraping + automation</text>
+  </g>
+</svg>

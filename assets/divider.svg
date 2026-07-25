@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 28" width="100%" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7f5aeb" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ff0844" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes slide { 0%{transform:translateX(-200px);opacity:0} 40%{opacity:1} 100%{transform:translateX(200px);opacity:0} }
+    .beam{animation:slide 3.5s ease-in-out infinite}
+  </style>
+  <line x1="80" y1="14" x2="820" y2="14" stroke="url(#d)" stroke-width="1.5"/>
+  <rect class="beam" x="350" y="10" width="80" height="8" rx="4" fill="#00f2fe" opacity=".7"/>
+  <circle cx="450" cy="14" r="3.5" fill="#00f2fe"/>
+</svg>

@@ -1,6 +1,6 @@
 <!-- ============================================================
   Pawan Kumar — GitHub Profile
-  Built for: first-impression wow + LinkedIn / Email / YouTube
+  Animated SVG sections (GitHub strips CSS; SVG animates)
   ============================================================ -->
 
 <p align="center">
@@ -11,9 +11,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=70&lines=Senior+AI+Engineer+%7C+Voice+AI+%26+Multi-Agent+Systems;Building+low-latency+LLM+pipelines+in+production;Let's+build+something+that+ships" alt="Typing headline"/>
 </p>
 
----
+<!-- CONNECT -->
+<p align="center">
+  <img src="./assets/connect.svg" alt="Let's connect" width="100%"/>
+</p>
 
-<!-- ========== CONNECT STRIP (PRIMARY) ========== -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan941394/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,19 +38,13 @@
 </p>
 
 <p align="center">
-  <strong>I design production Voice AI, multi-agent LLM systems, and quant trading backends.</strong><br/>
-  Open to collaborations, opportunities, and building in public.
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
----
-
-## What I ship
-
-| Voice AI & Conversational LLMs | Quant Agents & RAG |
-|:---|:---|
-| Sub-second STT/TTS pipelines | Multi-agent market research systems |
-| Multi-turn agents with interruptibility | 8+ algo strategies on Fyers & Kite (+25% speed) |
-| SIP/VoIP dialer integrations | Grounded finance bots (Streamlit + Agno) |
+<!-- WHAT I SHIP -->
+<p align="center">
+  <img src="./assets/ship.svg" alt="What I ship" width="100%"/>
+</p>
 
 ```mermaid
 flowchart LR
@@ -66,98 +62,66 @@ flowchart LR
   style F fill:#0b0f19,stroke:#ff0844,color:#f8fafc
 ```
 
----
-
-## The journey
-
-> *"You don't need a perfect start. You need the audacity to start."*
-
-- **Age 15 — Cybersecurity:** Ethical hacking YouTube → **5,000+ subs** in under a year
-- **College — Full-stack + freelancing:** Led a team of **5** at a startup for 7 months
-- **AI awakening:** Architected a humanoid robotics interface → deep pivot into ML / DL
-- **Today:** Production Voice AI agents, multi-agent quant systems, enterprise RAG backends
-
----
-
-## Spotlight builds
-
-### [NSE Option Chain — Generative AI Analyst](https://github.com/pawan941394/Nse-Option-Chain---LLM-Project)
-`Python` `GenAI` `Streamlit` `NSE`
-Real-time option-chain analytics with LLM reasoning for support/resistance, volatility, and trade narratives.
-
-### [AgentScope Memory Finance Bot](https://github.com/pawan941394/agentscope-memory-finance-bot)
-`Python` `AgentScope` `Persistent Memory`
-Multi-agent finance assistant that remembers portfolios, risk profiles, and trade rules across sessions.
-
-### [AI YouTube Video Automation](https://github.com/pawan941394/AI-YouTube-Video-Automation)
-`OpenAI` `FFmpeg` `YouTube API`
-Topic → script → visuals/audio → thumbnail → SEO tags → auto-publish. End-to-end content factory.
-
-### [MedX Tutor — Radiographic Imaging](https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project)
-`TypeScript` `Stable Diffusion` `LLMs`
-Hackathon build: synthetic X-rays from diagnostic notes for medical education.
-
----
-
-## Tech stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Web_Scraping-00F2FE?style=for-the-badge&logo=webscraper&logoColor=black" alt="Scraping"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
----
-
-## Professional timeline
-
-| When | Role | Focus |
-|:---|:---|:---|
-| **Mar 2026 – Present** | **AI Engineer** · Calance, Gurugram | Production AI backends, multi-model LLM systems, cost + guardrails |
-| **Dec 2025 – Mar 2026** | **Senior AI Engineer** · Primesource Consulting | Voice AI STT/TTS, multi-turn calling agents, sub-second latency |
-| **Oct 2024 – Nov 2025** | **AI Engineer** · FinSocial Digital Systems (Remote) | Multi-agent quant research, voice/video/chat trading agents |
-| **Dec 2023 – Aug 2024** | **Data Analyst & Python Dev** · BytEquity, Noida | 8 algo strategies live · +25% execution speed · scraping + automation |
-
----
-
-## YouTube — build in public
+<!-- JOURNEY -->
+<p align="center">
+  <img src="./assets/journey.svg" alt="The journey" width="100%"/>
+</p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@Pawankumar-py4tk">
-    <img src="https://img.shields.io/badge/YouTube-@Pawankumar--py4tk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Channel"/>
-  </a>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
+
+<!-- SPOTLIGHT -->
+<p align="center">
+  <img src="./assets/spotlight.svg" alt="Spotlight builds" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pawan941394/Nse-Option-Chain---LLM-Project"><img src="https://img.shields.io/badge/Open-NSE_Option_Chain-00f2fe?style=for-the-badge" alt="NSE"/></a>
   &nbsp;
+  <a href="https://github.com/pawan941394/agentscope-memory-finance-bot"><img src="https://img.shields.io/badge/Open-Finance_Bot-7f5aeb?style=for-the-badge" alt="Finance Bot"/></a>
+  &nbsp;
+  <a href="https://github.com/pawan941394/AI-YouTube-Video-Automation"><img src="https://img.shields.io/badge/Open-YT_Automation-ff0844?style=for-the-badge" alt="YT Automation"/></a>
+  &nbsp;
+  <a href="https://github.com/pawan941394/AI-X-Ray-Imaging-Hackathon-Project"><img src="https://img.shields.io/badge/Open-MedX_Tutor-4facfe?style=for-the-badge" alt="MedX"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
+
+<!-- TECH STACK -->
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech stack" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
+
+<!-- CAREER -->
+<p align="center">
+  <img src="./assets/career.svg" alt="Professional timeline" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
+
+<!-- YOUTUBE -->
+<p align="center">
   <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/Subscribe-Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+    <img src="./assets/youtube.svg" alt="YouTube — Subscribe" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  Production-grade AI breakdowns — multi-agent systems, Streamlit dashboards,<br/>
-  voice chatbots, and web scraping automation.
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
-
----
 
 ## Repository atlas
 
@@ -253,7 +217,9 @@ Hackathon build: synthetic X-rays from diagnostic notes for medical education.
 
 </details>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
 
 ## Live stats
 
@@ -265,11 +231,14 @@ Hackathon build: synthetic X-rays from diagnostic notes for medical education.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan941394&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%"/>
+</p>
 
-## Let's connect
-
-Building Voice AI, scaling LLM pipelines, or shipping quant strategies — let's talk.
+<!-- FOOTER CONNECT -->
+<p align="center">
+  <img src="./assets/footer.svg" alt="Ready to connect" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pawan941394/">
@@ -289,8 +258,4 @@ Building Voice AI, scaling LLM pipelines, or shipping quant strategies — let's
   <a href="https://pawankumar.dorik.io/">Portfolio</a> ·
   <a href="https://calendly.com/pawankumarwork/30min">Book 30 min</a> ·
   <a href="https://leetcode.com/u/pawan941394/">LeetCode</a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 </p>
