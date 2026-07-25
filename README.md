@@ -258,12 +258,11 @@ Hackathon build: synthetic X-rays from diagnostic notes for medical education.
 ## Live stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=pawan941394&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=pawan941394&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pawan941394&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan941394&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan941394&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
 </p>
 
 ---
@@ -293,5 +292,5 @@ Building Voice AI, scaling LLM pipelines, or shipping quant strategies — let's
 </p>
 
 <p align="center">
-  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random quote"/>
 </p>
