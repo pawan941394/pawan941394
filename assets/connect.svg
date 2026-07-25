@@ -27,7 +27,7 @@
   <circle cx="40" cy="40" r="4" fill="#00f2fe" class="dot" filter="url(#glow)"/>
   <text x="56" y="45" fill="#00f2fe" font-family="Segoe UI, system-ui, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SIGNAL ONLINE</text>
   <text x="450" y="48" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="800" letter-spacing="1">LET'S CONNECT</text>
-  <text x="450" y="72" text-anchor="middle" fill="#586799" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Opportunities · Collaborations · Build in public</text>
+  <text x="450" y="72" text-anchor="middle" fill="#586799" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Opportunities | Collaborations | Build in public</text>
 
   <!-- LinkedIn card -->
   <g class="card" transform="translate(60,95)">

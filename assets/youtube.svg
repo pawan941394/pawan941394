@@ -34,7 +34,7 @@
   </g>
 
   <text x="330" y="75" fill="#f8fafc" font-size="22" font-weight="800" font-family="Segoe UI, sans-serif">BUILD IN PUBLIC</text>
-  <text x="330" y="105" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">Multi-agent systems · Streamlit · Voice chatbots · Scraping</text>
+  <text x="330" y="105" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">Multi-agent systems | Streamlit | Voice chatbots | Scraping</text>
   <text x="330" y="128" fill="#586799" font-size="12" font-family="Segoe UI, sans-serif">@Pawankumar-py4tk  production AI, broken down end-to-end</text>
 
   <rect x="330" y="150" width="200" height="40" rx="20" fill="#FF0000" class="sub"/>
