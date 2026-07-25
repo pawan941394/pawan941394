@@ -63,7 +63,7 @@
       </td>
       <td width="50%" style="padding: 15px; vertical-align: top;">
         <strong style="color: #00F2FE; font-size: 14px;">📬 Connect Operations</strong><br/>
-        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;"><strong>Email:</strong> pawankumarwork9413@gmail.com<br/><strong>Mobile:</strong> +91 9413944510 / +91 9057714590</span>
+        <span style="color: #94a3b8; font-size: 13px; display: inline-block; margin-top: 5px; line-height: 1.4;"><strong>Email:</strong> pawankumarwork9413@gmail.com<br/><strong>Mobile:</strong>  +91 9057714590</span>
       </td>
     </tr>
   </tbody>
