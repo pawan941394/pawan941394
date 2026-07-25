@@ -13,7 +13,7 @@
 
 <!-- CONNECT -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/connect.svg" alt="Let's connect" width="100%"/>
+  <img src="./assets/connect.svg" alt="Let's connect" width="100%"/>
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- WHAT I SHIP -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/ship.svg" alt="What I ship" width="100%"/>
+  <img src="./assets/ship.svg" alt="What I ship" width="100%"/>
 </p>
 
 ```mermaid
@@ -63,21 +63,21 @@ flowchart LR
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- JOURNEY -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/journey.svg" alt="The journey" width="100%"/>
+  <img src="./assets/journey.svg" alt="The journey" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- SPOTLIGHT -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/spotlight.svg" alt="Spotlight builds" width="100%"/>
+  <img src="./assets/spotlight.svg" alt="Spotlight builds" width="100%"/>
 </p>
 
 <p align="center">
@@ -91,36 +91,36 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- TECH STACK -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/stack.svg" alt="Tech stack" width="100%"/>
+  <img src="./assets/stack.svg" alt="Tech stack" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- CAREER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/career.svg" alt="Professional timeline" width="100%"/>
+  <img src="./assets/career.svg" alt="Professional timeline" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- YOUTUBE -->
 <p align="center">
   <a href="https://www.youtube.com/@Pawankumar-py4tk?sub_confirmation=1">
-    <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/youtube.svg" alt="YouTube — Subscribe" width="100%"/>
+    <img src="./assets/youtube.svg" alt="YouTube — Subscribe" width="100%"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 ## Repository atlas
@@ -218,7 +218,7 @@ flowchart LR
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 ## Live stats
@@ -232,12 +232,12 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/divider.svg" alt="" width="100%"/>
+  <img src="./assets/divider.svg" alt="" width="100%"/>
 </p>
 
 <!-- FOOTER CONNECT -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pawan941394/pawan941394/48766c1a84d8c02bcfff954c0a1968746c12fcef/assets/footer.svg" alt="Ready to connect" width="100%"/>
+  <img src="./assets/footer.svg" alt="Ready to connect" width="100%"/>
 </p>
 
 <p align="center">
