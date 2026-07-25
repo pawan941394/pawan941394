@@ -286,37 +286,37 @@
   <!-- 5. Futuristic Typography (Center-Left) -->
   <g transform="translate(180, 0)">
     <!-- Floating Subtitle Label -->
-    <rect x="0" y="115" width="125" height="20" rx="10" fill="#7f5aeb" fill-opacity="0.15" stroke="#7f5aeb" stroke-opacity="0.3" stroke-width="1"/>
-    <text x="62.5" y="129" fill="#7f5aeb" font-size="10" font-weight="700" letter-spacing="1.5" text-anchor="middle">HELLO WORLD</text>
+    <rect x="0" y="108" width="125" height="20" rx="10" fill="#7f5aeb" fill-opacity="0.15" stroke="#7f5aeb" stroke-opacity="0.3" stroke-width="1"/>
+    <text x="62.5" y="122" fill="#7f5aeb" font-size="10" font-weight="700" letter-spacing="1.5" text-anchor="middle">HELLO WORLD</text>
+
+    <!-- Open to connect chip -->
+    <rect x="136" y="108" width="118" height="20" rx="10" fill="#00f2fe" fill-opacity="0.08" stroke="#00f2fe" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="150" cy="118" r="3" fill="#00f2fe"/>
+    <text x="198" y="122" fill="#00f2fe" font-size="9" font-weight="700" letter-spacing="1.2" text-anchor="middle">OPEN TO CONNECT</text>
 
     <!-- Main Title "PAWAN KUMAR" -->
-    <text x="0" y="180" fill="#ffffff" font-size="44" class="main-title">PAWAN KUMAR</text>
+    <text x="0" y="175" fill="#ffffff" font-size="44" class="main-title">PAWAN KUMAR</text>
     
     <!-- Changing Holographic Subtitles -->
-    <g transform="translate(0, 218)">
-      <!-- Command line prefix -->
+    <g transform="translate(0, 212)">
       <text x="0" y="0" fill="#7f5aeb" font-size="18" font-family="monospace" font-weight="700" opacity="0.8">> </text>
       
-      <!-- Subtitle 1: Senior AI Engineer -->
       <g class="subtitle-1">
         <text x="20" y="0" fill="#00f2fe" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">Senior AI Engineer</text>
         <rect x="238" y="-15" width="10" height="18" class="cursor"/>
       </g>
       
-      <!-- Subtitle 2: Data Scientist -->
       <g class="subtitle-2">
-        <text x="20" y="0" fill="#ff0844" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">Data Scientist</text>
-        <rect x="188" y="-15" width="10" height="18" class="cursor"/>
+        <text x="20" y="0" fill="#ff0844" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">Voice AI Systems</text>
+        <rect x="208" y="-15" width="10" height="18" class="cursor"/>
       </g>
 
-      <!-- Subtitle 3: YouTube Creator -->
       <g class="subtitle-3">
         <text x="20" y="0" fill="#4facfe" font-size="18" font-family="monospace" font-weight="700" letter-spacing="0.5">YouTube Creator</text>
         <rect x="198" y="-15" width="10" height="18" class="cursor"/>
       </g>
     </g>
 
-    <!-- Brief bio tagline -->
-    <text x="0" y="252" fill="#586799" font-size="12" font-weight="500" letter-spacing="0.5">Building high-scale Voice AI, RAG Systems, &amp; Algorithmic Agents</text>
+    <text x="0" y="248" fill="#586799" font-size="12" font-weight="500" letter-spacing="0.5">Voice AI · Multi-Agent LLMs · Algorithmic Trading · Let's connect</text>
   </g>
 </svg>
