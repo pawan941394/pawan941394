@@ -16,8 +16,8 @@
   <rect width="900" height="160" rx="16" fill="url(#bg)"/>
   <rect x="1" y="1" width="898" height="158" rx="15" fill="none" stroke="url(#neon)" stroke-opacity=".5" class="glow"/>
   <text x="450" y="55" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="800" font-family="Segoe UI, sans-serif">READY TO BUILD SOMETHING THAT SHIPS?</text>
-  <text x="450" y="85" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">Voice AI · LLM pipelines · Quant strategies  let's talk</text>
+  <text x="450" y="85" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="Segoe UI, sans-serif">Voice AI Â· LLM pipelines Â· Quant strategies  let's talk</text>
   <text x="380" y="120" text-anchor="middle" fill="#00f2fe" font-size="14" font-family="Consolas, monospace" font-weight="700">&gt; connect_now()</text>
   <rect x="500" y="105" width="10" height="18" fill="#00f2fe" class="cursor"/>
-  <text x="450" y="145" text-anchor="middle" fill="#586799" font-size="11" font-family="Segoe UI, sans-serif">LinkedIn · Email · YouTube  “ use the buttons below</text>
+  <text x="450" y="145" text-anchor="middle" fill="#586799" font-size="11" font-family="Segoe UI, sans-serif">LinkedIn Â· Email Â· YouTube  " use the buttons below</text>
 </svg>

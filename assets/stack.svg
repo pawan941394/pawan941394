@@ -47,5 +47,5 @@
   <g class="chip d8" transform="translate(510,250)"><rect width="140" height="36" rx="18" fill="#0b1224" stroke="#00f2fe"/><text x="70" y="23" text-anchor="middle" fill="#00f2fe" font-size="12" font-weight="700" font-family="Segoe UI, sans-serif">Web Scraping</text></g>
   <g class="chip d1" transform="translate(670,250)"><rect width="100" height="36" rx="18" fill="#0b1224" stroke="#000"/><text x="50" y="23" text-anchor="middle" fill="#e2e8f0" font-size="12" font-weight="700" font-family="Segoe UI, sans-serif">Flask</text></g>
 
-  <text x="450" y="320" text-anchor="middle" fill="#586799" font-size="11" font-family="Segoe UI, sans-serif">Languages · AI/ML · Frameworks · Cloud</text>
+  <text x="450" y="320" text-anchor="middle" fill="#586799" font-size="11" font-family="Segoe UI, sans-serif">Languages Â· AI/ML Â· Frameworks Â· Cloud</text>
 </svg>
